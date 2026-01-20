@@ -1,0 +1,2001 @@
+song_id,dataset,title,artist,genre,arousal_mean,arousal_std,valence_mean,valence_std,emotion_4Q,emotion_2Q
+ML1,MoodyLyrics4Q,I Want Your Sex,George Michael,,,,,,happy,positive
+ML2,MoodyLyrics4Q,Pussy Liquor,Rob Zombie,,,,,,angry,negative
+ML3,MoodyLyrics4Q,12,Katatonia,,,,,,sad,negative
+ML4,MoodyLyrics4Q,Swinging On A Star,Bing Crosby,,,,,,happy,positive
+ML5,MoodyLyrics4Q,Get Back,Ludacris,,,,,,angry,negative
+ML6,MoodyLyrics4Q,Violet,Hole,,,,,,angry,negative
+ML7,MoodyLyrics4Q,Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart,Manic Street Preachers,,,,,,angry,negative
+ML8,MoodyLyrics4Q,If You're Gonna Leave,Emerson Hart,,,,,,sad,negative
+ML9,MoodyLyrics4Q,Architecture of Aggression,Megadeth,,,,,,angry,negative
+ML10,MoodyLyrics4Q,Heart of Glass,Blondie,,,,,,happy,positive
+ML11,MoodyLyrics4Q,Impossible,The Clientele,,,,,,relaxed,positive
+ML12,MoodyLyrics4Q,Love Is All,The Tallest Man on Earth,,,,,,sad,negative
+ML13,MoodyLyrics4Q,Silence Is Golden,Garbage,,,,,,angry,negative
+ML14,MoodyLyrics4Q,And It Stoned Me,Van Morrison,,,,,,relaxed,positive
+ML15,MoodyLyrics4Q,I'm On My Way,The Proclaimers,,,,,,happy,positive
+ML16,MoodyLyrics4Q,My Gun Go Off,50 Cent,,,,,,angry,negative
+ML17,MoodyLyrics4Q,Mamacita,Collie Buddz,,,,,,happy,positive
+ML18,MoodyLyrics4Q,Coming Home,Avenged Sevenfold,,,,,,angry,negative
+ML19,MoodyLyrics4Q,How Does It Feel,Avril Lavigne,,,,,,sad,negative
+ML20,MoodyLyrics4Q,Never Went to Church,The Streets,,,,,,sad,negative
+ML21,MoodyLyrics4Q,Chuckie,Geto Boys,,,,,,angry,negative
+ML22,MoodyLyrics4Q,September,David Sylvian,,,,,,relaxed,positive
+ML23,MoodyLyrics4Q,The Tide Began To Rise,Demon Hunter,,,,,,sad,negative
+ML24,MoodyLyrics4Q,Better Left Unsaid,Lily Holbrook,,,,,,sad,negative
+ML25,MoodyLyrics4Q,Illusion,Creed,,,,,,angry,negative
+ML26,MoodyLyrics4Q,Matkustaja,Egotrippi,,,,,,sad,negative
+ML27,MoodyLyrics4Q,Don't Give Up,The Whitest Boy Alive,,,,,,relaxed,positive
+ML28,MoodyLyrics4Q,By the Pain I See in Others,Opeth,,,,,,sad,negative
+ML29,MoodyLyrics4Q,Better Than This,Salt The Wound,,,,,,angry,negative
+ML30,MoodyLyrics4Q,Aces High,Iron Maiden,,,,,,angry,negative
+ML31,MoodyLyrics4Q,The Prettiest Thing,Norah Jones,,,,,,relaxed,positive
+ML32,MoodyLyrics4Q,Written,Lamb,,,,,,relaxed,positive
+ML33,MoodyLyrics4Q,Rockstar,Nickleback,,,,,,angry,negative
+ML34,MoodyLyrics4Q,Megalodon,Mastodon,,,,,,angry,negative
+ML35,MoodyLyrics4Q,No One Else,Natalie Walker,,,,,,relaxed,positive
+ML36,MoodyLyrics4Q,Country Love Song,Stephen Lynch,,,,,,happy,positive
+ML37,MoodyLyrics4Q,Bright Red Star,Stereophonics,,,,,,sad,negative
+ML38,MoodyLyrics4Q,Can Can,Bad Manners,,,,,,happy,positive
+ML39,MoodyLyrics4Q,Young,Hollywood Undead,,,,,,angry,negative
+ML40,MoodyLyrics4Q,The Magnificent Tree,Hooverphonic,,,,,,relaxed,positive
+ML41,MoodyLyrics4Q,Quiet Place,Working for a Nuclear Free City,,,,,,relaxed,positive
+ML42,MoodyLyrics4Q,Atlantic City,Bruce Springsteen,,,,,,sad,negative
+ML43,MoodyLyrics4Q,Invisible,Alison Moyet,,,,,,sad,negative
+ML44,MoodyLyrics4Q,We Made You,Eminem,,,,,,happy,positive
+ML45,MoodyLyrics4Q,I Hate The Way,Polly Scattergood,,,,,,sad,negative
+ML46,MoodyLyrics4Q,Wherever You Are,Ulrich Schnauss,,,,,,relaxed,positive
+ML47,MoodyLyrics4Q,We Will All Go Together When We Go,Tom Lehrer,,,,,,happy,positive
+ML48,MoodyLyrics4Q,Poor Thing,Helena Bonham Carter & Johnny Depp,,,,,,sad,negative
+ML49,MoodyLyrics4Q,The World Needs a Hero,Megadeth,,,,,,angry,negative
+ML50,MoodyLyrics4Q,Life Is A Pigsty,Morrissey,,,,,,sad,negative
+ML51,MoodyLyrics4Q,Agitated,Muse,,,,,,angry,negative
+ML52,MoodyLyrics4Q,Fields Of Gold,Fourplay,,,,,,relaxed,positive
+ML53,MoodyLyrics4Q,Summer Nights,Rascal Flatts,,,,,,happy,positive
+ML54,MoodyLyrics4Q,Adios Ayer,José Padilla,,,,,,relaxed,positive
+ML55,MoodyLyrics4Q,Jungle Drums,Emiliana Torrini,,,,,,happy,positive
+ML56,MoodyLyrics4Q,The Breeze,Dr. Dog,,,,,,relaxed,positive
+ML57,MoodyLyrics4Q,Bees & butterflies,Girls In Hawaii,,,,,,relaxed,positive
+ML58,MoodyLyrics4Q,Dirge Inferno,Cradle of Filth,,,,,,angry,negative
+ML59,MoodyLyrics4Q,Big Big Love (Fig. 2),Foals,,,,,,relaxed,positive
+ML60,MoodyLyrics4Q,Welcome Home (Sanitarium),Metallica,,,,,,sad,negative
+ML61,MoodyLyrics4Q,Little Bird,Imogen Heap,,,,,,relaxed,positive
+ML62,MoodyLyrics4Q,Do You Know How It Feels,The Flying Burrito Brothers,,,,,,sad,negative
+ML63,MoodyLyrics4Q,Easier,Grizzly Bear,,,,,,relaxed,positive
+ML64,MoodyLyrics4Q,Sinners Like Me,Eric Church,,,,,,relaxed,positive
+ML65,MoodyLyrics4Q,Roll On Down The Highway,Bachman-Turner Overdrive,,,,,,happy,positive
+ML66,MoodyLyrics4Q,Gimme All Your Lovin',ZZ Top,,,,,,happy,positive
+ML67,MoodyLyrics4Q,War?,System of a Down,,,,,,angry,negative
+ML68,MoodyLyrics4Q,Feuer Frei!,Nachtmahr,,,,,,angry,negative
+ML69,MoodyLyrics4Q,Bali Ha'i,Stacey Kent,,,,,,relaxed,positive
+ML70,MoodyLyrics4Q,You Belong With Me,Taylor Swift,,,,,,happy,positive
+ML71,MoodyLyrics4Q,Only Anarchists Are Pretty,The World/Inferno Friendship Society,,,,,,happy,positive
+ML72,MoodyLyrics4Q,Like my very own blood,Tiger Lou,,,,,,sad,negative
+ML73,MoodyLyrics4Q,Spiritual Law,Slayer,,,,,,angry,negative
+ML74,MoodyLyrics4Q,Stupid Girl,COLD,,,,,,angry,negative
+ML75,MoodyLyrics4Q,Torn Blue Foam Couch,Grand Archives,,,,,,relaxed,positive
+ML76,MoodyLyrics4Q,Turu Tu Tu...,Ania,,,,,,sad,negative
+ML77,MoodyLyrics4Q,"New York, New York",Reel Big Fish,,,,,,happy,positive
+ML78,MoodyLyrics4Q,Hot Girls In Love,Loverboy,,,,,,happy,positive
+ML79,MoodyLyrics4Q,Bullet Train,Judas Priest,,,,,,angry,negative
+ML80,MoodyLyrics4Q,The Wandering,The Foreshadowing,,,,,,sad,negative
+ML81,MoodyLyrics4Q,Hurtful,Erik Hassle,,,,,,sad,negative
+ML82,MoodyLyrics4Q,Girls & Boys,Good Charlotte,,,,,,happy,positive
+ML83,MoodyLyrics4Q,Before,Riverside,,,,,,sad,negative
+ML84,MoodyLyrics4Q,The One For You,Saybia,,,,,,sad,negative
+ML85,MoodyLyrics4Q,Bricks And Mortar,The Jam,,,,,,angry,negative
+ML86,MoodyLyrics4Q,The Divine Wings Of Tragedy,Symphony X,,,,,,sad,negative
+ML87,MoodyLyrics4Q,Scentless Apprentice,Nirvana,,,,,,angry,negative
+ML88,MoodyLyrics4Q,End Of The Run,Deborah Harry,,,,,,sad,negative
+ML89,MoodyLyrics4Q,Man! I Feel Like A Woman!,Shania Twain,,,,,,happy,positive
+ML90,MoodyLyrics4Q,Mamma,Björn Rosenström,,,,,,happy,positive
+ML91,MoodyLyrics4Q,The Boys Of Summer,The Ataris,,,,,,happy,positive
+ML92,MoodyLyrics4Q,U-Haul,Angie Stone,,,,,,relaxed,positive
+ML93,MoodyLyrics4Q,Dirty Mind,The Pipettes,,,,,,happy,positive
+ML94,MoodyLyrics4Q,If The Lights Go Out,Katie Melua,,,,,,relaxed,positive
+ML95,MoodyLyrics4Q,My Old Man,Steve Goodman,,,,,,sad,negative
+ML96,MoodyLyrics4Q,Deutschland (Has Gotta Die!),Atari Teenage Riot,,,,,,angry,negative
+ML97,MoodyLyrics4Q,Sunday Bloody Sunday,U2,,,,,,angry,negative
+ML98,MoodyLyrics4Q,Lethal,Longing for Dawn,,,,,,sad,negative
+ML99,MoodyLyrics4Q,Metal Militia,Metallica,,,,,,angry,negative
+ML100,MoodyLyrics4Q,Crazy Little Thing Called Love,Queen,,,,,,happy,positive
+ML101,MoodyLyrics4Q,Psycho Killer,Talking Heads,,,,,,angry,negative
+ML102,MoodyLyrics4Q,Lilacs,Matt Costa,,,,,,relaxed,positive
+ML103,MoodyLyrics4Q,I Like to Move It,Reel 2 Real,,,,,,happy,positive
+ML104,MoodyLyrics4Q,Already Gone,Kelly Clarkson,,,,,,sad,negative
+ML105,MoodyLyrics4Q,You're My Thrill,Diana Krall,,,,,,relaxed,positive
+ML106,MoodyLyrics4Q,We Don't Care,Kanye West,,,,,,happy,positive
+ML107,MoodyLyrics4Q,Tennessee Train Tracks,Rocky Votolato,,,,,,relaxed,positive
+ML108,MoodyLyrics4Q,A Conversation With God,Darren Hayes,,,,,,sad,negative
+ML109,MoodyLyrics4Q,"So Come Back, I Am Waiting",Okkervil River,,,,,,sad,negative
+ML110,MoodyLyrics4Q,The Bad Touch,Bloodhound Gang,,,,,,happy,positive
+ML111,MoodyLyrics4Q,Dig,Mudvayne,,,,,,angry,negative
+ML112,MoodyLyrics4Q,Recipe for Hate...Warhorse,Megadeth,,,,,,angry,negative
+ML113,MoodyLyrics4Q,Unchained Melody,Peter Sellers,,,,,,happy,positive
+ML114,MoodyLyrics4Q,Can't Hardly Wait,The Replacements,,,,,,sad,negative
+ML115,MoodyLyrics4Q,Coming Down Again,The Rolling Stones,,,,,,sad,negative
+ML116,MoodyLyrics4Q,Swing hum e meio,Móveis Coloniais de Acaju,,,,,,happy,positive
+ML117,MoodyLyrics4Q,The Enemy Inside,Dream Theater,,,,,,angry,negative
+ML118,MoodyLyrics4Q,Old Dirt Hill (Bring That Beat Back),Dave Matthews Band,,,,,,relaxed,positive
+ML119,MoodyLyrics4Q,All My Heart Can Hold,Maggie Reilly,,,,,,sad,negative
+ML120,MoodyLyrics4Q,Better People,Xavier Rudd,,,,,,relaxed,positive
+ML121,MoodyLyrics4Q,He Stopped Loving Her Today,George Jones,,,,,,sad,negative
+ML122,MoodyLyrics4Q,Las Flores,Café Tacuba,,,,,,happy,positive
+ML123,MoodyLyrics4Q,"They Do, They Don't",Jack Johnson,,,,,,relaxed,positive
+ML124,MoodyLyrics4Q,Crazy Mary,Pearl Jam,,,,,,sad,negative
+ML125,MoodyLyrics4Q,Lady Sings The Blues,Billie Holiday,,,,,,sad,negative
+ML126,MoodyLyrics4Q,Fall,The Saturdays,,,,,,sad,negative
+ML127,MoodyLyrics4Q,My Dearest Darling,Etta James,,,,,,happy,positive
+ML128,MoodyLyrics4Q,Don't Stop Now,Guided by Voices,,,,,,sad,negative
+ML129,MoodyLyrics4Q,Chinese Takeaway,The Adicts,,,,,,happy,positive
+ML130,MoodyLyrics4Q,Chega De Saudade,João Gilberto,,,,,,relaxed,positive
+ML131,MoodyLyrics4Q,The Boys Of Summer,DJ Sammy,,,,,,happy,positive
+ML132,MoodyLyrics4Q,For The Ladies,Stephen Lynch,,,,,,happy,positive
+ML133,MoodyLyrics4Q,Things Can Only Get Better,Howard Jones,,,,,,happy,positive
+ML134,MoodyLyrics4Q,Crystal,New Order,,,,,,happy,positive
+ML135,MoodyLyrics4Q,We in Here,DMX,,,,,,angry,negative
+ML136,MoodyLyrics4Q,Ještě mi scházíš,Jaromír Nohavica,,,,,,sad,negative
+ML137,MoodyLyrics4Q,Two Of Those Too (Album Version),Maria Taylor,,,,,,relaxed,positive
+ML138,MoodyLyrics4Q,River Card,Atlas Sound,,,,,,relaxed,positive
+ML139,MoodyLyrics4Q,The Wake/Hooray Hooray,Tiger Lou,,,,,,relaxed,positive
+ML140,MoodyLyrics4Q,Think Twice,Donald Byrd,,,,,,relaxed,positive
+ML141,MoodyLyrics4Q,Touched Something's Hollow,of Montreal,,,,,,sad,negative
+ML142,MoodyLyrics4Q,Show A Little Faith,Charlotte Church,,,,,,relaxed,positive
+ML143,MoodyLyrics4Q,One Of Us Must Know (Sooner Or Later),Bob Dylan,,,,,,sad,negative
+ML144,MoodyLyrics4Q,Love Is Strange,Mickey & Sylvia,,,,,,happy,positive
+ML145,MoodyLyrics4Q,The Woman By The Well,Sarah Blasko,,,,,,relaxed,positive
+ML146,MoodyLyrics4Q,Not Fair,Lily Allen,,,,,,happy,positive
+ML147,MoodyLyrics4Q,Cherish The Day,Sade,,,,,,relaxed,positive
+ML148,MoodyLyrics4Q,It's A Pity,Tanya Stephens,,,,,,happy,positive
+ML149,MoodyLyrics4Q,Sabbath Bloody Sabbath,Black Sabbath,,,,,,angry,negative
+ML150,MoodyLyrics4Q,Flick of the Switch,AC/DC,,,,,,angry,negative
+ML151,MoodyLyrics4Q,It's Gonna Rain,Violent Femmes,,,,,,happy,positive
+ML152,MoodyLyrics4Q,Territory,Sepultura,,,,,,angry,negative
+ML153,MoodyLyrics4Q,That's My Job,Conway Twitty,,,,,,sad,negative
+ML154,MoodyLyrics4Q,Police Story,Black Flag,,,,,,angry,negative
+ML155,MoodyLyrics4Q,Every Day Is Exactly The Same,Nine Inch Nails,,,,,,sad,negative
+ML156,MoodyLyrics4Q,Sometimes,Daniel Lanois,,,,,,relaxed,positive
+ML157,MoodyLyrics4Q,Love Is Like An Itching In My Heart,The Supremes,,,,,,happy,positive
+ML158,MoodyLyrics4Q,Killamangiro,Babyshambles,,,,,,happy,positive
+ML159,MoodyLyrics4Q,Drowning,Stabbing Westward,,,,,,sad,negative
+ML160,MoodyLyrics4Q,Save Your Scissors,City and Colour,,,,,,relaxed,positive
+ML161,MoodyLyrics4Q,Among the Living,Anthrax,,,,,,angry,negative
+ML162,MoodyLyrics4Q,War Zone,Slayer,,,,,,angry,negative
+ML163,MoodyLyrics4Q,If Loving You Is Wrong,Cassandra Wilson,,,,,,relaxed,positive
+ML164,MoodyLyrics4Q,An Ocean Between Us,As I Lay Dying,,,,,,angry,negative
+ML165,MoodyLyrics4Q,Nightmare,Avenged Sevenfold,,,,,,angry,negative
+ML166,MoodyLyrics4Q,I Don't Like The Vibe In The VIP,ElectroVamp,,,,,,happy,positive
+ML167,MoodyLyrics4Q,Sludge Factory,Alice in Chains,,,,,,sad,negative
+ML168,MoodyLyrics4Q,Psychotron,Megadeth,,,,,,angry,negative
+ML169,MoodyLyrics4Q,Un Poco De Amor,Shakira,,,,,,happy,positive
+ML170,MoodyLyrics4Q,Oh My Lord,Nick Cave and the Bad Seeds,,,,,,sad,negative
+ML171,MoodyLyrics4Q,Just Can't Last,Natalie Merchant,,,,,,relaxed,positive
+ML172,MoodyLyrics4Q,Booksmart Devil,Silversun Pickups,,,,,,relaxed,positive
+ML173,MoodyLyrics4Q,No Children,The Mountain Goats,,,,,,sad,negative
+ML174,MoodyLyrics4Q,If U Seek Amy,Britney Spears,,,,,,happy,positive
+ML175,MoodyLyrics4Q,Dragostea Din Tei,O-Zone,,,,,,happy,positive
+ML176,MoodyLyrics4Q,Suicide Solution,Ozzy Osbourne,,,,,,angry,negative
+ML177,MoodyLyrics4Q,The Purple People Eater,Sheb Wooley,,,,,,happy,positive
+ML178,MoodyLyrics4Q,Ho Visto Un Re,Enzo Jannacci,,,,,,happy,positive
+ML179,MoodyLyrics4Q,Dread and the Fugitive Mind,Megadeth,,,,,,angry,negative
+ML180,MoodyLyrics4Q,Hope,Jack Johnson,,,,,,relaxed,positive
+ML181,MoodyLyrics4Q,More Than You Know,Jane Monheit,,,,,,relaxed,positive
+ML182,MoodyLyrics4Q,How I Could Just Kill A Man,Rage Against the Machine,,,,,,angry,negative
+ML183,MoodyLyrics4Q,Fire,Jimi Hendrix Experience,,,,,,angry,negative
+ML184,MoodyLyrics4Q,I Wanna Be Loved By You,Marilyn Monroe,,,,,,happy,positive
+ML185,MoodyLyrics4Q,Distant Lights,Burial,,,,,,sad,negative
+ML186,MoodyLyrics4Q,Sadness Is a Blessing,Lykke Li,,,,,,sad,negative
+ML187,MoodyLyrics4Q,I Told You So,Carrie Underwood,,,,,,sad,negative
+ML188,MoodyLyrics4Q,Lights,Scissor Sisters,,,,,,happy,positive
+ML189,MoodyLyrics4Q,Will You Marry Me,Lenny Kravitz,,,,,,happy,positive
+ML190,MoodyLyrics4Q,The Needle Lies,Queensryche,,,,,,angry,negative
+ML191,MoodyLyrics4Q,The Cry of Mankind,My Dying Bride,,,,,,sad,negative
+ML192,MoodyLyrics4Q,7 Things,Miley Cyrus,,,,,,happy,positive
+ML193,MoodyLyrics4Q,Vaca que cambia de querencia,Juana Molina,,,,,,relaxed,positive
+ML194,MoodyLyrics4Q,If You're Not Scared,K's Choice,,,,,,sad,negative
+ML195,MoodyLyrics4Q,Sunworshipper,Mylo,,,,,,relaxed,positive
+ML196,MoodyLyrics4Q,Singin' In The Rain,Jamie Cullum,,,,,,relaxed,positive
+ML197,MoodyLyrics4Q,I Am the Fly,Wire,,,,,,angry,negative
+ML198,MoodyLyrics4Q,Livin' La Vida Loca,Ricky Martin,,,,,,happy,positive
+ML199,MoodyLyrics4Q,Limo Wreck,Soundgarden,,,,,,sad,negative
+ML200,MoodyLyrics4Q,Bitter Sweet,Sopor Aeternus & The Ensemble Of Shadows,,,,,,sad,negative
+ML201,MoodyLyrics4Q,Nosferatu,Blue Öyster Cult,,,,,,angry,negative
+ML202,MoodyLyrics4Q,My Evil Plan To Save The World,Five Iron Frenzy,,,,,,happy,positive
+ML203,MoodyLyrics4Q,I Know It's True but I'm Sorry to Say,Violent Femmes,,,,,,sad,negative
+ML204,MoodyLyrics4Q,Kielbasa,Tenacious D,,,,,,happy,positive
+ML205,MoodyLyrics4Q,Sleepers,Saosin,,,,,,angry,negative
+ML206,MoodyLyrics4Q,Potters Field,Anthrax,,,,,,angry,negative
+ML207,MoodyLyrics4Q,Little Bombs,Aimee Mann,,,,,,sad,negative
+ML208,MoodyLyrics4Q,The Red,Chevelle,,,,,,angry,negative
+ML209,MoodyLyrics4Q,Blue Sky,Jason Collett,,,,,,relaxed,positive
+ML210,MoodyLyrics4Q,All My Friends (John Cale's Version),LCD Soundsystem,,,,,,sad,negative
+ML211,MoodyLyrics4Q,Bushes And Briars,Sandy Denny,,,,,,sad,negative
+ML212,MoodyLyrics4Q,Punk Rock Superstar,Marcy Playground,,,,,,happy,positive
+ML213,MoodyLyrics4Q,Le Vieil Amant,Emilie Simon,,,,,,relaxed,positive
+ML214,MoodyLyrics4Q,Your Master Is Calling,Pink Turns Blue,,,,,,sad,negative
+ML215,MoodyLyrics4Q,Clear My Head,IVY,,,,,,relaxed,positive
+ML216,MoodyLyrics4Q,American Girl,Tom Petty And The Heartbreakers,,,,,,happy,positive
+ML217,MoodyLyrics4Q,A Sunday Kind Of Love,Etta James,,,,,,relaxed,positive
+ML218,MoodyLyrics4Q,Lonely This Christmas,Mud,,,,,,sad,negative
+ML219,MoodyLyrics4Q,Everybody Knows That You Are Insane,Queens Of The Stone Age,,,,,,angry,negative
+ML220,MoodyLyrics4Q,These Good People,The Gathering,,,,,,sad,negative
+ML221,MoodyLyrics4Q,Cuntry Boys & City Girls,The Fratellis,,,,,,happy,positive
+ML222,MoodyLyrics4Q,Puto,Molotov,,,,,,happy,positive
+ML223,MoodyLyrics4Q,I Wish,Victoria Beckham,,,,,,happy,positive
+ML224,MoodyLyrics4Q,Dizzy,Ours,,,,,,sad,negative
+ML225,MoodyLyrics4Q,Walking In Rhythm,The Blackbyrds,,,,,,happy,positive
+ML226,MoodyLyrics4Q,Velvet Revolution,Tori Amos,,,,,,sad,negative
+ML227,MoodyLyrics4Q,Break on Through (To the Other Side),Doors,,,,,,angry,negative
+ML228,MoodyLyrics4Q,FFF,Megadeth,,,,,,angry,negative
+ML229,MoodyLyrics4Q,Good Guys & Bad Guys,Camper Van Beethoven,,,,,,happy,positive
+ML230,MoodyLyrics4Q,Spirit in Black,Slayer,,,,,,angry,negative
+ML231,MoodyLyrics4Q,Keep In Touch,theaudience,,,,,,relaxed,positive
+ML232,MoodyLyrics4Q,Roy Walker,Belle and Sebastian,,,,,,happy,positive
+ML233,MoodyLyrics4Q,As the Palaces Burn,Lamb of God,,,,,,angry,negative
+ML234,MoodyLyrics4Q,Personality Crisis,New York Dolls,,,,,,angry,negative
+ML235,MoodyLyrics4Q,Unanswered,Suicide Silence,,,,,,angry,negative
+ML236,MoodyLyrics4Q,It's That Time Again,The Dodos,,,,,,sad,negative
+ML237,MoodyLyrics4Q,Deliver Me From Mine Enemies,Diamanda Galás,,,,,,angry,negative
+ML238,MoodyLyrics4Q,We're Going Wrong,Cream,,,,,,sad,negative
+ML239,MoodyLyrics4Q,Edge of the Ocean,IVY,,,,,,relaxed,positive
+ML240,MoodyLyrics4Q,Your Pretty Face Is Going to Hell,The Stooges,,,,,,angry,negative
+ML241,MoodyLyrics4Q,Worried Eyes,Eagle-Eye Cherry,,,,,,relaxed,positive
+ML242,MoodyLyrics4Q,It's Over,Bic Runga,,,,,,sad,negative
+ML243,MoodyLyrics4Q,Poetically Pathetic (Acoustic),Amber Pacific,,,,,,sad,negative
+ML244,MoodyLyrics4Q,Lovely 2 C U,Goldfrapp,,,,,,happy,positive
+ML245,MoodyLyrics4Q,The Night Santa Went Crazy,"""Weird Al"" Yankovic",,,,,,happy,positive
+ML246,MoodyLyrics4Q,Are We Still Married?,His Name Is Alive,,,,,,sad,negative
+ML247,MoodyLyrics4Q,Simarik,Tarkan,,,,,,happy,positive
+ML248,MoodyLyrics4Q,Nada Valgo Sin Tu Amor,Juanes,,,,,,happy,positive
+ML249,MoodyLyrics4Q,"Kick, Push",Lupe Fiasco,,,,,,relaxed,positive
+ML250,MoodyLyrics4Q,Thank You Very Much,Kaiser Chiefs,,,,,,happy,positive
+ML251,MoodyLyrics4Q,Counting Backwards,Throwing Muses,,,,,,angry,negative
+ML252,MoodyLyrics4Q,Future Breed Machine,Meshuggah,,,,,,angry,negative
+ML253,MoodyLyrics4Q,I Luv It,Young Jeezy,,,,,,angry,negative
+ML254,MoodyLyrics4Q,Burn,Three Days Grace,,,,,,angry,negative
+ML255,MoodyLyrics4Q,Bring the Noise,Public Enemy,,,,,,angry,negative
+ML256,MoodyLyrics4Q,Monday Morning,Maria Mena,,,,,,relaxed,positive
+ML257,MoodyLyrics4Q,The Wrong Nigga to Fuck Wit,Ice Cube,,,,,,angry,negative
+ML258,MoodyLyrics4Q,Am I Inside,Alice in Chains,,,,,,sad,negative
+ML259,MoodyLyrics4Q,Sandy the River Demon,Monkey,,,,,,relaxed,positive
+ML260,MoodyLyrics4Q,Ghostbusters,Ray Parker Jr.,,,,,,happy,positive
+ML261,MoodyLyrics4Q,Hate Me!,Children of Bodom,,,,,,angry,negative
+ML262,MoodyLyrics4Q,Olhos Certos,Detonautas Roque Clube,,,,,,sad,negative
+ML263,MoodyLyrics4Q,Gigantic,Pixies,,,,,,happy,positive
+ML264,MoodyLyrics4Q,Day,Katatonia,,,,,,sad,negative
+ML265,MoodyLyrics4Q,Painter in Your Pocket,Destroyer,,,,,,relaxed,positive
+ML266,MoodyLyrics4Q,Belle de Jour,De-Phazz,,,,,,relaxed,positive
+ML267,MoodyLyrics4Q,Never Be the Sun,Dolores Keane,,,,,,relaxed,positive
+ML268,MoodyLyrics4Q,Bring the Pain,Method Man,,,,,,angry,negative
+ML269,MoodyLyrics4Q,Those Three Days,Lucinda Williams,,,,,,sad,negative
+ML270,MoodyLyrics4Q,Moto Psycho,Megadeth,,,,,,angry,negative
+ML271,MoodyLyrics4Q,Touch Down,Delays,,,,,,relaxed,positive
+ML272,MoodyLyrics4Q,Laura,Scissor Sisters,,,,,,happy,positive
+ML273,MoodyLyrics4Q,I Like You So Much Better When You're Naked,Ida Maria,,,,,,happy,positive
+ML274,MoodyLyrics4Q,Lovesongs (They Kill Me),Cinema Bizarre,,,,,,sad,negative
+ML275,MoodyLyrics4Q,Leave My Mind,Lene Marlin,,,,,,relaxed,positive
+ML276,MoodyLyrics4Q,You Got By,Sara Gazarek,,,,,,relaxed,positive
+ML277,MoodyLyrics4Q,Walk Believer Walk,The Black Crowes,,,,,,happy,positive
+ML278,MoodyLyrics4Q,Thank You (Falettinme Be Mice Elf Agin),Sly & The Family Stone,,,,,,happy,positive
+ML279,MoodyLyrics4Q,The Lonely,British Sea Power,,,,,,sad,negative
+ML280,MoodyLyrics4Q,Autumn Tactics,Chicane,,,,,,relaxed,positive
+ML281,MoodyLyrics4Q,Under the Gun,The Sisters Of Mercy,,,,,,sad,negative
+ML282,MoodyLyrics4Q,Get Myself on Track,Audio Bullys,,,,,,sad,negative
+ML283,MoodyLyrics4Q,The Sleep of No Dreaming,Porcupine Tree,,,,,,sad,negative
+ML284,MoodyLyrics4Q,Lazy Girls,Jill Cunniff,,,,,,happy,positive
+ML285,MoodyLyrics4Q,Newgrange,Clannad,,,,,,relaxed,positive
+ML286,MoodyLyrics4Q,Jackie Jackson,Franz Ferdinand,,,,,,happy,positive
+ML287,MoodyLyrics4Q,The Corps Under My Bed,Combichrist,,,,,,sad,negative
+ML288,MoodyLyrics4Q,Should've Known Better,Richard Marx,,,,,,sad,negative
+ML289,MoodyLyrics4Q,Want,The Cure,,,,,,sad,negative
+ML290,MoodyLyrics4Q,I'm on a Boat (feat. T-Pain),The Lonely Island,,,,,,happy,positive
+ML291,MoodyLyrics4Q,Faithful ,Common,,,,,,relaxed,positive
+ML292,MoodyLyrics4Q,This Place Hotel,The Jacksons,,,,,,sad,negative
+ML293,MoodyLyrics4Q,Dirge for November,Opeth,,,,,,sad,negative
+ML294,MoodyLyrics4Q,It's A Long Way There,Little River Band,,,,,,relaxed,positive
+ML295,MoodyLyrics4Q,11:11,Rufus Wainwright,,,,,,relaxed,positive
+ML296,MoodyLyrics4Q,Break The Ice,Britney Spears,,,,,,happy,positive
+ML297,MoodyLyrics4Q,Midnight Blue,Electric Light Orchestra,,,,,,relaxed,positive
+ML298,MoodyLyrics4Q,We're Not Deep,The Housemartins,,,,,,happy,positive
+ML299,MoodyLyrics4Q,Blue Ridge Mountains,Haley Bonar,,,,,,relaxed,positive
+ML300,MoodyLyrics4Q,Disguise,Lene Marlin,,,,,,relaxed,positive
+ML301,MoodyLyrics4Q,One Step Too Far,Faithless,,,,,,relaxed,positive
+ML302,MoodyLyrics4Q,Day One: Vigil,Ayreon,,,,,,sad,negative
+ML303,MoodyLyrics4Q,Catch The Rainbow,Rainbow,,,,,,sad,negative
+ML304,MoodyLyrics4Q,Greenville,Lucinda Williams,,,,,,sad,negative
+ML305,MoodyLyrics4Q,Heart And Shoulder,Heather Nova,,,,,,relaxed,positive
+ML306,MoodyLyrics4Q,Long Stick Goes Boom,Krokus,,,,,,angry,negative
+ML307,MoodyLyrics4Q,"Mahna, Mahna",Cake,,,,,,happy,positive
+ML308,MoodyLyrics4Q,Sweet Darlin',She & Him,,,,,,happy,positive
+ML309,MoodyLyrics4Q,Vietnow,Rage Against the Machine,,,,,,angry,negative
+ML310,MoodyLyrics4Q,Action,Powerman 5000,,,,,,angry,negative
+ML311,MoodyLyrics4Q,All For Swinging You Around,The New Pornographers,,,,,,happy,positive
+ML312,MoodyLyrics4Q,Sleep Now In The Fire,Rage Against the Machine,,,,,,angry,negative
+ML313,MoodyLyrics4Q,And I'm Evil,Beatallica,,,,,,happy,positive
+ML314,MoodyLyrics4Q,Chi,Korn,,,,,,angry,negative
+ML315,MoodyLyrics4Q,Neon Moon,Brooks & Dunn,,,,,,sad,negative
+ML316,MoodyLyrics4Q,A Dream About You,Keri Noble,,,,,,relaxed,positive
+ML317,MoodyLyrics4Q,Around The World,Aqua,,,,,,happy,positive
+ML318,MoodyLyrics4Q,Evil Urges,My Morning Jacket,,,,,,happy,positive
+ML319,MoodyLyrics4Q,Nothing Much to Lose,My Bloody Valentine,,,,,,sad,negative
+ML320,MoodyLyrics4Q,Wake Up,Rage Against the Machine,,,,,,angry,negative
+ML321,MoodyLyrics4Q,Chop Suey!,System of a Down,,,,,,angry,negative
+ML322,MoodyLyrics4Q,The Freak Show,Antimatter,,,,,,sad,negative
+ML323,MoodyLyrics4Q,Omen Sore,ERA,,,,,,relaxed,positive
+ML324,MoodyLyrics4Q,When I Get Where I'm Going,Brad Paisley,,,,,,sad,negative
+ML325,MoodyLyrics4Q,Victory,Megadeth,,,,,,angry,negative
+ML326,MoodyLyrics4Q,The Not Knowing,Tindersticks,,,,,,sad,negative
+ML327,MoodyLyrics4Q,My Baby Does Me,Queen,,,,,,happy,positive
+ML328,MoodyLyrics4Q,Morning Glory,Tim Buckley,,,,,,sad,negative
+ML329,MoodyLyrics4Q,Black Light District,The Gathering,,,,,,sad,negative
+ML330,MoodyLyrics4Q,Can You Hear The Music,The Rolling Stones,,,,,,sad,negative
+ML331,MoodyLyrics4Q,Reminiscing,Little River Band,,,,,,relaxed,positive
+ML332,MoodyLyrics4Q,Dead and Buried,Alien Sex Fiend,,,,,,angry,negative
+ML333,MoodyLyrics4Q,Sway,Voxtrot,,,,,,sad,negative
+ML334,MoodyLyrics4Q,Homebird,Foy Vance,,,,,,relaxed,positive
+ML335,MoodyLyrics4Q,Rain Song,COLD,,,,,,sad,negative
+ML336,MoodyLyrics4Q,Cruel Summer,Bananarama,,,,,,happy,positive
+ML337,MoodyLyrics4Q,Still in Love,Nick Cave and the Bad Seeds,,,,,,sad,negative
+ML338,MoodyLyrics4Q,Papi,Jennifer Lopez,,,,,,happy,positive
+ML339,MoodyLyrics4Q,Anorak Christmas,Sally Shapiro,,,,,,relaxed,positive
+ML340,MoodyLyrics4Q,Fun Fun Fun,Busted,,,,,,happy,positive
+ML341,MoodyLyrics4Q,Sex. Murder. Art.,Slayer,,,,,,angry,negative
+ML342,MoodyLyrics4Q,4 Words (To Choke Upon),Bullet For My Valentine,,,,,,angry,negative
+ML343,MoodyLyrics4Q,Lovestain,José González,,,,,,relaxed,positive
+ML344,MoodyLyrics4Q,I Would Like To Call It Beauty,Corinne Bailey Rae,,,,,,relaxed,positive
+ML345,MoodyLyrics4Q,Meadow,Espers,,,,,,relaxed,positive
+ML346,MoodyLyrics4Q,London Calling,The Clash,,,,,,angry,negative
+ML347,MoodyLyrics4Q,Orgasmatron,Motörhead,,,,,,angry,negative
+ML348,MoodyLyrics4Q,Back To Manhattan,Norah Jones,,,,,,sad,negative
+ML349,MoodyLyrics4Q,If You Know Love,Molly Johnson,,,,,,relaxed,positive
+ML350,MoodyLyrics4Q,Ophelia,The Tear Garden,,,,,,sad,negative
+ML351,MoodyLyrics4Q,Letter To God,Hole,,,,,,sad,negative
+ML352,MoodyLyrics4Q,Washington Is Next!,Megadeth,,,,,,angry,negative
+ML353,MoodyLyrics4Q,Flora's Secret,Enya,,,,,,relaxed,positive
+ML354,MoodyLyrics4Q,Sex Dwarf,Soft Cell,,,,,,happy,positive
+ML355,MoodyLyrics4Q,I Only Want To Be With You,Dusty Springfield,,,,,,happy,positive
+ML356,MoodyLyrics4Q,Mea Culpa,Enigma,,,,,,relaxed,positive
+ML357,MoodyLyrics4Q,Sun (acoustic),Mae,,,,,,relaxed,positive
+ML358,MoodyLyrics4Q,Highway to Hell,AC/DC,,,,,,angry,negative
+ML359,MoodyLyrics4Q,I Still Get Jealous,Louis Armstrong,,,,,,relaxed,positive
+ML360,MoodyLyrics4Q,Beauty And The Beast,Jump5,,,,,,happy,positive
+ML361,MoodyLyrics4Q,Flowery Noontide,Espers,,,,,,relaxed,positive
+ML362,MoodyLyrics4Q,Your Touch,The Black Keys,,,,,,happy,positive
+ML363,MoodyLyrics4Q,Elvis Presley and America,U2,,,,,,sad,negative
+ML364,MoodyLyrics4Q,Without You,Dixie Chicks,,,,,,sad,negative
+ML365,MoodyLyrics4Q,Take Your Mama,Scissor Sisters,,,,,,happy,positive
+ML366,MoodyLyrics4Q,7 Minutes,Noir Désir,,,,,,angry,negative
+ML367,MoodyLyrics4Q,Fitter Happier,Radiohead,,,,,,sad,negative
+ML368,MoodyLyrics4Q,Fields Of Gray,Bruce Hornsby,,,,,,relaxed,positive
+ML369,MoodyLyrics4Q,St. Robinson In His Cadillac Dream,Counting Crows,,,,,,relaxed,positive
+ML370,MoodyLyrics4Q,Verne,Novembre,,,,,,sad,negative
+ML371,MoodyLyrics4Q,Love and Destroy,Franz Ferdinand,,,,,,happy,positive
+ML372,MoodyLyrics4Q,Rinse,Vanessa Carlton,,,,,,sad,negative
+ML373,MoodyLyrics4Q,I Don't Wanna Die Anymore,New Radicals,,,,,,sad,negative
+ML374,MoodyLyrics4Q,This Town,Hot Hot Heat,,,,,,happy,positive
+ML375,MoodyLyrics4Q,Back Into Your System,Saliva,,,,,,relaxed,positive
+ML376,MoodyLyrics4Q,End,Secondhand Serenade,,,,,,sad,negative
+ML377,MoodyLyrics4Q,In The Mood,Robert Plant,,,,,,relaxed,positive
+ML378,MoodyLyrics4Q,Man Must Dance,Johnossi,,,,,,happy,positive
+ML379,MoodyLyrics4Q,Reptile,Eric Clapton,,,,,,relaxed,positive
+ML380,MoodyLyrics4Q,Cish Cash ,Basement Jaxx,,,,,,happy,positive
+ML381,MoodyLyrics4Q,Don't Turn Around,Ace of Base,,,,,,happy,positive
+ML382,MoodyLyrics4Q,High School,Nerf Herder,,,,,,happy,positive
+ML383,MoodyLyrics4Q,Steamy Windows,Tina Turner,,,,,,happy,positive
+ML384,MoodyLyrics4Q,Slowboat,Sparks,,,,,,sad,negative
+ML385,MoodyLyrics4Q,A Modern Way Of Letting Go,Idlewild,,,,,,angry,negative
+ML386,MoodyLyrics4Q,My Funny Valentine,Anita Baker,,,,,,relaxed,positive
+ML387,MoodyLyrics4Q,Des Illusions,Dark Sanctuary,,,,,,sad,negative
+ML388,MoodyLyrics4Q,Lightning,Eric Church,,,,,,sad,negative
+ML389,MoodyLyrics4Q,Less Than a Pearl,Enya,,,,,,relaxed,positive
+ML390,MoodyLyrics4Q,Take Up Thy Stethoscope and Walk,Pink Floyd,,,,,,angry,negative
+ML391,MoodyLyrics4Q,Dolphins,Tim Buckley,,,,,,sad,negative
+ML392,MoodyLyrics4Q,Paranoiattack,The Faint,,,,,,happy,positive
+ML393,MoodyLyrics4Q,Countdown to Extinction,Megadeth,,,,,,angry,negative
+ML394,MoodyLyrics4Q,Keeping You,Tanya Donelly,,,,,,relaxed,positive
+ML395,MoodyLyrics4Q,The Figurehead,The Cure,,,,,,sad,negative
+ML396,MoodyLyrics4Q,Mickey,Toni Basil,,,,,,happy,positive
+ML397,MoodyLyrics4Q,"Cheer Up, Boys (Your Make Up Is Running)",Foo Fighters,,,,,,happy,positive
+ML398,MoodyLyrics4Q,Ghetto Vet,Ice Cube,,,,,,angry,negative
+ML399,MoodyLyrics4Q,Necrophiliac,Slayer,,,,,,angry,negative
+ML400,MoodyLyrics4Q,Sleepsong,Secret Garden,,,,,,relaxed,positive
+ML401,MoodyLyrics4Q,Prisoners of Today,Billy Talent,,,,,,angry,negative
+ML402,MoodyLyrics4Q,Brand New Day,Sting,,,,,,happy,positive
+ML403,MoodyLyrics4Q,Psychopathy Red,Slayer,,,,,,angry,negative
+ML404,MoodyLyrics4Q,You Belong To Me,Anita Baker,,,,,,relaxed,positive
+ML405,MoodyLyrics4Q,Pocket,Sam Sparro,,,,,,happy,positive
+ML406,MoodyLyrics4Q,Le Ciel Dans Une Chambre,Carla Bruni,,,,,,relaxed,positive
+ML407,MoodyLyrics4Q,Tone Poem,Fischerspooner,,,,,,relaxed,positive
+ML408,MoodyLyrics4Q,Foxtrot Uniform Charlie Kilo,Bloodhound Gang,,,,,,happy,positive
+ML409,MoodyLyrics4Q,One Hundred Years,The Cure,,,,,,sad,negative
+ML410,MoodyLyrics4Q,Gone With The Day,Faunts,,,,,,relaxed,positive
+ML411,MoodyLyrics4Q,Celebration,Kool & The Gang,,,,,,happy,positive
+ML412,MoodyLyrics4Q,Super-Charger Heaven,White Zombie,,,,,,angry,negative
+ML413,MoodyLyrics4Q,Thank You For The Music,Abba,,,,,,happy,positive
+ML414,MoodyLyrics4Q,Durch die Nacht,Silbermond,,,,,,sad,negative
+ML415,MoodyLyrics4Q,The Visit (She Was Here),The Cyrkle,,,,,,relaxed,positive
+ML416,MoodyLyrics4Q,Fury,Prince,,,,,,angry,negative
+ML417,MoodyLyrics4Q,Baby Be Brave (album version),The Corrs,,,,,,relaxed,positive
+ML418,MoodyLyrics4Q,Overjoyed,Magnet,,,,,,relaxed,positive
+ML419,MoodyLyrics4Q,A Place In The Dirt,Marilyn Manson,,,,,,sad,negative
+ML420,MoodyLyrics4Q,Skies So Blue,The Rocket Summer,,,,,,happy,positive
+ML421,MoodyLyrics4Q,The Fear,Pulp,,,,,,sad,negative
+ML422,MoodyLyrics4Q,Goodbye Suicide,Nicky Wire,,,,,,sad,negative
+ML423,MoodyLyrics4Q,Gather Me Up Forever,My Dying Bride,,,,,,sad,negative
+ML424,MoodyLyrics4Q,Let's Get Known,The Unicorns,,,,,,happy,positive
+ML425,MoodyLyrics4Q,Take Me For A Little While,Coverdale/Page,,,,,,sad,negative
+ML426,MoodyLyrics4Q,It's Not The Fall That Hurts,Caesars,,,,,,happy,positive
+ML427,MoodyLyrics4Q,Something Beautiful,Newsboys,,,,,,happy,positive
+ML428,MoodyLyrics4Q,Pi,Hard 'n Phirm,,,,,,happy,positive
+ML429,MoodyLyrics4Q,Bulls on Parade,Rage Against the Machine,,,,,,angry,negative
+ML430,MoodyLyrics4Q,A Doomed Lover,My Dying Bride,,,,,,sad,negative
+ML431,MoodyLyrics4Q,Marie Cherie,Annie,,,,,,sad,negative
+ML432,MoodyLyrics4Q,Sex im Hotel,Rosenstolz,,,,,,happy,positive
+ML433,MoodyLyrics4Q,What Do You Want From Me?,Cascada,,,,,,happy,positive
+ML434,MoodyLyrics4Q,Let Love,Res,,,,,,relaxed,positive
+ML435,MoodyLyrics4Q,The Invisible Man,Marillion,,,,,,sad,negative
+ML436,MoodyLyrics4Q,66,Afghan Whigs,,,,,,happy,positive
+ML437,MoodyLyrics4Q,Shell,Susie Suh,,,,,,relaxed,positive
+ML438,MoodyLyrics4Q,Not the Same,Dinosaur Jr.,,,,,,sad,negative
+ML439,MoodyLyrics4Q,I'm Gonna Getcha Good!,Shania Twain,,,,,,happy,positive
+ML440,MoodyLyrics4Q,Part-Time Lover,Stevie Wonder,,,,,,happy,positive
+ML441,MoodyLyrics4Q,Tahroja paperilla,Eppu Normaali,,,,,,sad,negative
+ML442,MoodyLyrics4Q,Battery,Metallica,,,,,,angry,negative
+ML443,MoodyLyrics4Q,Son,Juana Molina,,,,,,relaxed,positive
+ML444,MoodyLyrics4Q,Your Only Doll (Dora),Laura Marling,,,,,,relaxed,positive
+ML445,MoodyLyrics4Q,Joy To The World,Three Dog Night,,,,,,happy,positive
+ML446,MoodyLyrics4Q,I Just Wanna Love U (Give It 2 Me),JAY-Z,,,,,,happy,positive
+ML447,MoodyLyrics4Q,To The Music,Colder,,,,,,happy,positive
+ML448,MoodyLyrics4Q,English Girl,Eagles of Death Metal,,,,,,happy,positive
+ML449,MoodyLyrics4Q,Jump,Kris Kross,,,,,,happy,positive
+ML450,MoodyLyrics4Q,Teen Angel,Mark Dinning,,,,,,sad,negative
+ML451,MoodyLyrics4Q,Girls Just Want To Have Fun,Starfucker,,,,,,happy,positive
+ML452,MoodyLyrics4Q,Christmas At Ground Zero,"""Weird Al"" Yankovic",,,,,,happy,positive
+ML453,MoodyLyrics4Q,Johnny W.,Marius Müller-Westernhagen,,,,,,sad,negative
+ML454,MoodyLyrics4Q,Demolishor,The Acacia Strain,,,,,,angry,negative
+ML455,MoodyLyrics4Q,Assimilate,Skinny Puppy,,,,,,angry,negative
+ML456,MoodyLyrics4Q,Me Ves Y Sufres,Hope of the States,,,,,,sad,negative
+ML457,MoodyLyrics4Q,Nebel,Rammstein,,,,,,sad,negative
+ML458,MoodyLyrics4Q,My Doorbell,The White Stripes,,,,,,happy,positive
+ML459,MoodyLyrics4Q,Down Payment Blues,AC/DC,,,,,,angry,negative
+ML460,MoodyLyrics4Q,Utopia,Goldfrapp,,,,,,relaxed,positive
+ML461,MoodyLyrics4Q,Your Emotions,Dead Kennedys,,,,,,angry,negative
+ML462,MoodyLyrics4Q,Angel Eyes,Jim Brickman,,,,,,relaxed,positive
+ML463,MoodyLyrics4Q,For You,Sarah Blasko,,,,,,relaxed,positive
+ML464,MoodyLyrics4Q,Je Veux Te Voir (Club-Club Version),Yelle,,,,,,happy,positive
+ML465,MoodyLyrics4Q,Rip The Heart Out Of Me,Adema,,,,,,angry,negative
+ML466,MoodyLyrics4Q,When I Look In Your Eyes,The Romantics,,,,,,happy,positive
+ML467,MoodyLyrics4Q,Dead in Hollywood,Murderdolls,,,,,,angry,negative
+ML468,MoodyLyrics4Q,(I Can't Get No) Satisfaction,Devo,,,,,,angry,negative
+ML469,MoodyLyrics4Q,Exploited Barmy Army,Exploited,,,,,,angry,negative
+ML470,MoodyLyrics4Q,Somebody,Midge Ure,,,,,,sad,negative
+ML471,MoodyLyrics4Q,Remember Me,Qntal,,,,,,sad,negative
+ML472,MoodyLyrics4Q,Gotta Serve Somebody,Bob Dylan,,,,,,relaxed,positive
+ML473,MoodyLyrics4Q,Nothing Going On,Clawfinger,,,,,,angry,negative
+ML474,MoodyLyrics4Q,Sweeter Love,Blue Six,,,,,,relaxed,positive
+ML475,MoodyLyrics4Q,Let It Flow,Spiritualized,,,,,,relaxed,positive
+ML476,MoodyLyrics4Q,You Burn First,Alexisonfire,,,,,,angry,negative
+ML477,MoodyLyrics4Q,Dirty Mack,Ice Cube,,,,,,angry,negative
+ML478,MoodyLyrics4Q,Time for Livin',Beastie Boys,,,,,,angry,negative
+ML479,MoodyLyrics4Q,Sinister in a State of Hope,"Loney, dear",,,,,,relaxed,positive
+ML480,MoodyLyrics4Q,Squeeze Me,Kraak & Smaak,,,,,,happy,positive
+ML481,MoodyLyrics4Q,Kiss Off,Violent Femmes,,,,,,angry,negative
+ML482,MoodyLyrics4Q,Shelter For My Soul,Bernard Fanning,,,,,,sad,negative
+ML483,MoodyLyrics4Q,Morph The Cat,Donald Fagen,,,,,,relaxed,positive
+ML484,MoodyLyrics4Q,Depression,Black Flag,,,,,,angry,negative
+ML485,MoodyLyrics4Q,Sweet Talkin' Woman,Electric Light Orchestra,,,,,,happy,positive
+ML486,MoodyLyrics4Q,Nasty Girl,Vanity 6,,,,,,happy,positive
+ML487,MoodyLyrics4Q,Swim,In Flames,,,,,,happy,positive
+ML488,MoodyLyrics4Q,I Wanna Go Back To Dixie,Tom Lehrer,,,,,,happy,positive
+ML489,MoodyLyrics4Q,Constellations,Jack Johnson,,,,,,relaxed,positive
+ML490,MoodyLyrics4Q,Bright,Low,,,,,,sad,negative
+ML491,MoodyLyrics4Q,Baby,Stephen Lynch,,,,,,happy,positive
+ML492,MoodyLyrics4Q,Hey Dude,Beatallica,,,,,,happy,positive
+ML493,MoodyLyrics4Q,Palestina,Ministry,,,,,,angry,negative
+ML494,MoodyLyrics4Q,You'd Be Surprised,Marilyn Monroe,,,,,,happy,positive
+ML495,MoodyLyrics4Q,"No Mirror, No Shadow",New Model Army,,,,,,sad,negative
+ML496,MoodyLyrics4Q,Sly,The Cat Empire,,,,,,happy,positive
+ML497,MoodyLyrics4Q,The Living Sea,Monkey,,,,,,relaxed,positive
+ML498,MoodyLyrics4Q,Sigma,Secret Garden,,,,,,relaxed,positive
+ML499,MoodyLyrics4Q,I'd Rather,Luther Vandross,,,,,,relaxed,positive
+ML500,MoodyLyrics4Q,O Pomar Das Laranjeiras,Madredeus,,,,,,sad,negative
+ML501,MoodyLyrics4Q,Gift,Rocco DeLuca & The Burden,,,,,,sad,negative
+ML502,MoodyLyrics4Q,Piss Angel,Pig Destroyer,,,,,,angry,negative
+ML503,MoodyLyrics4Q,Don't Let Me Be Misunderstood,Eric Burdon,,,,,,angry,negative
+ML504,MoodyLyrics4Q,In The House Of Stone And Light,Martin Page,,,,,,relaxed,positive
+ML505,MoodyLyrics4Q,On Repeat,LCD Soundsystem,,,,,,happy,positive
+ML506,MoodyLyrics4Q,Katharina,Fotos,,,,,,sad,negative
+ML507,MoodyLyrics4Q,Drowning In Your Eyes,Ephraim Lewis,,,,,,relaxed,positive
+ML508,MoodyLyrics4Q,Losing Sight,As I Lay Dying,,,,,,angry,negative
+ML509,MoodyLyrics4Q,Devil Gate Drive,Suzi Quatro,,,,,,happy,positive
+ML510,MoodyLyrics4Q,Feuer und Wasser,Rammstein,,,,,,sad,negative
+ML511,MoodyLyrics4Q,On The Radio,The Concretes,,,,,,happy,positive
+ML512,MoodyLyrics4Q,Ashes In The Fall,Rage Against the Machine,,,,,,angry,negative
+ML513,MoodyLyrics4Q,Pool Party,The Aquabats,,,,,,happy,positive
+ML514,MoodyLyrics4Q,"Honey Please, Can't Ya See",Barry White,,,,,,happy,positive
+ML515,MoodyLyrics4Q,Use the Man,Megadeth,,,,,,angry,negative
+ML516,MoodyLyrics4Q,Half In Love With Elizabeth,Mystery Jets,,,,,,happy,positive
+ML517,MoodyLyrics4Q,Gutless,Hole,,,,,,angry,negative
+ML518,MoodyLyrics4Q,Silver Shadow,Atlantic Starr,,,,,,relaxed,positive
+ML519,MoodyLyrics4Q,I Just Want To Celebrate,Rare Earth,,,,,,happy,positive
+ML520,MoodyLyrics4Q,He Is Sailing,Jon & Vangelis,,,,,,relaxed,positive
+ML521,MoodyLyrics4Q,For the Damaged,Blonde Redhead,,,,,,angry,negative
+ML522,MoodyLyrics4Q,This Is Not an Exit,Anthrax,,,,,,angry,negative
+ML523,MoodyLyrics4Q,Peace Beneath the City,Iron & Wine,,,,,,relaxed,positive
+ML524,MoodyLyrics4Q,The Invitation,The Black Heart Procession,,,,,,sad,negative
+ML525,MoodyLyrics4Q,Ether,Nas,,,,,,angry,negative
+ML526,MoodyLyrics4Q,Sleep Now in the Fire,Rage Against the Machine,,,,,,angry,negative
+ML527,MoodyLyrics4Q,The Ice Hotel,Stacey Kent,,,,,,relaxed,positive
+ML528,MoodyLyrics4Q,That's Good,Devo,,,,,,happy,positive
+ML529,MoodyLyrics4Q,Can We Find A Reason?,Lenny Kravitz,,,,,,sad,negative
+ML530,MoodyLyrics4Q,Mighty Healthy,Ghostface Killah,,,,,,angry,negative
+ML531,MoodyLyrics4Q,We Suck Young Blood,Radiohead,,,,,,sad,negative
+ML532,MoodyLyrics4Q,Tequila Makes Her Clothes Fall Off,Joe Nichols,,,,,,happy,positive
+ML533,MoodyLyrics4Q,Thick As Thieves (2005 Version),Natalie Merchant,,,,,,sad,negative
+ML534,MoodyLyrics4Q,House on the Hill,Beach House,,,,,,relaxed,positive
+ML535,MoodyLyrics4Q,You're Pretty When I'm Drunk,Bloodhound Gang,,,,,,happy,positive
+ML536,MoodyLyrics4Q,Bittersweet,Apocalyptica,,,,,,sad,negative
+ML537,MoodyLyrics4Q,Friend Like Me,Robin Williams,,,,,,happy,positive
+ML538,MoodyLyrics4Q,Just Another High,Roxy Music,,,,,,sad,negative
+ML539,MoodyLyrics4Q,Senses Working Overtime,XTC,,,,,,angry,negative
+ML540,MoodyLyrics4Q,Ebony Tears,Cathedral,,,,,,sad,negative
+ML541,MoodyLyrics4Q,"Cecille, My Love",J. Tillman,,,,,,relaxed,positive
+ML542,MoodyLyrics4Q,Round And Round,Jagged Edge,,,,,,relaxed,positive
+ML543,MoodyLyrics4Q,Dizzy,Jimmy Eat World,,,,,,sad,negative
+ML544,MoodyLyrics4Q,Angels Fall First,Nightwish,,,,,,sad,negative
+ML545,MoodyLyrics4Q,Wound In My Heart,Propaganda,,,,,,relaxed,positive
+ML546,MoodyLyrics4Q,Seems To Be on My Mind,Suburban Kids With Biblical Names,,,,,,happy,positive
+ML547,MoodyLyrics4Q,The Wexford Carol,Celtic Woman,,,,,,relaxed,positive
+ML548,MoodyLyrics4Q,Everybody's Got A Ticket To Ride Except For Me And My Lightning,Beatallica,,,,,,happy,positive
+ML549,MoodyLyrics4Q,Babyfather,Sade,,,,,,relaxed,positive
+ML550,MoodyLyrics4Q,Flagpole Sitta,Harvey Danger,,,,,,happy,positive
+ML551,MoodyLyrics4Q,If It's The Beaches,The Avett Brothers,,,,,,sad,negative
+ML552,MoodyLyrics4Q,Penses-Donc (Tu Es Seule),Julie Doiron,,,,,,sad,negative
+ML553,MoodyLyrics4Q,The Company Dime,The Get Up Kids,,,,,,happy,positive
+ML554,MoodyLyrics4Q,The Predator,Ice Cube,,,,,,angry,negative
+ML555,MoodyLyrics4Q,Evil in a Closet,In Flames,,,,,,sad,negative
+ML556,MoodyLyrics4Q,More Than This,Vanessa Carlton,,,,,,relaxed,positive
+ML557,MoodyLyrics4Q,I Turned You Down,Riverside,,,,,,sad,negative
+ML558,MoodyLyrics4Q,Where've You Been,Kathy Mattea,,,,,,sad,negative
+ML559,MoodyLyrics4Q,Water Shows the Hidden Heart,Enya,,,,,,relaxed,positive
+ML560,MoodyLyrics4Q,Sailor,Hem,,,,,,relaxed,positive
+ML561,MoodyLyrics4Q,It Keeps You Runnin',The Doobie Brothers,,,,,,relaxed,positive
+ML562,MoodyLyrics4Q,Everything Sucks,Dope,,,,,,angry,negative
+ML563,MoodyLyrics4Q,Irresponsible Hate Anthem,Marilyn Manson,,,,,,angry,negative
+ML564,MoodyLyrics4Q,Soho Nights,The Puppini Sisters,,,,,,happy,positive
+ML565,MoodyLyrics4Q,Echodyne Harmonic,Sparta,,,,,,relaxed,positive
+ML566,MoodyLyrics4Q,Tequila,The Champs,,,,,,happy,positive
+ML567,MoodyLyrics4Q,Ace of Spades,Motorhead,,,,,,angry,negative
+ML568,MoodyLyrics4Q,Lay It Down,Cowboy Junkies,,,,,,relaxed,positive
+ML569,MoodyLyrics4Q,Bad Girl ,Black Buddafly,,,,,,happy,positive
+ML570,MoodyLyrics4Q,Something About You,Level 42,,,,,,happy,positive
+ML571,MoodyLyrics4Q,You Really Got Me,Kinks,,,,,,angry,negative
+ML572,MoodyLyrics4Q,Oops!...I Did It Again,Britney Spears,,,,,,happy,positive
+ML573,MoodyLyrics4Q,The Promise,The Cure,,,,,,angry,negative
+ML574,MoodyLyrics4Q,Tears of Laughter,Diary of Dreams,,,,,,sad,negative
+ML575,MoodyLyrics4Q,Not Fair,Kate Havnevik,,,,,,relaxed,positive
+ML576,MoodyLyrics4Q,Hollaback Girl,Gwen Stefani,,,,,,happy,positive
+ML577,MoodyLyrics4Q,The Everlasting,Manic Street Preachers,,,,,,sad,negative
+ML578,MoodyLyrics4Q,Downtown,Peaches,,,,,,happy,positive
+ML579,MoodyLyrics4Q,Middle of the Day,The Polyphonic Spree,,,,,,sad,negative
+ML580,MoodyLyrics4Q,Sacrifice,London After Midnight,,,,,,sad,negative
+ML581,MoodyLyrics4Q,A Place In The Sun,Stevie Wonder,,,,,,relaxed,positive
+ML582,MoodyLyrics4Q,The Wine Song,The Cat Empire,,,,,,happy,positive
+ML583,MoodyLyrics4Q,Butterfly,Donavon Frankenreiter,,,,,,relaxed,positive
+ML584,MoodyLyrics4Q,The Dark Of the Sun,Tom Petty And The Heartbreakers,,,,,,relaxed,positive
+ML585,MoodyLyrics4Q,War Pigs,Ozzy Osbourne,,,,,,angry,negative
+ML586,MoodyLyrics4Q,Childhood,Beach House,,,,,,relaxed,positive
+ML587,MoodyLyrics4Q,The Shadow Proves The Sunshine,Switchfoot,,,,,,relaxed,positive
+ML588,MoodyLyrics4Q,Cigarette,Ben Folds Five,,,,,,sad,negative
+ML589,MoodyLyrics4Q,I Wanna Be Me,The Sex Pistols,,,,,,angry,negative
+ML590,MoodyLyrics4Q,The Twist,Chubby Checker,,,,,,happy,positive
+ML591,MoodyLyrics4Q,Everybody Loves The Sunshine,Incognito,,,,,,relaxed,positive
+ML592,MoodyLyrics4Q,Shake Yer Dix,Peaches,,,,,,happy,positive
+ML593,MoodyLyrics4Q,Soul in Isolation,The Chameleons,,,,,,sad,negative
+ML594,MoodyLyrics4Q,What the Snowman Learned About Love,Stars,,,,,,relaxed,positive
+ML595,MoodyLyrics4Q,So What,The Anti-Nowhere League,,,,,,angry,negative
+ML596,MoodyLyrics4Q,Suck and Let Go,Peaches,,,,,,happy,positive
+ML597,MoodyLyrics4Q,Illegal i Song,Velvet Revolver,,,,,,angry,negative
+ML598,MoodyLyrics4Q,Chain Hang Low,Jibbs,,,,,,happy,positive
+ML599,MoodyLyrics4Q,I Run Away,Britney Spears,,,,,,sad,negative
+ML600,MoodyLyrics4Q,Swan Matches,Grand Archives,,,,,,relaxed,positive
+ML601,MoodyLyrics4Q,Pluto,Björk,,,,,,angry,negative
+ML602,MoodyLyrics4Q,Revelation,Brain Drill,,,,,,angry,negative
+ML603,MoodyLyrics4Q,I Tried,Anthony Hamilton,,,,,,relaxed,positive
+ML604,MoodyLyrics4Q,Pull Up To The Bumper,Grace Jones,,,,,,happy,positive
+ML605,MoodyLyrics4Q,Wind It Up,Gwen Stefani,,,,,,happy,positive
+ML606,MoodyLyrics4Q,Insomnia (Revised Album Version),Tyler Hilton,,,,,,relaxed,positive
+ML607,MoodyLyrics4Q,Ban The Tube Top,Reel Big Fish,,,,,,happy,positive
+ML608,MoodyLyrics4Q,Rough Around The Edges,Teitur,,,,,,relaxed,positive
+ML609,MoodyLyrics4Q,Demon Days,Gorillaz,,,,,,relaxed,positive
+ML610,MoodyLyrics4Q,China Roses,Enya,,,,,,relaxed,positive
+ML611,MoodyLyrics4Q,Cemetery Gates,Pantera,,,,,,angry,negative
+ML612,MoodyLyrics4Q,Loose Heart,Riverside,,,,,,sad,negative
+ML613,MoodyLyrics4Q,Look What You're Doin' To Me ,Jazzanova,,,,,,relaxed,positive
+ML614,MoodyLyrics4Q,Brecon Beacons,Supergrass,,,,,,happy,positive
+ML615,MoodyLyrics4Q,Bleak,Opeth,,,,,,sad,negative
+ML616,MoodyLyrics4Q,White Cluster,Opeth,,,,,,sad,negative
+ML617,MoodyLyrics4Q,Of Walking Abortion,Manic Street Preachers,,,,,,angry,negative
+ML618,MoodyLyrics4Q,Flexin',Shop Boyz,,,,,,happy,positive
+ML619,MoodyLyrics4Q,Sweet Child O' Mine,Guns N' Roses,,,,,,happy,positive
+ML620,MoodyLyrics4Q,Gimmie Gimmie Gimmie,Black Flag,,,,,,angry,negative
+ML621,MoodyLyrics4Q,Pictures,Timo Maas,,,,,,happy,positive
+ML622,MoodyLyrics4Q,Zero-Sum,Nine Inch Nails,,,,,,sad,negative
+ML623,MoodyLyrics4Q,The Girl From Ipanema,Astrud Gilberto,,,,,,relaxed,positive
+ML624,MoodyLyrics4Q,What You Waiting For?,Franz Ferdinand,,,,,,happy,positive
+ML625,MoodyLyrics4Q,Kiss N Tell,Ke$ha,,,,,,happy,positive
+ML626,MoodyLyrics4Q,Lyin' Ass Bitch,Fishbone,,,,,,happy,positive
+ML627,MoodyLyrics4Q,Would You...?,Touch and Go,,,,,,happy,positive
+ML628,MoodyLyrics4Q,Anticipating,Britney Spears,,,,,,happy,positive
+ML629,MoodyLyrics4Q,Killing In The Name,Rage Against the Machine,,,,,,angry,negative
+ML630,MoodyLyrics4Q,Waiting For You,Cult of Luna,,,,,,sad,negative
+ML631,MoodyLyrics4Q,Sea Breeze,Tyrone Wells,,,,,,relaxed,positive
+ML632,MoodyLyrics4Q,Captive Honour,Megadeth,,,,,,angry,negative
+ML633,MoodyLyrics4Q,Heaven's Gonna Burn Your Eyes,Thievery Corporation,,,,,,relaxed,positive
+ML634,MoodyLyrics4Q,Right Side Of My Brain,The-Dream,,,,,,sad,negative
+ML635,MoodyLyrics4Q,Walking,Tindersticks,,,,,,sad,negative
+ML636,MoodyLyrics4Q,Milk Lizard,The Dillinger Escape Plan,,,,,,angry,negative
+ML637,MoodyLyrics4Q,Smokestack Lightning,Howlin' Wolf,,,,,,angry,negative
+ML638,MoodyLyrics4Q,Sneakernight,Vanessa Hudgens,,,,,,happy,positive
+ML639,MoodyLyrics4Q,Tie You Up (The Pain of Love),The Rolling Stones,,,,,,angry,negative
+ML640,MoodyLyrics4Q,The Earth is Broken,Tim Buckley,,,,,,sad,negative
+ML641,MoodyLyrics4Q,Cops and Robbers,The Hoosiers,,,,,,happy,positive
+ML642,MoodyLyrics4Q,Detour Ahead,Jane Monheit,,,,,,relaxed,positive
+ML643,MoodyLyrics4Q,Window Seat,Erykah Badu,,,,,,relaxed,positive
+ML644,MoodyLyrics4Q,Survival of the Fittest,Mobb Deep,,,,,,angry,negative
+ML645,MoodyLyrics4Q,Dead to the World,Röyksopp,,,,,,relaxed,positive
+ML646,MoodyLyrics4Q,Getcha Groove On,Limp Bizkit,,,,,,angry,negative
+ML647,MoodyLyrics4Q,He Said She Said,Ashley Tisdale,,,,,,happy,positive
+ML648,MoodyLyrics4Q,9 To 5,Dolly Parton,,,,,,happy,positive
+ML649,MoodyLyrics4Q,Just One Fix,Ministry,,,,,,angry,negative
+ML650,MoodyLyrics4Q,A Time For Love,Shirley Horn,,,,,,relaxed,positive
+ML651,MoodyLyrics4Q,Breakin' Dishes,Rihanna,,,,,,angry,negative
+ML652,MoodyLyrics4Q,The Sailor Song,Toy-Box,,,,,,happy,positive
+ML653,MoodyLyrics4Q,Wild Child,Enya,,,,,,relaxed,positive
+ML654,MoodyLyrics4Q,Blood of Heroes,Megadeth,,,,,,angry,negative
+ML655,MoodyLyrics4Q,Mosh,Eminem,,,,,,angry,negative
+ML656,MoodyLyrics4Q,Pumpkin Soup,Kate Nash,,,,,,happy,positive
+ML657,MoodyLyrics4Q,My Violent Heart,Nine Inch Nails,,,,,,angry,negative
+ML658,MoodyLyrics4Q,The Conversation,Spahn Ranch,,,,,,sad,negative
+ML659,MoodyLyrics4Q,Faithful,Common,,,,,,relaxed,positive
+ML660,MoodyLyrics4Q,Jonz In My Bonz,D'Angelo,,,,,,relaxed,positive
+ML661,MoodyLyrics4Q,She's Got A Reason,The Coral,,,,,,relaxed,positive
+ML662,MoodyLyrics4Q,Mystery Repeats,Pete Philly & Perquisite,,,,,,happy,positive
+ML663,MoodyLyrics4Q,Masterfade,Andrew Bird,,,,,,relaxed,positive
+ML664,MoodyLyrics4Q,Redneck,Lamb of God,,,,,,angry,negative
+ML665,MoodyLyrics4Q,99,The Haunted,,,,,,angry,negative
+ML666,MoodyLyrics4Q,Dunkelheit,Burzum,,,,,,sad,negative
+ML667,MoodyLyrics4Q,Microphones in the Trees,A Silver Mt. Zion,,,,,,sad,negative
+ML668,MoodyLyrics4Q,Eyes Open,Gossip,,,,,,angry,negative
+ML669,MoodyLyrics4Q,In My Tears,Emigrate,,,,,,sad,negative
+ML670,MoodyLyrics4Q,Sonic Reducer,Dead Boys,,,,,,angry,negative
+ML671,MoodyLyrics4Q,Something About You,Anthony David,,,,,,relaxed,positive
+ML672,MoodyLyrics4Q,Wishing Heart,Lisa Loeb,,,,,,happy,positive
+ML673,MoodyLyrics4Q,Bottle Up And Explode!,Elliott Smith,,,,,,relaxed,positive
+ML674,MoodyLyrics4Q,The Tide,Neurosis,,,,,,sad,negative
+ML675,MoodyLyrics4Q,Wonderful Night,Fatboy Slim,,,,,,happy,positive
+ML676,MoodyLyrics4Q,Like I Love You,Justin Timberlake,,,,,,happy,positive
+ML677,MoodyLyrics4Q,Weather,Amel Larrieux,,,,,,relaxed,positive
+ML678,MoodyLyrics4Q,Listen To Your Body Tonight,Black Kids,,,,,,happy,positive
+ML679,MoodyLyrics4Q,Make Out Fall Out Make Up,Love Is All,,,,,,sad,negative
+ML680,MoodyLyrics4Q,Hickory Wind,The Byrds,,,,,,sad,negative
+ML681,MoodyLyrics4Q,Elysian Fields,Megadeth,,,,,,angry,negative
+ML682,MoodyLyrics4Q,Praise of Death,Slayer,,,,,,angry,negative
+ML683,MoodyLyrics4Q,Crazy In Love,Snow Patrol,,,,,,happy,positive
+ML684,MoodyLyrics4Q,She's Got That Vibe,R. Kelly & Public Announcement,,,,,,happy,positive
+ML685,MoodyLyrics4Q,Run for Your Life,The Beatles,,,,,,angry,negative
+ML686,MoodyLyrics4Q,Lilywhite,Cat Stevens,,,,,,relaxed,positive
+ML687,MoodyLyrics4Q,Bring the Noise,Anthrax,,,,,,angry,negative
+ML688,MoodyLyrics4Q,Ooh Ooh Baby,Britney Spears,,,,,,happy,positive
+ML689,MoodyLyrics4Q,Piece by Piece,Slayer,,,,,,angry,negative
+ML690,MoodyLyrics4Q,In the Navy,Village People,,,,,,happy,positive
+ML691,MoodyLyrics4Q,Flashdance,Deep Dish,,,,,,happy,positive
+ML692,MoodyLyrics4Q,Brave New Girl,Britney Spears,,,,,,happy,positive
+ML693,MoodyLyrics4Q,Summertime,Janis Joplin,,,,,,sad,negative
+ML694,MoodyLyrics4Q,Time to Start,Blue Man Group,,,,,,happy,positive
+ML695,MoodyLyrics4Q,Ride For Vengeance,Amon Amarth,,,,,,angry,negative
+ML696,MoodyLyrics4Q,Piano Song,Tindersticks,,,,,,sad,negative
+ML697,MoodyLyrics4Q,Great Big White World,Marilyn Manson,,,,,,sad,negative
+ML698,MoodyLyrics4Q,Black Mirror,Arcade Fire,,,,,,sad,negative
+ML699,MoodyLyrics4Q,Voodoo People,The Prodigy,,,,,,angry,negative
+ML700,MoodyLyrics4Q,Baby Don't You Cry No More,Frida,,,,,,relaxed,positive
+ML701,MoodyLyrics4Q,Mariella,Kate Nash,,,,,,happy,positive
+ML702,MoodyLyrics4Q,Under A Killing Moon,Thrice,,,,,,angry,negative
+ML703,MoodyLyrics4Q,Blue Ridge Mountains,Fleet Foxes,,,,,,relaxed,positive
+ML704,MoodyLyrics4Q,(Lack of) Love Will Tear Us Apart,The Honeydrips,,,,,,relaxed,positive
+ML705,MoodyLyrics4Q,Gazebo Tree,Kristin Hersh,,,,,,sad,negative
+ML706,MoodyLyrics4Q,Haunted By the Thought of You,Jill Tracy,,,,,,sad,negative
+ML707,MoodyLyrics4Q,Bring It All Back,S Club 7,,,,,,happy,positive
+ML708,MoodyLyrics4Q,Coldest Winter,Kanye West,,,,,,sad,negative
+ML709,MoodyLyrics4Q,Left Right,The Chemical Brothers,,,,,,angry,negative
+ML710,MoodyLyrics4Q,Ghosts,Antimatter,,,,,,sad,negative
+ML711,MoodyLyrics4Q,Voice Inside My Head,Dixie Chicks,,,,,,sad,negative
+ML712,MoodyLyrics4Q,"Broken, Beat & Scarred",Metallica,,,,,,angry,negative
+ML713,MoodyLyrics4Q,PhotoSynthesis,Carbon Based Lifeforms,,,,,,relaxed,positive
+ML714,MoodyLyrics4Q,This Is Pop?,XTC,,,,,,angry,negative
+ML715,MoodyLyrics4Q,The Darker Days Of Me & Him,PJ Harvey,,,,,,sad,negative
+ML716,MoodyLyrics4Q,In Your Back,Keren Ann,,,,,,relaxed,positive
+ML717,MoodyLyrics4Q,Bitter,Nine Days,,,,,,sad,negative
+ML718,MoodyLyrics4Q,Modern Art,Art Brut,,,,,,happy,positive
+ML719,MoodyLyrics4Q,Shine,Laura Marling,,,,,,sad,negative
+ML720,MoodyLyrics4Q,Living Next Door To Alice ,Smokie,,,,,,relaxed,positive
+ML721,MoodyLyrics4Q,Blood and Thunder,Mastodon,,,,,,angry,negative
+ML722,MoodyLyrics4Q,Watch T.V.,Rasputina,,,,,,sad,negative
+ML723,MoodyLyrics4Q,My Name Is,Eminem,,,,,,happy,positive
+ML724,MoodyLyrics4Q,Cast Anchor,Hanne Hukkelberg,,,,,,relaxed,positive
+ML725,MoodyLyrics4Q,Here You Come Again,Dolly Parton,,,,,,happy,positive
+ML726,MoodyLyrics4Q,Some Voices,Pinback,,,,,,relaxed,positive
+ML727,MoodyLyrics4Q,Me Against the World,2Pac,,,,,,angry,negative
+ML728,MoodyLyrics4Q,The Look Of Love,Chris Botti,,,,,,relaxed,positive
+ML729,MoodyLyrics4Q,In the Sun,Mortal Love,,,,,,sad,negative
+ML730,MoodyLyrics4Q,Holiday in Cambodia,Dead Kennedys,,,,,,angry,negative
+ML731,MoodyLyrics4Q,In Too Far,Acceptance,,,,,,relaxed,positive
+ML732,MoodyLyrics4Q,Neverending Math Equation,Sun Kil Moon,,,,,,relaxed,positive
+ML733,MoodyLyrics4Q,I Do Not Want This,Nine Inch Nails,,,,,,angry,negative
+ML734,MoodyLyrics4Q,Technologic,Daft Punk,,,,,,happy,positive
+ML735,MoodyLyrics4Q,Valentine,Martina McBride,,,,,,relaxed,positive
+ML736,MoodyLyrics4Q,Something New,The Airborne Toxic Event,,,,,,sad,negative
+ML737,MoodyLyrics4Q,Lie Detector,Sleeper,,,,,,happy,positive
+ML738,MoodyLyrics4Q,Deora Ar Mo Chroí,Enya,,,,,,relaxed,positive
+ML739,MoodyLyrics4Q,Daydreaming,Massive Attack,,,,,,relaxed,positive
+ML740,MoodyLyrics4Q,Lie To Me,Silverchair,,,,,,angry,negative
+ML741,MoodyLyrics4Q,Spiderwebs,No Doubt,,,,,,happy,positive
+ML742,MoodyLyrics4Q,Mr. Brownstone,Guns N Roses,,,,,,angry,negative
+ML743,MoodyLyrics4Q,The Blob,The Five Blobs,,,,,,happy,positive
+ML744,MoodyLyrics4Q,4st 7lb,Manic Street Preachers,,,,,,angry,negative
+ML745,MoodyLyrics4Q,Guardian Angel,Saybia,,,,,,sad,negative
+ML746,MoodyLyrics4Q,Crystal Skull,Mastodon,,,,,,angry,negative
+ML747,MoodyLyrics4Q,IMN,Mudvayne,,,,,,angry,negative
+ML748,MoodyLyrics4Q,Waltz for Koop,Koop,,,,,,relaxed,positive
+ML749,MoodyLyrics4Q,Total Eclipse of the Moon,Enigma,,,,,,relaxed,positive
+ML750,MoodyLyrics4Q,1nce Again,A Tribe Called Quest,,,,,,relaxed,positive
+ML751,MoodyLyrics4Q,Ribbon In The Sky,Stevie Wonder,,,,,,relaxed,positive
+ML752,MoodyLyrics4Q,You're Going Down,Sick Puppies,,,,,,angry,negative
+ML753,MoodyLyrics4Q,Vince The Loveable Stoner,The Fratellis,,,,,,happy,positive
+ML754,MoodyLyrics4Q,Lovesong For A Dead Child,Flowing Tears,,,,,,sad,negative
+ML755,MoodyLyrics4Q,Pull Out,Death From Above 1979,,,,,,happy,positive
+ML756,MoodyLyrics4Q,Claire,Jimmy Eat World,,,,,,relaxed,positive
+ML757,MoodyLyrics4Q,Hot Hot Hot,Buster Poindexter,,,,,,happy,positive
+ML758,MoodyLyrics4Q,Like Statues In The Garden Of Dreaming,Arcana,,,,,,sad,negative
+ML759,MoodyLyrics4Q,Just Like You,Keb' Mo',,,,,,relaxed,positive
+ML760,MoodyLyrics4Q,Time,Susanna and the Magical Orchestra,,,,,,relaxed,positive
+ML761,MoodyLyrics4Q,The Night They Drove Old Dixie Down,Joan Baez,,,,,,sad,negative
+ML762,MoodyLyrics4Q,Carolyna,Melanie C,,,,,,sad,negative
+ML763,MoodyLyrics4Q,O Sonho,Madredeus,,,,,,relaxed,positive
+ML764,MoodyLyrics4Q,Miasma,The Black Dahlia Murder,,,,,,angry,negative
+ML765,MoodyLyrics4Q,Children's Crusade,Sting,,,,,,sad,negative
+ML766,MoodyLyrics4Q,That Lonesome Road,James Taylor,,,,,,sad,negative
+ML767,MoodyLyrics4Q,U Not Like Me,50 Cent,,,,,,angry,negative
+ML768,MoodyLyrics4Q,Louie Louie,The Kingsmen,,,,,,happy,positive
+ML769,MoodyLyrics4Q,Stoned Is the Way of the Walk,Cypress Hill,,,,,,angry,negative
+ML770,MoodyLyrics4Q,God Is Real,India.Arie,,,,,,relaxed,positive
+ML771,MoodyLyrics4Q,The Nigga Ya Love to Hate,Ice Cube,,,,,,angry,negative
+ML772,MoodyLyrics4Q,Grease,Frankie Valli,,,,,,happy,positive
+ML773,MoodyLyrics4Q,I Want a New Drug,Huey Lewis & The News,,,,,,happy,positive
+ML774,MoodyLyrics4Q,Rock of Ages,Grant Lee Buffalo,,,,,,sad,negative
+ML775,MoodyLyrics4Q,Caught Out There,Kelis,,,,,,angry,negative
+ML776,MoodyLyrics4Q,She's My Man,Scissor Sisters,,,,,,happy,positive
+ML777,MoodyLyrics4Q,Lake Shore Drive,The Innocence Mission,,,,,,relaxed,positive
+ML778,MoodyLyrics4Q,Like The Last Time,Matt Wertz,,,,,,relaxed,positive
+ML779,MoodyLyrics4Q,Solitude ,Ella Fitzgerald,,,,,,relaxed,positive
+ML780,MoodyLyrics4Q,Thirteen,Ben Kweller,,,,,,sad,negative
+ML781,MoodyLyrics4Q,Running Out of Time,Ozzy Osbourne,,,,,,angry,negative
+ML782,MoodyLyrics4Q,Travelling Light,Tindersticks,,,,,,sad,negative
+ML783,MoodyLyrics4Q,Girl Boy,Blonde Redhead,,,,,,relaxed,positive
+ML784,MoodyLyrics4Q,London's Burning,The Clash,,,,,,angry,negative
+ML785,MoodyLyrics4Q,Bad Boy Boogie,Mark Kozelek,,,,,,sad,negative
+ML786,MoodyLyrics4Q,The Long Day Is Over,Norah Jones,,,,,,relaxed,positive
+ML787,MoodyLyrics4Q,Sugar Baby Love,The Rubettes,,,,,,happy,positive
+ML788,MoodyLyrics4Q,Green Island Serenade,Vienna Teng,,,,,,relaxed,positive
+ML789,MoodyLyrics4Q,Ailleurs,Keren Ann,,,,,,relaxed,positive
+ML790,MoodyLyrics4Q,Queremos paz,Gotan Project,,,,,,relaxed,positive
+ML791,MoodyLyrics4Q,There Is Nothing I Can Do,The Organ,,,,,,sad,negative
+ML792,MoodyLyrics4Q,Wolf in the Breast,Cocteau Twins,,,,,,relaxed,positive
+ML793,MoodyLyrics4Q,People Are People,A Perfect Circle,,,,,,relaxed,positive
+ML794,MoodyLyrics4Q,At the Left Hand Ov God,Behemoth,,,,,,angry,negative
+ML795,MoodyLyrics4Q,Blah Blah Blah ,Ke$ha,,,,,,happy,positive
+ML796,MoodyLyrics4Q,The Sounds Of Science,Beastie Boys,,,,,,happy,positive
+ML797,MoodyLyrics4Q,Glory,Essie Jain,,,,,,relaxed,positive
+ML798,MoodyLyrics4Q,Baby Boy,Beyoncé,,,,,,happy,positive
+ML799,MoodyLyrics4Q,Mi Le M' Uilinn,Karen Matheson,,,,,,relaxed,positive
+ML800,MoodyLyrics4Q,Stacy's Mom,Fountains Of Wayne,,,,,,happy,positive
+ML801,MoodyLyrics4Q,Declaration Of Love,Céline Dion,,,,,,happy,positive
+ML802,MoodyLyrics4Q,Welcome to the Terrordome,Public Enemy,,,,,,angry,negative
+ML803,MoodyLyrics4Q,No Vaseline,Ice Cube,,,,,,angry,negative
+ML804,MoodyLyrics4Q,Welcome to the Slaughterhouse,Lily Holbrook,,,,,,sad,negative
+ML805,MoodyLyrics4Q,Miss You Love,Silverchair,,,,,,sad,negative
+ML806,MoodyLyrics4Q,Vortex,Megadeth,,,,,,angry,negative
+ML807,MoodyLyrics4Q,Sometimes,Ours,,,,,,sad,negative
+ML808,MoodyLyrics4Q,The Pirates Who Don't Do Anything,Relient K,,,,,,happy,positive
+ML809,MoodyLyrics4Q,Call Your Name,Daughtry,,,,,,sad,negative
+ML810,MoodyLyrics4Q,New Deep,John Mayer,,,,,,relaxed,positive
+ML811,MoodyLyrics4Q,Awake,Moonspell,,,,,,sad,negative
+ML812,MoodyLyrics4Q,Who Knows Who Cares,Local Natives,,,,,,sad,negative
+ML813,MoodyLyrics4Q,Damage Inc.,Metallica,,,,,,angry,negative
+ML814,MoodyLyrics4Q,Let Your Love Be Strong,Switchfoot,,,,,,sad,negative
+ML815,MoodyLyrics4Q,Sister Of Night,Depeche Mode,,,,,,sad,negative
+ML816,MoodyLyrics4Q,Take my Scars,Machine Head,,,,,,angry,negative
+ML817,MoodyLyrics4Q,Look What You're Doin' To Me,Jazzanova,,,,,,relaxed,positive
+ML818,MoodyLyrics4Q,Darf Ich Das Behalten,Wir sind Helden,,,,,,sad,negative
+ML819,MoodyLyrics4Q,Alpha Centauri,At The Drive-In,,,,,,angry,negative
+ML820,MoodyLyrics4Q,Thoughtless,Korn,,,,,,angry,negative
+ML821,MoodyLyrics4Q,Satellite,Dave Matthews Band,,,,,,relaxed,positive
+ML822,MoodyLyrics4Q,Over The Rainbow,Celtic Woman,,,,,,relaxed,positive
+ML823,MoodyLyrics4Q,El Paso,Marty Robbins,,,,,,relaxed,positive
+ML824,MoodyLyrics4Q,Stupid In Love,Rihanna,,,,,,sad,negative
+ML825,MoodyLyrics4Q,If I Fall,Amber Pacific,,,,,,sad,negative
+ML826,MoodyLyrics4Q,Time To Let Go,Sally Shapiro,,,,,,sad,negative
+ML827,MoodyLyrics4Q,Supremist,Slayer,,,,,,angry,negative
+ML828,MoodyLyrics4Q,"The Blood, the Sweat, the Tears",Machine Head,,,,,,angry,negative
+ML829,MoodyLyrics4Q,Louie,Ida Maria,,,,,,happy,positive
+ML830,MoodyLyrics4Q,Never Ever,Shout Out Louds,,,,,,happy,positive
+ML831,MoodyLyrics4Q,Hold It Up,The Rocket Summer,,,,,,happy,positive
+ML832,MoodyLyrics4Q,Little Wing,Sting,,,,,,relaxed,positive
+ML833,MoodyLyrics4Q,Shadows Fall,The Coral,,,,,,happy,positive
+ML834,MoodyLyrics4Q,"Keep It Loose, Keep It Tight",Amos Lee,,,,,,relaxed,positive
+ML835,MoodyLyrics4Q,Say Just Words,Paradise Lost,,,,,,sad,negative
+ML836,MoodyLyrics4Q,Soldier Side,System of a Down,,,,,,angry,negative
+ML837,MoodyLyrics4Q,These Eyes,India.Arie,,,,,,relaxed,positive
+ML838,MoodyLyrics4Q,So Desperate,The Mountain Goats,,,,,,sad,negative
+ML839,MoodyLyrics4Q,Continental Drift (Flight Of The Bootymademoiselle),Ozma,,,,,,sad,negative
+ML840,MoodyLyrics4Q,Love Grows (Where My Rosemary Goes),Edison Lighthouse,,,,,,happy,positive
+ML841,MoodyLyrics4Q,Voice of the Voiceless,Rage Against the Machine,,,,,,angry,negative
+ML842,MoodyLyrics4Q,Indians,Anthrax,,,,,,angry,negative
+ML843,MoodyLyrics4Q,Favorite Disease,Thousand Foot Krutch,,,,,,sad,negative
+ML844,MoodyLyrics4Q,Meet Me in the Morning,Everything But The Girl,,,,,,relaxed,positive
+ML845,MoodyLyrics4Q,Little Horn,Marilyn Manson,,,,,,angry,negative
+ML846,MoodyLyrics4Q,Get It And Go,Razorlight,,,,,,happy,positive
+ML847,MoodyLyrics4Q,Rabiosa,Shakira,,,,,,happy,positive
+ML848,MoodyLyrics4Q,Times May Change You,Goldfish,,,,,,relaxed,positive
+ML849,MoodyLyrics4Q,Autobahn,Kraftwerk,,,,,,relaxed,positive
+ML850,MoodyLyrics4Q,Siberian Divide,Mastodon,,,,,,angry,negative
+ML851,MoodyLyrics4Q,Unforgivable Sinner,Lene Marlin,,,,,,sad,negative
+ML852,MoodyLyrics4Q,Vagabond,Wolfmother,,,,,,happy,positive
+ML853,MoodyLyrics4Q,White Light/White Heat,Velvet Underground,,,,,,angry,negative
+ML854,MoodyLyrics4Q,Whistle And Steam,Thea Gilmore,,,,,,relaxed,positive
+ML855,MoodyLyrics4Q,CONCEIVED SORROW,DIR EN GREY,,,,,,sad,negative
+ML856,MoodyLyrics4Q,I Found Out,John Lennon,,,,,,angry,negative
+ML857,MoodyLyrics4Q,Girl Anachronism,The Dresden Dolls,,,,,,angry,negative
+ML858,MoodyLyrics4Q,Bullet with your name,Scars of life,,,,,,angry,negative
+ML859,MoodyLyrics4Q,Altar of Sacrifice,Slayer,,,,,,angry,negative
+ML860,MoodyLyrics4Q,Gave Up,Nine Inch Nails,,,,,,angry,negative
+ML861,MoodyLyrics4Q,Evil Walks,AC/DC,,,,,,angry,negative
+ML862,MoodyLyrics4Q,Love Light In Flight,Stevie Wonder,,,,,,happy,positive
+ML863,MoodyLyrics4Q,Revolver,Rage Against the Machine,,,,,,angry,negative
+ML864,MoodyLyrics4Q,Snow Angel,Ron Sexsmith,,,,,,relaxed,positive
+ML865,MoodyLyrics4Q,Fight Till Death,Slayer,,,,,,angry,negative
+ML866,MoodyLyrics4Q,Youth,Soft Cell,,,,,,sad,negative
+ML867,MoodyLyrics4Q,Boy in a Rock and Roll Band,The Pierces,,,,,,happy,positive
+ML868,MoodyLyrics4Q,War,Bruce Springsteen,,,,,,angry,negative
+ML869,MoodyLyrics4Q,Kiss Me Where It Smells Funny,Bloodhound Gang,,,,,,happy,positive
+ML870,MoodyLyrics4Q,Together,The Intruders,,,,,,relaxed,positive
+ML871,MoodyLyrics4Q,Spoon,Cut Chemist,,,,,,relaxed,positive
+ML872,MoodyLyrics4Q,Jump,Girls Aloud,,,,,,happy,positive
+ML873,MoodyLyrics4Q,Little Girl Blue,Diana Krall,,,,,,relaxed,positive
+ML874,MoodyLyrics4Q,Miracles,Jefferson Starship,,,,,,relaxed,positive
+ML875,MoodyLyrics4Q,Rockupation,Mad Caddies,,,,,,happy,positive
+ML876,MoodyLyrics4Q,Melt Away,Mariah Carey,,,,,,relaxed,positive
+ML877,MoodyLyrics4Q,Da Mystery of Chessboxin',Wu-Tang Clan,,,,,,angry,negative
+ML878,MoodyLyrics4Q,Last Resort,Papa Roach,,,,,,angry,negative
+ML879,MoodyLyrics4Q,Falling Out Of Reach,Guillemots,,,,,,relaxed,positive
+ML880,MoodyLyrics4Q,LoveStoned/I Think She Knows Interlude,Justin Timberlake,,,,,,happy,positive
+ML881,MoodyLyrics4Q,Needle and Thread,Psapp,,,,,,relaxed,positive
+ML882,MoodyLyrics4Q,Lovesick for Mina,Cradle of Filth,,,,,,angry,negative
+ML883,MoodyLyrics4Q,Friday Night,Lily Allen,,,,,,happy,positive
+ML884,MoodyLyrics4Q,What If I'm Right,Sandi Thom,,,,,,happy,positive
+ML885,MoodyLyrics4Q,How Do,Sneaker Pimps,,,,,,relaxed,positive
+ML886,MoodyLyrics4Q,Pain,Jimmy Eat World,,,,,,angry,negative
+ML887,MoodyLyrics4Q,Wicked,Ice Cube,,,,,,angry,negative
+ML888,MoodyLyrics4Q,Fragile,Delta Goodrem,,,,,,sad,negative
+ML889,MoodyLyrics4Q,More and More,Captain Hollywood Project,,,,,,happy,positive
+ML890,MoodyLyrics4Q,The Latest Plague,From First To Last,,,,,,angry,negative
+ML891,MoodyLyrics4Q,Gods To The Godless,Primordial,,,,,,sad,negative
+ML892,MoodyLyrics4Q,Mic Check,Rage Against the Machine,,,,,,angry,negative
+ML893,MoodyLyrics4Q,Red Sam,Flyleaf,,,,,,angry,negative
+ML894,MoodyLyrics4Q,Killing in the Name,Rage Against The Machine,,,,,,angry,negative
+ML895,MoodyLyrics4Q,Set You Free,N-Trance,,,,,,happy,positive
+ML896,MoodyLyrics4Q,Before I Sleep,Mazzy Star,,,,,,relaxed,positive
+ML897,MoodyLyrics4Q,Feathers,Man Man,,,,,,sad,negative
+ML898,MoodyLyrics4Q,Words Of Love,The Mamas & The Papas,,,,,,relaxed,positive
+ML899,MoodyLyrics4Q,Blow Your Mind,Redman,,,,,,angry,negative
+ML900,MoodyLyrics4Q,If You Go Away,Scott Walker,,,,,,sad,negative
+ML901,MoodyLyrics4Q,Hello Alone,Anberlin,,,,,,angry,negative
+ML902,MoodyLyrics4Q,A Man And A Woman,U2,,,,,,happy,positive
+ML903,MoodyLyrics4Q,Captain Wedderburn,Great Big Sea,,,,,,relaxed,positive
+ML904,MoodyLyrics4Q,Rubber Biscuit,The Blues Brothers,,,,,,happy,positive
+ML905,MoodyLyrics4Q,Tell Me What You Want,The Pipettes,,,,,,happy,positive
+ML906,MoodyLyrics4Q,Citadel,The Rolling Stones,,,,,,angry,negative
+ML907,MoodyLyrics4Q,Monique the Freak,Ween,,,,,,happy,positive
+ML908,MoodyLyrics4Q,Gary Gilmore's Eyes,Adverts,,,,,,angry,negative
+ML909,MoodyLyrics4Q,Nancy (With The Laughing Face),Frank Sinatra,,,,,,relaxed,positive
+ML910,MoodyLyrics4Q,So Nice (Summer Samba),Bebel Gilberto,,,,,,relaxed,positive
+ML911,MoodyLyrics4Q,Nadine,New London Fire,,,,,,sad,negative
+ML912,MoodyLyrics4Q,Anniemal,Annie,,,,,,happy,positive
+ML913,MoodyLyrics4Q,Loch Raven,Animal Collective,,,,,,relaxed,positive
+ML914,MoodyLyrics4Q,Classic Cars,Bright Eyes,,,,,,relaxed,positive
+ML915,MoodyLyrics4Q,Hey Mann,Lizz Wright,,,,,,relaxed,positive
+ML916,MoodyLyrics4Q,Limp,Fiona Apple,,,,,,angry,negative
+ML917,MoodyLyrics4Q,ABC,The Jackson 5,,,,,,happy,positive
+ML918,MoodyLyrics4Q,One More Day (No Word),Todd Rundgren,,,,,,relaxed,positive
+ML919,MoodyLyrics4Q,Wind Below,Rage Against the Machine,,,,,,angry,negative
+ML920,MoodyLyrics4Q,Let's Get Married,Al Green,,,,,,relaxed,positive
+ML921,MoodyLyrics4Q,I'M The Guy Who Found The Lost Chord,Jimmy Durante,,,,,,happy,positive
+ML922,MoodyLyrics4Q,Too Long,Yael Naïm,,,,,,relaxed,positive
+ML923,MoodyLyrics4Q,Ceiling Wax,Chairlift,,,,,,relaxed,positive
+ML924,MoodyLyrics4Q,Nature,India.Arie,,,,,,relaxed,positive
+ML925,MoodyLyrics4Q,High (live in Ireland),James Blunt,,,,,,relaxed,positive
+ML926,MoodyLyrics4Q,Broken Butterflies,Lucinda Williams,,,,,,sad,negative
+ML927,MoodyLyrics4Q,Hard Time Killin' Floor Blues,Skip James,,,,,,sad,negative
+ML928,MoodyLyrics4Q,My Wine in Silence,My Dying Bride,,,,,,sad,negative
+ML929,MoodyLyrics4Q,Toubabo Koomi,Acid Bath,,,,,,angry,negative
+ML930,MoodyLyrics4Q,I Won't Be Crying,Infernal,,,,,,happy,positive
+ML931,MoodyLyrics4Q,Your Picture,Camera Obscura,,,,,,sad,negative
+ML932,MoodyLyrics4Q,Blinding,Florence + The Machine,,,,,,sad,negative
+ML933,MoodyLyrics4Q,Love Is an Arrow,Aberfeldy,,,,,,sad,negative
+ML934,MoodyLyrics4Q,The Lake,Antony and the Johnsons,,,,,,sad,negative
+ML935,MoodyLyrics4Q,Chapter I,Estatic Fear,,,,,,sad,negative
+ML936,MoodyLyrics4Q,The Last Time I Saw Richard,Joni Mitchell,,,,,,sad,negative
+ML937,MoodyLyrics4Q,This Boy's In Love,The Presets,,,,,,happy,positive
+ML938,MoodyLyrics4Q,Rip,Gary Numan,,,,,,sad,negative
+ML939,MoodyLyrics4Q,Enemies Of Reality,Nevermore,,,,,,angry,negative
+ML940,MoodyLyrics4Q,Pretty Pink Ribbon,Cake,,,,,,happy,positive
+ML941,MoodyLyrics4Q,Don't Fake This,Chevelle,,,,,,angry,negative
+ML942,MoodyLyrics4Q,Bloodletting,Lamb of God,,,,,,angry,negative
+ML943,MoodyLyrics4Q,Good Mourning/Black Friday,Megadeth,,,,,,angry,negative
+ML944,MoodyLyrics4Q,History Of A Boring Town,Less Than Jake,,,,,,happy,positive
+ML945,MoodyLyrics4Q,Soul and Fire,Sebadoh,,,,,,sad,negative
+ML946,MoodyLyrics4Q,Moonlapse Vertigo,Opeth,,,,,,sad,negative
+ML947,MoodyLyrics4Q,Runaway,Linkin Park,,,,,,angry,negative
+ML948,MoodyLyrics4Q,Sacrifice Unto Sebek,Nile,,,,,,angry,negative
+ML949,MoodyLyrics4Q,The Party's Crashing Us,of Montreal,,,,,,happy,positive
+ML950,MoodyLyrics4Q,Over The Rainbow,Jane Monheit,,,,,,relaxed,positive
+ML951,MoodyLyrics4Q,The Great Pagoda Of Funn,Donald Fagen,,,,,,relaxed,positive
+ML952,MoodyLyrics4Q,Friday Night at the Drive-In Bingo,Jens Lekman,,,,,,happy,positive
+ML953,MoodyLyrics4Q,Not This,Fannypack,,,,,,relaxed,positive
+ML954,MoodyLyrics4Q,Now or Never,Mýa,,,,,,happy,positive
+ML955,MoodyLyrics4Q,If Your Heart Isn't In It,Atlantic Starr,,,,,,relaxed,positive
+ML956,MoodyLyrics4Q,Closer To You,Cassandra Wilson,,,,,,relaxed,positive
+ML957,MoodyLyrics4Q,In Other Worlds,Azam Ali,,,,,,sad,negative
+ML958,MoodyLyrics4Q,Halloween,Misfits,,,,,,angry,negative
+ML959,MoodyLyrics4Q,A Bridge (That Carries Us Over),Clannad,,,,,,relaxed,positive
+ML960,MoodyLyrics4Q,A Real Woman,Squarepusher,,,,,,happy,positive
+ML961,MoodyLyrics4Q,Spill Your Blood,Mr. Hyde,,,,,,angry,negative
+ML962,MoodyLyrics4Q,Carresses,M83,,,,,,relaxed,positive
+ML963,MoodyLyrics4Q,Fake Tales of San Francisco,Arctic Monkeys,,,,,,happy,positive
+ML964,MoodyLyrics4Q,Just Like Frank,Less Than Jake,,,,,,happy,positive
+ML965,MoodyLyrics4Q,Sin,Megadeth,,,,,,angry,negative
+ML966,MoodyLyrics4Q,ALONE EN LA VIDA,L'Arc~en~Ciel,,,,,,sad,negative
+ML967,MoodyLyrics4Q,Heroin,The Velvet Underground,,,,,,sad,negative
+ML968,MoodyLyrics4Q,Must Have Done Something Right,Relient K,,,,,,happy,positive
+ML969,MoodyLyrics4Q,The Coffin Ships,Primordial,,,,,,sad,negative
+ML970,MoodyLyrics4Q,Sing Sang Sung,Air,,,,,,relaxed,positive
+ML971,MoodyLyrics4Q,River,Moya Brennan,,,,,,relaxed,positive
+ML972,MoodyLyrics4Q,Where Do I Go Now,Kane,,,,,,sad,negative
+ML973,MoodyLyrics4Q,Sea Ghost,The Unicorns,,,,,,happy,positive
+ML974,MoodyLyrics4Q,Butterfly,Corinne Bailey Rae,,,,,,relaxed,positive
+ML975,MoodyLyrics4Q,Another Rainy Day,Corinne Bailey Rae,,,,,,relaxed,positive
+ML976,MoodyLyrics4Q,Love Thing,Spice Girls,,,,,,happy,positive
+ML977,MoodyLyrics4Q,My Man's Gone Now,Nina Simone,,,,,,sad,negative
+ML978,MoodyLyrics4Q,Benzin,Rammstein,,,,,,angry,negative
+ML979,MoodyLyrics4Q,Reunion,Maggie Reilly,,,,,,relaxed,positive
+ML980,MoodyLyrics4Q,One Mic,Nas,,,,,,angry,negative
+ML981,MoodyLyrics4Q,Primitive,Róisín Murphy,,,,,,happy,positive
+ML982,MoodyLyrics4Q,Michael,Franz Ferdinand,,,,,,happy,positive
+ML983,MoodyLyrics4Q,Limbo Rock,Chubby Checker,,,,,,happy,positive
+ML984,MoodyLyrics4Q,Get Over You,Undertones,,,,,,angry,negative
+ML985,MoodyLyrics4Q,Cathar Rhythm,ERA,,,,,,relaxed,positive
+ML986,MoodyLyrics4Q,The Propaganda,Limp Bizkit,,,,,,angry,negative
+ML987,MoodyLyrics4Q,Kiss Kiss Kiss,Yoko Ono,,,,,,happy,positive
+ML988,MoodyLyrics4Q,One More Time,Fractured,,,,,,sad,negative
+ML989,MoodyLyrics4Q,Out of Mind,The Cure,,,,,,angry,negative
+ML990,MoodyLyrics4Q,Sex Toyz,BrokeNCYDE,,,,,,happy,positive
+ML991,MoodyLyrics4Q,Your Love Is Black,Kaskade,,,,,,sad,negative
+ML992,MoodyLyrics4Q,Back to This,The Helio Sequence,,,,,,relaxed,positive
+ML993,MoodyLyrics4Q,Bad,Michael Jackson,,,,,,happy,positive
+ML994,MoodyLyrics4Q,Dulce 3 Nocturno,Pescado Rabioso,,,,,,relaxed,positive
+ML995,MoodyLyrics4Q,The Beginning,Lifehouse,,,,,,relaxed,positive
+ML996,MoodyLyrics4Q,Monkeyland,The Chameleons,,,,,,sad,negative
+ML997,MoodyLyrics4Q,Nervous Breakdown,Black Flag,,,,,,angry,negative
+ML998,MoodyLyrics4Q,Slice Of Life,Bauhaus,,,,,,sad,negative
+ML999,MoodyLyrics4Q,Sunday Morning Coming Down,Johnny Cash,,,,,,sad,negative
+ML1000,MoodyLyrics4Q,Almost,Bowling For Soup,,,,,,happy,positive
+ML1001,MoodyLyrics4Q,Glow,Alien Ant Farm,,,,,,happy,positive
+ML1002,MoodyLyrics4Q,The Kids,Lou Reed,,,,,,sad,negative
+ML1003,MoodyLyrics4Q,Political,Halou,,,,,,relaxed,positive
+ML1004,MoodyLyrics4Q,Hold Me Tight,Evan Rachel Wood,,,,,,happy,positive
+ML1005,MoodyLyrics4Q,I Will Never See the Sun,Great Lake Swimmers,,,,,,relaxed,positive
+ML1006,MoodyLyrics4Q,Superfast Jellyfish,Gorillaz,,,,,,happy,positive
+ML1007,MoodyLyrics4Q,Heresy,Nine Inch Nails,,,,,,angry,negative
+ML1008,MoodyLyrics4Q,The Cross of Changes,Enigma,,,,,,relaxed,positive
+ML1009,MoodyLyrics4Q,Quarantined,At The Drive In,,,,,,angry,negative
+ML1010,MoodyLyrics4Q,Jellybones,The Unicorns,,,,,,happy,positive
+ML1011,MoodyLyrics4Q,This I Love,Guns N' Roses,,,,,,sad,negative
+ML1012,MoodyLyrics4Q,Dad,Venetian Snares,,,,,,sad,negative
+ML1013,MoodyLyrics4Q,"Oh, You Are the Roots That Sleep Beneath My Feet and Hold the Earth in Place",Bright Eyes,,,,,,relaxed,positive
+ML1014,MoodyLyrics4Q,Noah,Devendra Banhart,,,,,,relaxed,positive
+ML1015,MoodyLyrics4Q,All Play Dead,Nevermore,,,,,,angry,negative
+ML1016,MoodyLyrics4Q,Holocaust,Big Star,,,,,,sad,negative
+ML1017,MoodyLyrics4Q,Let Me,Rihanna,,,,,,happy,positive
+ML1018,MoodyLyrics4Q,No Easy Way Out,Ozzy Osbourne,,,,,,angry,negative
+ML1019,MoodyLyrics4Q,On A Beach,Richard Ashcroft,,,,,,relaxed,positive
+ML1020,MoodyLyrics4Q,Eat It,"""Weird Al"" Yankovic",,,,,,happy,positive
+ML1021,MoodyLyrics4Q,Institutionalized,Suicidal Tendencies,,,,,,angry,negative
+ML1022,MoodyLyrics4Q,Say Yeah,Acoustic Alchemy,,,,,,relaxed,positive
+ML1023,MoodyLyrics4Q,Rental Car,Beck,,,,,,happy,positive
+ML1024,MoodyLyrics4Q,Tonight in Flames,Cradle of Filth,,,,,,angry,negative
+ML1025,MoodyLyrics4Q,I'm Not Working,Manic Street Preachers,,,,,,sad,negative
+ML1026,MoodyLyrics4Q,Winding Road,Bonnie Somerville,,,,,,relaxed,positive
+ML1027,MoodyLyrics4Q,VINUSHKA,DIR EN GREY,,,,,,angry,negative
+ML1028,MoodyLyrics4Q,In A Dark Place,Gary Numan,,,,,,sad,negative
+ML1029,MoodyLyrics4Q,Wild Eyes,Mariee Sioux,,,,,,relaxed,positive
+ML1030,MoodyLyrics4Q,Another Year,K's Choice,,,,,,sad,negative
+ML1031,MoodyLyrics4Q,Kate Moss,Maximilian Hecker,,,,,,sad,negative
+ML1032,MoodyLyrics4Q,Your Woman,White Town,,,,,,happy,positive
+ML1033,MoodyLyrics4Q,(This Is) The Dream of Evan and Chan,Dntel,,,,,,relaxed,positive
+ML1034,MoodyLyrics4Q,Shake It Out,Manchester Orchestra,,,,,,angry,negative
+ML1035,MoodyLyrics4Q,Success,Jay-Z,,,,,,angry,negative
+ML1036,MoodyLyrics4Q,What Light,Wilco,,,,,,relaxed,positive
+ML1037,MoodyLyrics4Q,Hourglass,Squeeze,,,,,,happy,positive
+ML1038,MoodyLyrics4Q,March Of The Pigs,Nine Inch Nails,,,,,,angry,negative
+ML1039,MoodyLyrics4Q,The Deadly Rhythm,Refused,,,,,,angry,negative
+ML1040,MoodyLyrics4Q,Can't Stand You,Slayer,,,,,,angry,negative
+ML1041,MoodyLyrics4Q,No One Can Touch Us (Featuring Alex Gaskarth),Sing It Loud,,,,,,happy,positive
+ML1042,MoodyLyrics4Q,The Three Shadows Part 2,Bauhaus,,,,,,sad,negative
+ML1043,MoodyLyrics4Q,Man Overboard,Blink-182,,,,,,happy,positive
+ML1044,MoodyLyrics4Q,Here In The Real World,Alan Jackson,,,,,,sad,negative
+ML1045,MoodyLyrics4Q,Freeek! '04,George Michael,,,,,,happy,positive
+ML1046,MoodyLyrics4Q,I'm Real,Jennifer Lopez,,,,,,happy,positive
+ML1047,MoodyLyrics4Q,Black Metal,Venom,,,,,,angry,negative
+ML1048,MoodyLyrics4Q,Once Upon the Sea of Blissful Awareness,Shpongle,,,,,,relaxed,positive
+ML1049,MoodyLyrics4Q,little beast,Elbow,,,,,,sad,negative
+ML1050,MoodyLyrics4Q,Back to the Primitive,Soulfly,,,,,,angry,negative
+ML1051,MoodyLyrics4Q,Silver And Cold,AFI,,,,,,sad,negative
+ML1052,MoodyLyrics4Q,Favola Breve,Emma Shapplin,,,,,,relaxed,positive
+ML1053,MoodyLyrics4Q,Rockin' The Suburbs,Ben Folds,,,,,,happy,positive
+ML1054,MoodyLyrics4Q,Settle for Nothing,Rage Against the Machine,,,,,,angry,negative
+ML1055,MoodyLyrics4Q,The Killing Road,Megadeth,,,,,,angry,negative
+ML1056,MoodyLyrics4Q,Back To This,The Helio Sequence,,,,,,relaxed,positive
+ML1057,MoodyLyrics4Q,War,The Fall,,,,,,angry,negative
+ML1058,MoodyLyrics4Q,Twist and Shout,The Beatles,,,,,,happy,positive
+ML1059,MoodyLyrics4Q,So You Say,Siobhan Donaghy,,,,,,sad,negative
+ML1060,MoodyLyrics4Q,The Lion Sleeps Tonight,The Tokens,,,,,,happy,positive
+ML1061,MoodyLyrics4Q,Octopus's Garden,The Beatles,,,,,,happy,positive
+ML1062,MoodyLyrics4Q,Melt My Heart To Stone,Adele,,,,,,relaxed,positive
+ML1063,MoodyLyrics4Q,What's Happening Brother,Marvin Gaye,,,,,,relaxed,positive
+ML1064,MoodyLyrics4Q,Wrong Again,Martina McBride,,,,,,sad,negative
+ML1065,MoodyLyrics4Q,Beauty Through Order,Slayer,,,,,,angry,negative
+ML1066,MoodyLyrics4Q,Everyone Leaves,Mortiis,,,,,,sad,negative
+ML1067,MoodyLyrics4Q,The Tigers Have Spoken,Neko Case,,,,,,sad,negative
+ML1068,MoodyLyrics4Q,Pigsy In Space,Monkey,,,,,,relaxed,positive
+ML1069,MoodyLyrics4Q,Shitlist,L7,,,,,,angry,negative
+ML1070,MoodyLyrics4Q,Hungry Heart,Bruce Springsteen,,,,,,happy,positive
+ML1071,MoodyLyrics4Q,En Ring Til Aa Herske,Burzum,,,,,,sad,negative
+ML1072,MoodyLyrics4Q,Synthetic generation,Deathstars,,,,,,sad,negative
+ML1073,MoodyLyrics4Q,Jenna Bush Army,Nerf Herder,,,,,,happy,positive
+ML1074,MoodyLyrics4Q,Vienna Calling,Falco,,,,,,happy,positive
+ML1075,MoodyLyrics4Q,The Keys to Life vs. 15 Minutes of Fame,Atmosphere,,,,,,angry,negative
+ML1076,MoodyLyrics4Q,Forming,Germs,,,,,,angry,negative
+ML1077,MoodyLyrics4Q,Waking Up In the City,The Ditty Bops,,,,,,happy,positive
+ML1078,MoodyLyrics4Q,Gay,Stephen Lynch,,,,,,happy,positive
+ML1079,MoodyLyrics4Q,Criminals,Katatonia,,,,,,sad,negative
+ML1080,MoodyLyrics4Q,State Trooper,Bruce Springsteen,,,,,,sad,negative
+ML1081,MoodyLyrics4Q,Saturdays,Holly Brook,,,,,,relaxed,positive
+ML1082,MoodyLyrics4Q,A Perfect Sonnet,Bright Eyes,,,,,,sad,negative
+ML1083,MoodyLyrics4Q,Sweat ,Inner Circle,,,,,,happy,positive
+ML1084,MoodyLyrics4Q,Nothing Else Matters,Lucie Silvas,,,,,,sad,negative
+ML1085,MoodyLyrics4Q,Odchodząc,Republika,,,,,,sad,negative
+ML1086,MoodyLyrics4Q,Remember,Ella Fitzgerald,,,,,,relaxed,positive
+ML1087,MoodyLyrics4Q,Search and Destroy,The Stooges,,,,,,angry,negative
+ML1088,MoodyLyrics4Q,Aquarius,Boards of Canada,,,,,,relaxed,positive
+ML1089,MoodyLyrics4Q,Phantom Lord,Metallica,,,,,,angry,negative
+ML1090,MoodyLyrics4Q,I'd Be Better Off (In A Pine Box),Doug Stone,,,,,,sad,negative
+ML1091,MoodyLyrics4Q,Handlebars,Flobots,,,,,,angry,negative
+ML1092,MoodyLyrics4Q,I Will Be Heard,Hatebreed,,,,,,angry,negative
+ML1093,MoodyLyrics4Q,Under The Sea,Samuel E. Wright,,,,,,happy,positive
+ML1094,MoodyLyrics4Q,Jolene,Susanna and the Magical Orchestra,,,,,,relaxed,positive
+ML1095,MoodyLyrics4Q,The Power of Lard,Lard,,,,,,angry,negative
+ML1096,MoodyLyrics4Q,Terra Nova,iLiKETRAiNS,,,,,,sad,negative
+ML1097,MoodyLyrics4Q,Birdhouse In Your Soul,They Might Be Giants,,,,,,happy,positive
+ML1098,MoodyLyrics4Q,Wu-Tang Clan Ain't Nuthing Ta F' Wit,Wu-Tang Clan,,,,,,angry,negative
+ML1099,MoodyLyrics4Q,Lovesick,Friendly Fires,,,,,,happy,positive
+ML1100,MoodyLyrics4Q,Jesus' Tod,Burzum,,,,,,angry,negative
+ML1101,MoodyLyrics4Q,Know Your Enemy,Rage Against the Machine,,,,,,angry,negative
+ML1102,MoodyLyrics4Q,Man in the box,Tunng,,,,,,relaxed,positive
+ML1103,MoodyLyrics4Q,Savant,Oceansize,,,,,,sad,negative
+ML1104,MoodyLyrics4Q,American High,Machine Head,,,,,,angry,negative
+ML1105,MoodyLyrics4Q,T.R.I.C.,Otep,,,,,,angry,negative
+ML1106,MoodyLyrics4Q,Her Eyes,Pat Monahan,,,,,,happy,positive
+ML1107,MoodyLyrics4Q,Let Me Lie,Hayley Westenra,,,,,,relaxed,positive
+ML1108,MoodyLyrics4Q,I Wupped Batman's Ass,Wesley Willis,,,,,,happy,positive
+ML1109,MoodyLyrics4Q,Burning Flag,Marilyn Manson,,,,,,angry,negative
+ML1110,MoodyLyrics4Q,Know-How,Kings Of Convenience,,,,,,relaxed,positive
+ML1111,MoodyLyrics4Q,Oíche Chiúin (Silent Night),Enya,,,,,,relaxed,positive
+ML1112,MoodyLyrics4Q,Pay Me My Money Down,Bruce Springsteen,,,,,,happy,positive
+ML1113,MoodyLyrics4Q,Sweetest Sin,Jessica Simpson,,,,,,happy,positive
+ML1114,MoodyLyrics4Q,We Are the Storm,The Dillinger Escape Plan,,,,,,angry,negative
+ML1115,MoodyLyrics4Q,Suck My Left One,Bikini Kill,,,,,,angry,negative
+ML1116,MoodyLyrics4Q,Out!,Lunatica,,,,,,angry,negative
+ML1117,MoodyLyrics4Q,Obscure Alternatives,Japan,,,,,,sad,negative
+ML1118,MoodyLyrics4Q,Back Home To Me,Sophie Milman,,,,,,relaxed,positive
+ML1119,MoodyLyrics4Q,Ohne dich,Selig,,,,,,sad,negative
+ML1120,MoodyLyrics4Q,The Sweetest Memory,Eighteen Visions,,,,,,sad,negative
+ML1121,MoodyLyrics4Q,Mother Love,Queen,,,,,,sad,negative
+ML1122,MoodyLyrics4Q,Fake It,Seether,,,,,,angry,negative
+ML1123,MoodyLyrics4Q,Car Chase City,Tenacious D,,,,,,happy,positive
+ML1124,MoodyLyrics4Q,Amerimacka ,Thievery Corporation,,,,,,relaxed,positive
+ML1125,MoodyLyrics4Q,Dates From Hell,Remi Nicole,,,,,,happy,positive
+ML1126,MoodyLyrics4Q,Sibella,Richard Thompson,,,,,,sad,negative
+ML1127,MoodyLyrics4Q,Proxima Centauri,At The Drive-In,,,,,,angry,negative
+ML1128,MoodyLyrics4Q,Where Do We Go Now But Nowhere,Nick Cave and the Bad Seeds,,,,,,sad,negative
+ML1129,MoodyLyrics4Q,If The Kids Are United,Sham 69,,,,,,angry,negative
+ML1130,MoodyLyrics4Q,Miserable,Lit,,,,,,sad,negative
+ML1131,MoodyLyrics4Q,From Heaven to Dust,Azam Ali,,,,,,relaxed,positive
+ML1132,MoodyLyrics4Q,New Birds,Arab Strap,,,,,,sad,negative
+ML1133,MoodyLyrics4Q,Eye of the Tiger,Survivor,,,,,,angry,negative
+ML1134,MoodyLyrics4Q,Tourette's,Nirvana,,,,,,angry,negative
+ML1135,MoodyLyrics4Q,Bombtrack,Rage Against the Machine,,,,,,angry,negative
+ML1136,MoodyLyrics4Q,Fortunate Fool,Jack Johnson,,,,,,relaxed,positive
+ML1137,MoodyLyrics4Q,Far From Me,Nick Cave and the Bad Seeds,,,,,,sad,negative
+ML1138,MoodyLyrics4Q,Bette Davis Eyes (Acoustic Version),Kim Carnes,,,,,,relaxed,positive
+ML1139,MoodyLyrics4Q,Small Planes,The Innocence Mission,,,,,,sad,negative
+ML1140,MoodyLyrics4Q,Don't Worry 'Bout Me,Frank Sinatra,,,,,,relaxed,positive
+ML1141,MoodyLyrics4Q,Buttons,The Pussycat Dolls,,,,,,happy,positive
+ML1142,MoodyLyrics4Q,Half-Boyfriend,Jay Brannan,,,,,,sad,negative
+ML1143,MoodyLyrics4Q,The Mullet Burden,The Dillinger Escape Plan,,,,,,angry,negative
+ML1144,MoodyLyrics4Q,Revolution Action,Atari Teenage Riot,,,,,,angry,negative
+ML1145,MoodyLyrics4Q,Ikea,Jonathan Coulton,,,,,,happy,positive
+ML1146,MoodyLyrics4Q,Funkytown,"Lipps, Inc.",,,,,,happy,positive
+ML1147,MoodyLyrics4Q,Hallelujah,Nick Cave and the Bad Seeds,,,,,,sad,negative
+ML1148,MoodyLyrics4Q,I Am The Dog,Nevermore,,,,,,angry,negative
+ML1149,MoodyLyrics4Q,Could Be Anything,The Eames Era,,,,,,happy,positive
+ML1150,MoodyLyrics4Q,"Yes Sir, I Can Boogie",Baccara,,,,,,happy,positive
+ML1151,MoodyLyrics4Q,One Day,Trading Yesterday,,,,,,relaxed,positive
+ML1152,MoodyLyrics4Q,Breaking the Law,Judas Priest,,,,,,angry,negative
+ML1153,MoodyLyrics4Q,Straight Out of Line,Godsmack,,,,,,angry,negative
+ML1154,MoodyLyrics4Q,Ngiculela-Es Una Historia-I Am Singing,Stevie Wonder,,,,,,relaxed,positive
+ML1155,MoodyLyrics4Q,Lonely Tonight,Matt Wertz,,,,,,relaxed,positive
+ML1156,MoodyLyrics4Q,I'm Outta Time,Oasis,,,,,,sad,negative
+ML1157,MoodyLyrics4Q,Trash,Silverchair,,,,,,angry,negative
+ML1158,MoodyLyrics4Q,O.G. Original Gangster,Ice-T,,,,,,angry,negative
+ML1159,MoodyLyrics4Q,Nostalgia,Yanni,,,,,,relaxed,positive
+ML1160,MoodyLyrics4Q,Africa,D'Angelo,,,,,,relaxed,positive
+ML1161,MoodyLyrics4Q,Jojo,Boz Scaggs,,,,,,relaxed,positive
+ML1162,MoodyLyrics4Q,Kingdoms Of Rain,Mark Lanegan,,,,,,sad,negative
+ML1163,MoodyLyrics4Q,Unfold (Eagles Ballroom Live Version),Jason Mraz,,,,,,relaxed,positive
+ML1164,MoodyLyrics4Q,La chute de l'ange,Dark Sanctuary,,,,,,sad,negative
+ML1165,MoodyLyrics4Q,Scream Aim Fire,Bullet For My Valentine,,,,,,angry,negative
+ML1166,MoodyLyrics4Q,My Old Man's A Dustman,Lonnie Donegan,,,,,,happy,positive
+ML1167,MoodyLyrics4Q,The Hazards of Love 4 (The Drowned),The Decemberists,,,,,,sad,negative
+ML1168,MoodyLyrics4Q,All Shook Down,The Replacements,,,,,,relaxed,positive
+ML1169,MoodyLyrics4Q,Escape,Balligomingo,,,,,,relaxed,positive
+ML1170,MoodyLyrics4Q,The Rifle,Alela Diane,,,,,,relaxed,positive
+ML1171,MoodyLyrics4Q,Hang On To Your Love,Sade,,,,,,relaxed,positive
+ML1172,MoodyLyrics4Q,Hungry Like The Wolf,Duran Duran,,,,,,happy,positive
+ML1173,MoodyLyrics4Q,Let Me Kiss You,Morrissey,,,,,,sad,negative
+ML1174,MoodyLyrics4Q,My Little Brother,Art Brut,,,,,,happy,positive
+ML1175,MoodyLyrics4Q,Macho Man,Village People,,,,,,happy,positive
+ML1176,MoodyLyrics4Q,Let Yourself Go,Ella Fitzgerald,,,,,,relaxed,positive
+ML1177,MoodyLyrics4Q,Wasn't Born To Follow,The Byrds,,,,,,happy,positive
+ML1178,MoodyLyrics4Q,Drinks Taste Better When They're Free,ElectroVamp,,,,,,happy,positive
+ML1179,MoodyLyrics4Q,Bacchante,Theatre of Tragedy,,,,,,sad,negative
+ML1180,MoodyLyrics4Q,We Have All The Time In The World,The Puppini Sisters,,,,,,happy,positive
+ML1181,MoodyLyrics4Q,Flowers,The Emotions,,,,,,relaxed,positive
+ML1182,MoodyLyrics4Q,Unlovable,Darren Hayes,,,,,,sad,negative
+ML1183,MoodyLyrics4Q,Year 3000,Busted,,,,,,happy,positive
+ML1184,MoodyLyrics4Q,Hard to Love a Man,Magnolia Electric Co.,,,,,,sad,negative
+ML1185,MoodyLyrics4Q,Wish,Nine Inch Nails,,,,,,angry,negative
+ML1186,MoodyLyrics4Q,Drop Out,Converge,,,,,,angry,negative
+ML1187,MoodyLyrics4Q,I'm a Man,Yardbirds,,,,,,angry,negative
+ML1188,MoodyLyrics4Q,Gentlemen,Teddy Geiger,,,,,,relaxed,positive
+ML1189,MoodyLyrics4Q,Fractions,Emery,,,,,,sad,negative
+ML1190,MoodyLyrics4Q,Ruff Ryders' Anthem,DMX,,,,,,angry,negative
+ML1191,MoodyLyrics4Q,The Prayer,Celtic Woman,,,,,,relaxed,positive
+ML1192,MoodyLyrics4Q,Do You Remember Rock 'N' Roll Radio?,Ramones,,,,,,happy,positive
+ML1193,MoodyLyrics4Q,Us Or Them,The Cure,,,,,,angry,negative
+ML1194,MoodyLyrics4Q,Paradise City,Guns N Roses,,,,,,angry,negative
+ML1195,MoodyLyrics4Q,No es lo mismo,Alejandro Sanz,,,,,,happy,positive
+ML1196,MoodyLyrics4Q,Prison Song,System of a Down,,,,,,angry,negative
+ML1197,MoodyLyrics4Q,Gets Me Through,Ozzy Osbourne,,,,,,angry,negative
+ML1198,MoodyLyrics4Q,When You Were Around,Lene Marlin,,,,,,relaxed,positive
+ML1199,MoodyLyrics4Q,"No Envy, No Fear",Joshua Radin,,,,,,relaxed,positive
+ML1200,MoodyLyrics4Q,Pupilas Lejanas,Los Pericos,,,,,,relaxed,positive
+ML1201,MoodyLyrics4Q,Hard to Explain,Strokes,,,,,,angry,negative
+ML1202,MoodyLyrics4Q,"O'Malley, Former Underdog",Deerhoof,,,,,,happy,positive
+ML1203,MoodyLyrics4Q,My Kind Of Scene,Powderfinger,,,,,,relaxed,positive
+ML1204,MoodyLyrics4Q,Serial Killer,Vio-Lence,,,,,,angry,negative
+ML1205,MoodyLyrics4Q,She Thinks My Tractor's Sexy,Kenny Chesney,,,,,,happy,positive
+ML1206,MoodyLyrics4Q,Spawn Again,Silverchair,,,,,,angry,negative
+ML1207,MoodyLyrics4Q,Dead Embryonic Cells,Sepultura,,,,,,angry,negative
+ML1208,MoodyLyrics4Q,Only A Fool Would Say That,Steely Dan,,,,,,relaxed,positive
+ML1209,MoodyLyrics4Q,I Think Of You,IVY,,,,,,relaxed,positive
+ML1210,MoodyLyrics4Q,Lonely Is The Word,Black Sabbath,,,,,,sad,negative
+ML1211,MoodyLyrics4Q,We Are All Animals,The Rakes,,,,,,happy,positive
+ML1212,MoodyLyrics4Q,Sometimes I Rhyme Slow,Nice & Smooth,,,,,,relaxed,positive
+ML1213,MoodyLyrics4Q,Dead Bodies Everywhere,Korn,,,,,,angry,negative
+ML1214,MoodyLyrics4Q,Heavenly Day,Patty Griffin,,,,,,relaxed,positive
+ML1215,MoodyLyrics4Q,MLK,U2,,,,,,sad,negative
+ML1216,MoodyLyrics4Q,Legalize It,Peter Tosh,,,,,,relaxed,positive
+ML1217,MoodyLyrics4Q,Comic Strip,Serge Gainsbourg,,,,,,happy,positive
+ML1218,MoodyLyrics4Q,So Did We,Isis,,,,,,sad,negative
+ML1219,MoodyLyrics4Q,Cryin' Like a Bitch,Godsmack,,,,,,angry,negative
+ML1220,MoodyLyrics4Q,Soul Boy,Edyta Górniak,,,,,,relaxed,positive
+ML1221,MoodyLyrics4Q,Total Eclipse Of The Heart,Nicki French,,,,,,happy,positive
+ML1222,MoodyLyrics4Q,For Those Of Ya'll Who Wear Fannie Packs,Ben Folds Five,,,,,,happy,positive
+ML1223,MoodyLyrics4Q,Ooh La La,The Wiseguys,,,,,,happy,positive
+ML1224,MoodyLyrics4Q,Welcome To My World,Nerf Herder,,,,,,happy,positive
+ML1225,MoodyLyrics4Q,It's So Simple,Saosin,,,,,,angry,negative
+ML1226,MoodyLyrics4Q,Soul Deep,Lisa Stansfield,,,,,,relaxed,positive
+ML1227,MoodyLyrics4Q,She Bangs,Ricky Martin,,,,,,happy,positive
+ML1228,MoodyLyrics4Q,Frankie Teardrop,Suicide,,,,,,angry,negative
+ML1229,MoodyLyrics4Q,Do You Love Me,The Contours,,,,,,happy,positive
+ML1230,MoodyLyrics4Q,Flip Ya Lid,Nightmares On Wax,,,,,,relaxed,positive
+ML1231,MoodyLyrics4Q,Burn,Nine Inch Nails,,,,,,angry,negative
+ML1232,MoodyLyrics4Q,Melancholy Mood,Ziggy Marley,,,,,,relaxed,positive
+ML1233,MoodyLyrics4Q,Magic Stick ,Lil' Kim,,,,,,happy,positive
+ML1234,MoodyLyrics4Q,A Moment Lost,Enya,,,,,,relaxed,positive
+ML1235,MoodyLyrics4Q,Strange Way,Firefall,,,,,,relaxed,positive
+ML1236,MoodyLyrics4Q,Who Put the Stump?,Bob Rivers,,,,,,happy,positive
+ML1237,MoodyLyrics4Q,Maggie's Farm,Rage Against the Machine,,,,,,angry,negative
+ML1238,MoodyLyrics4Q,More Than Ever,Take 6,,,,,,relaxed,positive
+ML1239,MoodyLyrics4Q,Good Day,Nappy Roots,,,,,,happy,positive
+ML1240,MoodyLyrics4Q,On the Way,Abra Moore,,,,,,relaxed,positive
+ML1241,MoodyLyrics4Q,Am I Evil?,Diamond Head,,,,,,angry,negative
+ML1242,MoodyLyrics4Q,In A Mellow Tone,Ella Fitzgerald,,,,,,relaxed,positive
+ML1243,MoodyLyrics4Q,Without a Face,Rage Against the Machine,,,,,,angry,negative
+ML1244,MoodyLyrics4Q,Away In A Manger,Celtic Woman,,,,,,relaxed,positive
+ML1245,MoodyLyrics4Q,Deadlands,Tristania,,,,,,sad,negative
+ML1246,MoodyLyrics4Q,Hearts of Darkness,Cavalera Conspiracy,,,,,,angry,negative
+ML1247,MoodyLyrics4Q,Wattershed,Foo Fighters,,,,,,angry,negative
+ML1248,MoodyLyrics4Q,I Fucking Hate You,Godsmack,,,,,,angry,negative
+ML1249,MoodyLyrics4Q,Shine,Joni Mitchell,,,,,,relaxed,positive
+ML1250,MoodyLyrics4Q,Ev'ry Time We Say Goodbye,Simply Red,,,,,,sad,negative
+ML1251,MoodyLyrics4Q,Three Imaginary Boys,The Cure,,,,,,sad,negative
+ML1252,MoodyLyrics4Q,Angel,Judas Priest,,,,,,sad,negative
+ML1253,MoodyLyrics4Q,Show Me,Jill Scott,,,,,,relaxed,positive
+ML1254,MoodyLyrics4Q,Doctor Online,Zeromancer,,,,,,angry,negative
+ML1255,MoodyLyrics4Q,Something Against You,Pixies,,,,,,angry,negative
+ML1256,MoodyLyrics4Q,Whip It,Devo,,,,,,happy,positive
+ML1257,MoodyLyrics4Q,Reckoning,Killswitch Engage,,,,,,angry,negative
+ML1258,MoodyLyrics4Q,Red Army Blues,The Waterboys,,,,,,sad,negative
+ML1259,MoodyLyrics4Q,Fuck you,Headstones,,,,,,angry,negative
+ML1260,MoodyLyrics4Q,War Pigs,Black Sabbath,,,,,,angry,negative
+ML1261,MoodyLyrics4Q,Slaughter Of The Soul,At the Gates,,,,,,angry,negative
+ML1262,MoodyLyrics4Q,Letter From America,The Proclaimers,,,,,,relaxed,positive
+ML1263,MoodyLyrics4Q,Cable TV,"""Weird Al"" Yankovic",,,,,,happy,positive
+ML1264,MoodyLyrics4Q,Aliens Exist,blink-182,,,,,,happy,positive
+ML1265,MoodyLyrics4Q,Deteriorate,Demon Hunter,,,,,,sad,negative
+ML1266,MoodyLyrics4Q,Jenny From the Block,Jennifer Lopez,,,,,,happy,positive
+ML1267,MoodyLyrics4Q,This Will Be Our Year,OK Go,,,,,,happy,positive
+ML1268,MoodyLyrics4Q,Hotter And Hotter,Rollins Band,,,,,,angry,negative
+ML1269,MoodyLyrics4Q,Your Kisses Are Wasted On Me,The Pipettes,,,,,,happy,positive
+ML1270,MoodyLyrics4Q,Velvet Tongue,VIRGIN BLACK,,,,,,sad,negative
+ML1271,MoodyLyrics4Q,Promise Me,Luther Vandross,,,,,,relaxed,positive
+ML1272,MoodyLyrics4Q,The Runaways,Anberlin,,,,,,angry,negative
+ML1273,MoodyLyrics4Q,A Felicidade,Tom Zé,,,,,,relaxed,positive
+ML1274,MoodyLyrics4Q,Reasons To Be Beautiful,Hole,,,,,,sad,negative
+ML1275,MoodyLyrics4Q,Heartache Every Moment,HIM,,,,,,sad,negative
+ML1276,MoodyLyrics4Q,Blackwater Park,Opeth,,,,,,sad,negative
+ML1277,MoodyLyrics4Q,Side Two,Sondre Lerche,,,,,,relaxed,positive
+ML1278,MoodyLyrics4Q,There's A Place In Hell For Me And My Friends,Morrissey,,,,,,sad,negative
+ML1279,MoodyLyrics4Q,Chanbara,At The Drive-In,,,,,,angry,negative
+ML1280,MoodyLyrics4Q,Dude (Looks Like A Lady),Aerosmith,,,,,,happy,positive
+ML1281,MoodyLyrics4Q,Wo bist du,Rammstein,,,,,,sad,negative
+ML1282,MoodyLyrics4Q,Good Life,Weezer,,,,,,angry,negative
+ML1283,MoodyLyrics4Q,The Colour Of Spring,Mark Hollis,,,,,,sad,negative
+ML1284,MoodyLyrics4Q,Crypts of Eternity,Slayer,,,,,,angry,negative
+ML1285,MoodyLyrics4Q,I Hear You Now,Jon & Vangelis,,,,,,relaxed,positive
+ML1286,MoodyLyrics4Q,Crazy In Love,Beyoncé,,,,,,happy,positive
+ML1287,MoodyLyrics4Q,Bang Your Head (Metal Health),Quiet Riot,,,,,,angry,negative
+ML1288,MoodyLyrics4Q,Pistol Grip Pump,Rage Against the Machine,,,,,,angry,negative
+ML1289,MoodyLyrics4Q,Fallen Icons,Delerium,,,,,,relaxed,positive
+ML1290,MoodyLyrics4Q,H Gang,Donald Fagen,,,,,,relaxed,positive
+ML1291,MoodyLyrics4Q,1970 (Take 3),The Stooges,,,,,,angry,negative
+ML1292,MoodyLyrics4Q,Big Day Coming,Yo La Tengo,,,,,,relaxed,positive
+ML1293,MoodyLyrics4Q,The Blessing,Celtic Woman,,,,,,relaxed,positive
+ML1294,MoodyLyrics4Q,Take This Job and Shove It,Johnny Paycheck,,,,,,happy,positive
+ML1295,MoodyLyrics4Q,Epic,Faith No More,,,,,,angry,negative
+ML1296,MoodyLyrics4Q,Don't Wanna Say Goodbye,Blu Cantrell,,,,,,sad,negative
+ML1297,MoodyLyrics4Q,Blues from a Gun,Jesus & Mary Chain,,,,,,angry,negative
+ML1298,MoodyLyrics4Q,Make It Real,The Jets,,,,,,sad,negative
+ML1299,MoodyLyrics4Q,Out Of This World,The Cure,,,,,,sad,negative
+ML1300,MoodyLyrics4Q,The Words,Psapp,,,,,,happy,positive
+ML1301,MoodyLyrics4Q,Move,Cansei de Ser Sexy,,,,,,happy,positive
+ML1302,MoodyLyrics4Q,Rebel Rebel,Seu Jorge,,,,,,relaxed,positive
+ML1303,MoodyLyrics4Q,Inner City Pressure,Flight of the Conchords,,,,,,happy,positive
+ML1304,MoodyLyrics4Q,The Vagabond,Air,,,,,,relaxed,positive
+ML1305,MoodyLyrics4Q,Your Guts (I Hate 'Em),Reel Big Fish,,,,,,angry,negative
+ML1306,MoodyLyrics4Q,The Story,Limp Bizkit,,,,,,angry,negative
+ML1307,MoodyLyrics4Q,Hardly Getting Over It,Hüsker Dü,,,,,,sad,negative
+ML1308,MoodyLyrics4Q,Sad Songs And Waltzes,Willie Nelson,,,,,,sad,negative
+ML1309,MoodyLyrics4Q,I Got You,Split Enz,,,,,,angry,negative
+ML1310,MoodyLyrics4Q,Salio El Sol,Don Omar,,,,,,happy,positive
+ML1311,MoodyLyrics4Q,The Long Way Home,Norah Jones,,,,,,relaxed,positive
+ML1312,MoodyLyrics4Q,Cosmonaut,At The Drive-In,,,,,,angry,negative
+ML1313,MoodyLyrics4Q,There Is No Such Place,Augie March,,,,,,relaxed,positive
+ML1314,MoodyLyrics4Q,Black Tongue,Yeah Yeah Yeahs,,,,,,happy,positive
+ML1315,MoodyLyrics4Q,A Call For Blood,Hatebreed,,,,,,angry,negative
+ML1316,MoodyLyrics4Q,Art Is Hard,Cursive,,,,,,angry,negative
+ML1317,MoodyLyrics4Q,Sometimes a River,The String Cheese Incident,,,,,,relaxed,positive
+ML1318,MoodyLyrics4Q,Only You,Lisa Ekdahl,,,,,,relaxed,positive
+ML1319,MoodyLyrics4Q,Flying Over Bus Stops,Athlete,,,,,,relaxed,positive
+ML1320,MoodyLyrics4Q,Satin Doll,Duke Ellington,,,,,,relaxed,positive
+ML1321,MoodyLyrics4Q,C11 H17 N2 O2 S Na,Anthrax,,,,,,angry,negative
+ML1322,MoodyLyrics4Q,Walk On The Wild Side,Rick Braun,,,,,,relaxed,positive
+ML1323,MoodyLyrics4Q,Downfall,Children of Bodom,,,,,,angry,negative
+ML1324,MoodyLyrics4Q,Fuck tha Police,N.W.A,,,,,,angry,negative
+ML1325,MoodyLyrics4Q,Wrong,Ministry,,,,,,angry,negative
+ML1326,MoodyLyrics4Q,Halo of Flies,Alice Cooper,,,,,,angry,negative
+ML1327,MoodyLyrics4Q,Animal Fat,Apostle of Hustle,,,,,,relaxed,positive
+ML1328,MoodyLyrics4Q,Razorblade,Blue October,,,,,,angry,negative
+ML1329,MoodyLyrics4Q,Room 13,Black Flag,,,,,,angry,negative
+ML1330,MoodyLyrics4Q,For Beginners,M. Ward,,,,,,relaxed,positive
+ML1331,MoodyLyrics4Q,Bala Bay Inn,Valley of the Giants,,,,,,relaxed,positive
+ML1332,MoodyLyrics4Q,Hurry,Sleeping at Last,,,,,,relaxed,positive
+ML1333,MoodyLyrics4Q,Nachts um halb drei,Janina,,,,,,happy,positive
+ML1334,MoodyLyrics4Q,Free at Last,Antony and the Johnsons,,,,,,sad,negative
+ML1335,MoodyLyrics4Q,I've Loved Her So Long,Neil Young,,,,,,sad,negative
+ML1336,MoodyLyrics4Q,Summer Madness,Kool & The Gang,,,,,,relaxed,positive
+ML1337,MoodyLyrics4Q,Who Could Win a Rabbit,Animal Collective,,,,,,happy,positive
+ML1338,MoodyLyrics4Q,96 Tears,Question Mark & The Mysterians,,,,,,angry,negative
+ML1339,MoodyLyrics4Q,In The Ghetto,Elvis Presley,,,,,,sad,negative
+ML1340,MoodyLyrics4Q,Preghiera In Gennaio,Fabrizio De André,,,,,,sad,negative
+ML1341,MoodyLyrics4Q,Samba Da Minha Terra,João Gilberto,,,,,,relaxed,positive
+ML1342,MoodyLyrics4Q,Sleigh Ride,The Ronettes,,,,,,happy,positive
+ML1343,MoodyLyrics4Q,Super Freak,Rick James,,,,,,happy,positive
+ML1344,MoodyLyrics4Q,Speak My Language,Laurie Anderson,,,,,,sad,negative
+ML1345,MoodyLyrics4Q,Bartender,Keri Noble,,,,,,sad,negative
+ML1346,MoodyLyrics4Q,A Public Affair,Jessica Simpson,,,,,,happy,positive
+ML1347,MoodyLyrics4Q,Turn on Billie,The Pierces,,,,,,relaxed,positive
+ML1348,MoodyLyrics4Q,Shut Up,Madness,,,,,,happy,positive
+ML1349,MoodyLyrics4Q,Summertime,Miles Davis,,,,,,relaxed,positive
+ML1350,MoodyLyrics4Q,DemiRep,Bikini Kill,,,,,,angry,negative
+ML1351,MoodyLyrics4Q,Que Te Han Visto Llorar,Bronco,,,,,,sad,negative
+ML1352,MoodyLyrics4Q,Anti-Social,Anthrax,,,,,,angry,negative
+ML1353,MoodyLyrics4Q,Bezpowrotnie,Kasia Kowalska,,,,,,sad,negative
+ML1354,MoodyLyrics4Q,Through The Wire,Kanye West,,,,,,happy,positive
+ML1355,MoodyLyrics4Q,Dead Joe,Birthday Party,,,,,,angry,negative
+ML1356,MoodyLyrics4Q,Way You Walk,Papas Fritas,,,,,,happy,positive
+ML1357,MoodyLyrics4Q,The Demon,Emily Jane White,,,,,,sad,negative
+ML1358,MoodyLyrics4Q,Promises,Megadeth,,,,,,angry,negative
+ML1359,MoodyLyrics4Q,(Song For My) Sugar Spun Sister,The Stone Roses,,,,,,relaxed,positive
+ML1360,MoodyLyrics4Q,Hearts Alive,Mastodon,,,,,,angry,negative
+ML1361,MoodyLyrics4Q,Forest Hymn,Deep Forest,,,,,,relaxed,positive
+ML1362,MoodyLyrics4Q,Regal Zone,Siouxsie and the Banshees,,,,,,angry,negative
+ML1363,MoodyLyrics4Q,Ready To Meet Him,DMX,,,,,,sad,negative
+ML1364,MoodyLyrics4Q,The Justice of Suffering,Swallow The Sun,,,,,,sad,negative
+ML1365,MoodyLyrics4Q,Candle,Skinny Puppy,,,,,,sad,negative
+ML1366,MoodyLyrics4Q,Was immer jetzt geschieht,Glashaus,,,,,,sad,negative
+ML1367,MoodyLyrics4Q,Kyle Quit The Band,Tenacious D,,,,,,happy,positive
+ML1368,MoodyLyrics4Q,Take Comfort,The Cooper Temple Clause,,,,,,relaxed,positive
+ML1369,MoodyLyrics4Q,Killing an Arab,Cure,,,,,,angry,negative
+ML1370,MoodyLyrics4Q,Dream A Little Dream,Laura Fygi,,,,,,relaxed,positive
+ML1371,MoodyLyrics4Q,The Poison,Bullet For My Valentine,,,,,,angry,negative
+ML1372,MoodyLyrics4Q,Patterns,Simon & Garfunkel,,,,,,relaxed,positive
+ML1373,MoodyLyrics4Q,Ragga,Martina Topley-Bird,,,,,,happy,positive
+ML1374,MoodyLyrics4Q,Lovely Creature,Nick Cave and the Bad Seeds,,,,,,sad,negative
+ML1375,MoodyLyrics4Q,Impossible,Wu-Tang Clan,,,,,,sad,negative
+ML1376,MoodyLyrics4Q,Wyjątkowo zimny maj,Maanam,,,,,,sad,negative
+ML1377,MoodyLyrics4Q,The Photos On My Wall,Good Shoes,,,,,,happy,positive
+ML1378,MoodyLyrics4Q,Walk with Me in Hell,Lamb of God,,,,,,angry,negative
+ML1379,MoodyLyrics4Q,Since I Don't Have You,The Brian Setzer Orchestra,,,,,,sad,negative
+ML1380,MoodyLyrics4Q,Keys Out Lights On,Jenny Owen Youngs,,,,,,relaxed,positive
+ML1381,MoodyLyrics4Q,Under Fire,Kosheen,,,,,,sad,negative
+ML1382,MoodyLyrics4Q,I Get A Kick Out Of You,Ella Fitzgerald,,,,,,relaxed,positive
+ML1383,MoodyLyrics4Q,Born Again,Marilyn Manson,,,,,,angry,negative
+ML1384,MoodyLyrics4Q,In Fiction,Isis,,,,,,sad,negative
+ML1385,MoodyLyrics4Q,I'd Be Broken,Sophie Zelmani,,,,,,relaxed,positive
+ML1386,MoodyLyrics4Q,Ski Mask Way,50 Cent,,,,,,angry,negative
+ML1387,MoodyLyrics4Q,Gangsta Gangsta,N.W.A,,,,,,angry,negative
+ML1388,MoodyLyrics4Q,Grace Unhearing,My Dying Bride,,,,,,sad,negative
+ML1389,MoodyLyrics4Q,Magic Doors,Portishead,,,,,,sad,negative
+ML1390,MoodyLyrics4Q,How to Survive in South Central,Ice Cube,,,,,,angry,negative
+ML1391,MoodyLyrics4Q,La Bomba,Ricky Martin,,,,,,happy,positive
+ML1392,MoodyLyrics4Q,Another worthless day,Von Hertzen Brothers,,,,,,sad,negative
+ML1393,MoodyLyrics4Q,Weed Song,Bone Thugs-N-Harmony,,,,,,relaxed,positive
+ML1394,MoodyLyrics4Q,The Coat Is Always On,Cat Power,,,,,,sad,negative
+ML1395,MoodyLyrics4Q,Whatever It Is,Ben Lee,,,,,,relaxed,positive
+ML1396,MoodyLyrics4Q,To the Lighthouse,Patrick Wolf,,,,,,sad,negative
+ML1397,MoodyLyrics4Q,A.I.R.,Anthrax,,,,,,angry,negative
+ML1398,MoodyLyrics4Q,Whenever You're Around,Jill Scott,,,,,,relaxed,positive
+ML1399,MoodyLyrics4Q,I Do Not Want What I Haven't Got,Sinéad O'Connor,,,,,,relaxed,positive
+ML1400,MoodyLyrics4Q,Woodstock,Matthews' Southern Comfort,,,,,,relaxed,positive
+ML1401,MoodyLyrics4Q,Beyond The Sea,Celtic Woman,,,,,,relaxed,positive
+ML1402,MoodyLyrics4Q,Around The Bend,The Asteroids Galaxy Tour,,,,,,happy,positive
+ML1403,MoodyLyrics4Q,Six Shooter,Queens Of The Stone Age,,,,,,angry,negative
+ML1404,MoodyLyrics4Q,The Winner Takes It All,Meryl Streep,,,,,,sad,negative
+ML1405,MoodyLyrics4Q,Everybody Knows,Concrete Blonde,,,,,,sad,negative
+ML1406,MoodyLyrics4Q,Relax,G. Love & Special Sauce,,,,,,relaxed,positive
+ML1407,MoodyLyrics4Q,The Count Of Monte Christo,Noisettes,,,,,,happy,positive
+ML1408,MoodyLyrics4Q,All By Myself,Jamie O'Neal,,,,,,sad,negative
+ML1409,MoodyLyrics4Q,Worst Case Scenario,The Hoosiers,,,,,,happy,positive
+ML1410,MoodyLyrics4Q,Black Flowers,Yo La Tengo,,,,,,relaxed,positive
+ML1411,MoodyLyrics4Q,Don't Let Me Stop You,Kelly Clarkson,,,,,,angry,negative
+ML1412,MoodyLyrics4Q,Don't Tell A Soul,Katatonia,,,,,,sad,negative
+ML1413,MoodyLyrics4Q,It's Warmer In The Basement,Cobra Starship,,,,,,happy,positive
+ML1414,MoodyLyrics4Q,Why Can't I Be You?,The Cure,,,,,,happy,positive
+ML1415,MoodyLyrics4Q,One For My Baby,Dianne Reeves,,,,,,relaxed,positive
+ML1416,MoodyLyrics4Q,Celebration of the Lizard,The Doors,,,,,,angry,negative
+ML1417,MoodyLyrics4Q,Medicine Bottle,Red House Painters,,,,,,sad,negative
+ML1418,MoodyLyrics4Q,The Luckiest Guy On The Lower East Side,The Magnetic Fields,,,,,,happy,positive
+ML1419,MoodyLyrics4Q,Come On Eileen,Dexys Midnight Runners,,,,,,happy,positive
+ML1420,MoodyLyrics4Q,Love Is An Unfamiliar Name,The Duke Spirit,,,,,,happy,positive
+ML1421,MoodyLyrics4Q,I Couldn't Sleep,Au Revoir Simone,,,,,,relaxed,positive
+ML1422,MoodyLyrics4Q,Losing Tomorrow,October Tide,,,,,,sad,negative
+ML1423,MoodyLyrics4Q,Apology,Alesana,,,,,,sad,negative
+ML1424,MoodyLyrics4Q,Don't Blow Your Top,KMFDM,,,,,,angry,negative
+ML1425,MoodyLyrics4Q,Blue Glow,Pulp,,,,,,sad,negative
+ML1426,MoodyLyrics4Q,Shelf,Jonas Brothers,,,,,,happy,positive
+ML1427,MoodyLyrics4Q,Blue Mountain River,Cara Dillon,,,,,,relaxed,positive
+ML1428,MoodyLyrics4Q,Haunted,Evanescence,,,,,,sad,negative
+ML1429,MoodyLyrics4Q,The Scale,Interpol,,,,,,sad,negative
+ML1430,MoodyLyrics4Q,The Sky And The Dawn And The Sun,Celtic Woman,,,,,,relaxed,positive
+ML1431,MoodyLyrics4Q,La Camisa Negra,Juanes,,,,,,happy,positive
+ML1432,MoodyLyrics4Q,Talking To A Brick Wall,The Cooper Temple Clause,,,,,,sad,negative
+ML1433,MoodyLyrics4Q,Change My World,Moya Brennan,,,,,,relaxed,positive
+ML1434,MoodyLyrics4Q,I Want To Be Free,The Ohio Players,,,,,,relaxed,positive
+ML1435,MoodyLyrics4Q,Scandalous,Mis-Teeq,,,,,,happy,positive
+ML1436,MoodyLyrics4Q,You Put A Move On My Heart,Tamia,,,,,,relaxed,positive
+ML1437,MoodyLyrics4Q,At Night,Shakedown,,,,,,happy,positive
+ML1438,MoodyLyrics4Q,Your Gold Teeth II,Steely Dan,,,,,,relaxed,positive
+ML1439,MoodyLyrics4Q,Sadness Is A Blessing,Lykke Li,,,,,,sad,negative
+ML1440,MoodyLyrics4Q,Black Diamond,Kiss,,,,,,happy,positive
+ML1441,MoodyLyrics4Q,Balloon,Hanne Hukkelberg,,,,,,relaxed,positive
+ML1442,MoodyLyrics4Q,No Fun,Sex Pistols,,,,,,angry,negative
+ML1443,MoodyLyrics4Q,I'm Nobody's Baby,Judy Garland,,,,,,sad,negative
+ML1444,MoodyLyrics4Q,Listen,Beyoncé,,,,,,sad,negative
+ML1445,MoodyLyrics4Q,Dune Sea,Unbelievable Truth,,,,,,sad,negative
+ML1446,MoodyLyrics4Q,O Paraíso,Madredeus,,,,,,relaxed,positive
+ML1447,MoodyLyrics4Q,You Ruined Everything,Jonathan Coulton,,,,,,happy,positive
+ML1448,MoodyLyrics4Q,This Song,Badly Drawn Boy,,,,,,relaxed,positive
+ML1449,MoodyLyrics4Q,No Shelter,Rage Against the Machine,,,,,,angry,negative
+ML1450,MoodyLyrics4Q,Shuffle Your Feet,Marla Hansen,,,,,,relaxed,positive
+ML1451,MoodyLyrics4Q,Fire,Sophie Zelmani,,,,,,sad,negative
+ML1452,MoodyLyrics4Q,Get It While You Can,Janis Joplin,,,,,,relaxed,positive
+ML1453,MoodyLyrics4Q,30 Seconds Over Tokyo,Pere Ubu,,,,,,angry,negative
+ML1454,MoodyLyrics4Q,Hyaluron,Eftos,,,,,,angry,negative
+ML1455,MoodyLyrics4Q,Tess Shit,Kool Keith,,,,,,angry,negative
+ML1456,MoodyLyrics4Q,1992,Blur,,,,,,sad,negative
+ML1457,MoodyLyrics4Q,Creepy Crawler,Zombie Girl,,,,,,angry,negative
+ML1458,MoodyLyrics4Q,Don't They Have Payphones Wherever You Were Last Night,Casiotone for the Painfully Alone,,,,,,sad,negative
+ML1459,MoodyLyrics4Q,Your Magic Is Working,of Montreal,,,,,,happy,positive
+ML1460,MoodyLyrics4Q,Merciless Cult,DIR EN GREY,,,,,,angry,negative
+ML1461,MoodyLyrics4Q,A Strange Arrangement,Mayer Hawthorne,,,,,,relaxed,positive
+ML1462,MoodyLyrics4Q,Foam Hands,Destroyer,,,,,,sad,negative
+ML1463,MoodyLyrics4Q,Doctor Jeep,The Sisters Of Mercy,,,,,,sad,negative
+ML1464,MoodyLyrics4Q,Undivided,Thirteen Senses,,,,,,sad,negative
+ML1465,MoodyLyrics4Q,Ice & Snow,Sambassadeur,,,,,,relaxed,positive
+ML1466,MoodyLyrics4Q,Pulse of the Maggots,Slipknot,,,,,,angry,negative
+ML1467,MoodyLyrics4Q,Rich Girl,Gwen Stefani,,,,,,happy,positive
+ML1468,MoodyLyrics4Q,Sadistic Embrace,Carnifex,,,,,,angry,negative
+ML1469,MoodyLyrics4Q,Here Comes the Pain,Slayer,,,,,,angry,negative
+ML1470,MoodyLyrics4Q,SOS,Rihanna,,,,,,happy,positive
+ML1471,MoodyLyrics4Q,Hello It's Me,The Isley Brothers,,,,,,relaxed,positive
+ML1472,MoodyLyrics4Q,Walking Around,The Innocence Mission,,,,,,relaxed,positive
+ML1473,MoodyLyrics4Q,Upon This Tidal Wave of Young Blood,Clap Your Hands Say Yeah,,,,,,happy,positive
+ML1474,MoodyLyrics4Q,We Break The Dawn,Michelle Williams,,,,,,happy,positive
+ML1475,MoodyLyrics4Q,Ilman sinua olen lyijyä,Scandinavian Music Group,,,,,,sad,negative
+ML1476,MoodyLyrics4Q,She Stands Up,M83,,,,,,relaxed,positive
+ML1477,MoodyLyrics4Q,Babylon's Burning,The Ruts,,,,,,angry,negative
+ML1478,MoodyLyrics4Q,Modern Dance,Pere Ubu,,,,,,angry,negative
+ML1479,MoodyLyrics4Q,Easy Hearts,Whiskeytown,,,,,,relaxed,positive
+ML1480,MoodyLyrics4Q,Train of Consequences,Megadeth,,,,,,angry,negative
+ML1481,MoodyLyrics4Q,Fragile Dreams,Anathema,,,,,,sad,negative
+ML1482,MoodyLyrics4Q,Always,Matt Dusk,,,,,,relaxed,positive
+ML1483,MoodyLyrics4Q,Burning Bridges,Remy Shand,,,,,,relaxed,positive
+ML1484,MoodyLyrics4Q,Hyper Music,Muse,,,,,,angry,negative
+ML1485,MoodyLyrics4Q,Você Me Faz Tão Bem,Detonautas Roque Clube,,,,,,sad,negative
+ML1486,MoodyLyrics4Q,What's The Word,We Are Scientists,,,,,,angry,negative
+ML1487,MoodyLyrics4Q,Wiseman,Slightly Stoopid,,,,,,relaxed,positive
+ML1488,MoodyLyrics4Q,The Destroying Angel,Anaal Nathrakh,,,,,,angry,negative
+ML1489,MoodyLyrics4Q,Evil Has Never,Union of Knives,,,,,,sad,negative
+ML1490,MoodyLyrics4Q,Spooky,Imogen Heap,,,,,,relaxed,positive
+ML1491,MoodyLyrics4Q,Godzilla,Blue Oyster Cult,,,,,,angry,negative
+ML1492,MoodyLyrics4Q,It Could Be You,Blur,,,,,,happy,positive
+ML1493,MoodyLyrics4Q,Free Among the Dead,Diamanda Galás,,,,,,angry,negative
+ML1494,MoodyLyrics4Q,Teachers,Leonard Cohen,,,,,,sad,negative
+ML1495,MoodyLyrics4Q,No Man Can Find The War,Tim Buckley,,,,,,sad,negative
+ML1496,MoodyLyrics4Q,Jump in the Line,Harry Belafonte,,,,,,happy,positive
+ML1497,MoodyLyrics4Q,Bad Company,Bad Company,,,,,,sad,negative
+ML1498,MoodyLyrics4Q,Multiply,Jamie Lidell,,,,,,happy,positive
+ML1499,MoodyLyrics4Q,Cross Bones Style,Cat Power,,,,,,angry,negative
+ML1500,MoodyLyrics4Q,Darkness of Christ,Slayer,,,,,,angry,negative
+ML1501,MoodyLyrics4Q,Dead Cell,Papa Roach,,,,,,angry,negative
+ML1502,MoodyLyrics4Q,Lights On,The Pierces,,,,,,happy,positive
+ML1503,MoodyLyrics4Q,Boys Club,Ween,,,,,,happy,positive
+ML1504,MoodyLyrics4Q,I Don't Believe in You,Talk Talk,,,,,,sad,negative
+ML1505,MoodyLyrics4Q,Burn Out,The Cinematic Orchestra,,,,,,relaxed,positive
+ML1506,MoodyLyrics4Q,Pig Society,Dope,,,,,,angry,negative
+ML1507,MoodyLyrics4Q,The End of a Love Affair,Stina Nordenstam,,,,,,sad,negative
+ML1508,MoodyLyrics4Q,Story and Pictures,Woven Hand,,,,,,sad,negative
+ML1509,MoodyLyrics4Q,Feel Good Hit Of The Summer,Queens Of The Stone Age,,,,,,happy,positive
+ML1510,MoodyLyrics4Q,Embrace,Pnau,,,,,,happy,positive
+ML1511,MoodyLyrics4Q,Glory Verse,Maps,,,,,,relaxed,positive
+ML1512,MoodyLyrics4Q,Portsall (Departure Song),Flowing Tears,,,,,,sad,negative
+ML1513,MoodyLyrics4Q,Nobody Knows The Trouble I've Seen,Louis Armstrong,,,,,,sad,negative
+ML1514,MoodyLyrics4Q,Down Home Girl,Old Crow Medicine Show,,,,,,happy,positive
+ML1515,MoodyLyrics4Q,Walk Between Raindrops,Donald Fagen,,,,,,relaxed,positive
+ML1516,MoodyLyrics4Q,VOLARE,Al Martino,,,,,,happy,positive
+ML1517,MoodyLyrics4Q,Speedy Gonzales,Pat Boone,,,,,,happy,positive
+ML1518,MoodyLyrics4Q,Big Fun,Inner City,,,,,,happy,positive
+ML1519,MoodyLyrics4Q,The Writ,Black Sabbath,,,,,,angry,negative
+ML1520,MoodyLyrics4Q,But I Feel Good,Groove Armada,,,,,,happy,positive
+ML1521,MoodyLyrics4Q,Pins and Needles,Billy Talent,,,,,,sad,negative
+ML1522,MoodyLyrics4Q,Crush 'Em,Megadeth,,,,,,angry,negative
+ML1523,MoodyLyrics4Q,Whole Lotta History,Girls Aloud,,,,,,sad,negative
+ML1524,MoodyLyrics4Q,Adam's Song,Blink 182,,,,,,angry,negative
+ML1525,MoodyLyrics4Q,Mal Poli,Yelle,,,,,,happy,positive
+ML1526,MoodyLyrics4Q,You're the Coliseum,Shearwater,,,,,,relaxed,positive
+ML1527,MoodyLyrics4Q,Are You Ready To Be Heartbroken?,Lloyd Cole And The Commotions,,,,,,sad,negative
+ML1528,MoodyLyrics4Q,Breakout,Miley Cyrus,,,,,,happy,positive
+ML1529,MoodyLyrics4Q,The Baying of the Hounds,Opeth,,,,,,sad,negative
+ML1530,MoodyLyrics4Q,What's My Name?,DMX,,,,,,angry,negative
+ML1531,MoodyLyrics4Q,Things She Said,Chris Garneau,,,,,,sad,negative
+ML1532,MoodyLyrics4Q,The Light at the End of the World,My Dying Bride,,,,,,sad,negative
+ML1533,MoodyLyrics4Q,"Sorry, I'm A Lady",Baccara,,,,,,happy,positive
+ML1534,MoodyLyrics4Q,Filth God,Panzer AG,,,,,,angry,negative
+ML1535,MoodyLyrics4Q,Platypus,Green Day,,,,,,angry,negative
+ML1536,MoodyLyrics4Q,Baby Can I Hold You,Boyzone,,,,,,relaxed,positive
+ML1537,MoodyLyrics4Q,Life In One Day,Howard Jones,,,,,,happy,positive
+ML1538,MoodyLyrics4Q,Falling,Mindy Smith,,,,,,relaxed,positive
+ML1539,MoodyLyrics4Q,Ghost In This House,Shenandoah,,,,,,sad,negative
+ML1540,MoodyLyrics4Q,Golden Grounds,The Gathering,,,,,,sad,negative
+ML1541,MoodyLyrics4Q,For Bitter Or Worse,Anouk,,,,,,sad,negative
+ML1542,MoodyLyrics4Q,Rotten Apples,The Smashing Pumpkins,,,,,,sad,negative
+ML1543,MoodyLyrics4Q,Heartbroke,The Good Life,,,,,,sad,negative
+ML1544,MoodyLyrics4Q,The Horizon Has Been Defeated,Jack Johnson,,,,,,relaxed,positive
+ML1545,MoodyLyrics4Q,This Night Has Opened My Eyes,The Smiths,,,,,,sad,negative
+ML1546,MoodyLyrics4Q,Love Steals Us From Loneliness,Idlewild,,,,,,sad,negative
+ML1547,MoodyLyrics4Q,You Will Only Break My Heart,Delta Goodrem,,,,,,happy,positive
+ML1548,MoodyLyrics4Q,Last Caress/Green Hell,Metallica,,,,,,angry,negative
+ML1549,MoodyLyrics4Q,Right Now,Korn,,,,,,angry,negative
+ML1550,MoodyLyrics4Q,Murder For The Money,Morphine,,,,,,sad,negative
+ML1551,MoodyLyrics4Q,To the Wind,Neurosis,,,,,,sad,negative
+ML1552,MoodyLyrics4Q,All Right Now,Free,,,,,,happy,positive
+ML1553,MoodyLyrics4Q,Please Please Me,The Beatles,,,,,,happy,positive
+ML1554,MoodyLyrics4Q,In Da Club,50 Cent,,,,,,happy,positive
+ML1555,MoodyLyrics4Q,Other Ways,Trevor Hall,,,,,,relaxed,positive
+ML1556,MoodyLyrics4Q,Don't Do It,Sharon Van Etten,,,,,,sad,negative
+ML1557,MoodyLyrics4Q,Wait and Bleed,Slipknot,,,,,,angry,negative
+ML1558,MoodyLyrics4Q,"Congratulations, I hate you",Alesana,,,,,,angry,negative
+ML1559,MoodyLyrics4Q,Diamonds in the Sky,Husky Rescue,,,,,,relaxed,positive
+ML1560,MoodyLyrics4Q,Middle Class Revolt,The Fall,,,,,,angry,negative
+ML1561,MoodyLyrics4Q,Die Motherfucker Die,Dope,,,,,,angry,negative
+ML1562,MoodyLyrics4Q,Poppin' Champagne,All Time Low,,,,,,happy,positive
+ML1563,MoodyLyrics4Q,Black Curtains,Megadeth,,,,,,angry,negative
+ML1564,MoodyLyrics4Q,Snake,PJ Harvey,,,,,,angry,negative
+ML1565,MoodyLyrics4Q,Mastermind,Megadeth,,,,,,angry,negative
+ML1566,MoodyLyrics4Q,The Night They Drove Old Dixie Down (alternate mix),The Band,,,,,,sad,negative
+ML1567,MoodyLyrics4Q,Sahti-Waari,Turisas,,,,,,happy,positive
+ML1568,MoodyLyrics4Q,Xmas Curtain,My Morning Jacket,,,,,,relaxed,positive
+ML1569,MoodyLyrics4Q,Delicate,Terence Trent D'arby,,,,,,relaxed,positive
+ML1570,MoodyLyrics4Q,Oil Express,Wesley Willis,,,,,,happy,positive
+ML1571,MoodyLyrics4Q,In The Rain ,Boney James,,,,,,relaxed,positive
+ML1572,MoodyLyrics4Q,Screaming in the Night,Krokus,,,,,,angry,negative
+ML1573,MoodyLyrics4Q,Full Moon,The Black Ghosts,,,,,,relaxed,positive
+ML1574,MoodyLyrics4Q,Megalomaniac,Incubus,,,,,,angry,negative
+ML1575,MoodyLyrics4Q,God Is Coming,Antimatter,,,,,,sad,negative
+ML1576,MoodyLyrics4Q,Changeless,Carbon Leaf,,,,,,relaxed,positive
+ML1577,MoodyLyrics4Q,30.000 Pés,Pato Fu,,,,,,relaxed,positive
+ML1578,MoodyLyrics4Q,Take A Message,Remy Shand,,,,,,relaxed,positive
+ML1579,MoodyLyrics4Q,Everything You Ever Wanted,Hawk Nelson,,,,,,sad,negative
+ML1580,MoodyLyrics4Q,The Love You Save,The Jackson 5,,,,,,happy,positive
+ML1581,MoodyLyrics4Q,Into the Lake of Ghosts,My Dying Bride,,,,,,sad,negative
+ML1582,MoodyLyrics4Q,Nighttime Maneuvers,Little Brother,,,,,,relaxed,positive
+ML1583,MoodyLyrics4Q,The Shade Of Poison Trees,Dashboard Confessional,,,,,,sad,negative
+ML1584,MoodyLyrics4Q,"Bin ich nur glücklich, wenn es schmerzt",Böhse Onkelz,,,,,,sad,negative
+ML1585,MoodyLyrics4Q,Return to Innocence,Enigma,,,,,,relaxed,positive
+ML1586,MoodyLyrics4Q,Sylvia's Mother,Dr. Hook,,,,,,sad,negative
+ML1587,MoodyLyrics4Q,Soldier,Eminem,,,,,,angry,negative
+ML1588,MoodyLyrics4Q,Temple of the Morning Star,Today Is The Day,,,,,,sad,negative
+ML1589,MoodyLyrics4Q,One Way Or Another,Blondie,,,,,,happy,positive
+ML1590,MoodyLyrics4Q,Modern Guilt,Beck,,,,,,relaxed,positive
+ML1591,MoodyLyrics4Q,I Love My Boss,Moxy Früvous,,,,,,happy,positive
+ML1592,MoodyLyrics4Q,Someone Put Your Hand Out,Michael Jackson,,,,,,relaxed,positive
+ML1593,MoodyLyrics4Q,Mr Understanding,Pete and the Pirates,,,,,,happy,positive
+ML1594,MoodyLyrics4Q,Flesh Storm,Slayer,,,,,,angry,negative
+ML1595,MoodyLyrics4Q,Nookie,Limp Bizkit,,,,,,angry,negative
+ML1596,MoodyLyrics4Q,The Grey Man,Copeland,,,,,,relaxed,positive
+ML1597,MoodyLyrics4Q,Mary Shut The Garden Door,Donald Fagen,,,,,,relaxed,positive
+ML1598,MoodyLyrics4Q,Pistachio,Lisa Hannigan,,,,,,relaxed,positive
+ML1599,MoodyLyrics4Q,Dirty Song,Cars Can Be Blue,,,,,,happy,positive
+ML1600,MoodyLyrics4Q,I'm Crying (Mother's Tears),Grace Jones,,,,,,sad,negative
+ML1601,MoodyLyrics4Q,Amylase,Cajun Dance Party,,,,,,happy,positive
+ML1602,MoodyLyrics4Q,The Beat Goes On,Britney Spears,,,,,,happy,positive
+ML1603,MoodyLyrics4Q,Immortelle and Paper Caravelle,Kayo Dot,,,,,,relaxed,positive
+ML1604,MoodyLyrics4Q,Walking Away,Brother Ali,,,,,,sad,negative
+ML1605,MoodyLyrics4Q,Free Your Mind,En Vogue,,,,,,happy,positive
+ML1606,MoodyLyrics4Q,Yeah Yeah,Bodyrox,,,,,,happy,positive
+ML1607,MoodyLyrics4Q,Get Down Tonight,KC And The Sunshine Band,,,,,,happy,positive
+ML1608,MoodyLyrics4Q,Posters,Jack Johnson,,,,,,relaxed,positive
+ML1609,MoodyLyrics4Q,New Star in the Sky,Air,,,,,,relaxed,positive
+ML1610,MoodyLyrics4Q,Hatebreeder,Children of Bodom,,,,,,angry,negative
+ML1611,MoodyLyrics4Q,AGITATED SCREAMS OF MAGGOTS,DIR EN GREY,,,,,,angry,negative
+ML1612,MoodyLyrics4Q,Stay In The Shade,José González,,,,,,relaxed,positive
+ML1613,MoodyLyrics4Q,Star Bodies,The New Pornographers,,,,,,happy,positive
+ML1614,MoodyLyrics4Q,St. Swithin's Day,Dubstar,,,,,,relaxed,positive
+ML1615,MoodyLyrics4Q,Voodoo Lady,Ween,,,,,,happy,positive
+ML1616,MoodyLyrics4Q,Armchairs,Andrew Bird,,,,,,relaxed,positive
+ML1617,MoodyLyrics4Q,Fuck The Pain Away,Peaches,,,,,,happy,positive
+ML1618,MoodyLyrics4Q,Throw It Away,Delta Goodrem,,,,,,relaxed,positive
+ML1619,MoodyLyrics4Q,The Lovecats,The Cure,,,,,,happy,positive
+ML1620,MoodyLyrics4Q,The Beach,All Time Low,,,,,,happy,positive
+ML1621,MoodyLyrics4Q,San Geronimo,Red House Painters,,,,,,sad,negative
+ML1622,MoodyLyrics4Q,I Have Seen,Zero 7,,,,,,relaxed,positive
+ML1623,MoodyLyrics4Q,Free,Mazzy Star,,,,,,relaxed,positive
+ML1624,MoodyLyrics4Q,Powertrip,Monster Magnet,,,,,,angry,negative
+ML1625,MoodyLyrics4Q,Tales of the Future,Vangelis,,,,,,relaxed,positive
+ML1626,MoodyLyrics4Q,Burnt Reynolds,Crippled Black Phoenix,,,,,,sad,negative
+ML1627,MoodyLyrics4Q,Little Black Sandals,Sia,,,,,,relaxed,positive
+ML1628,MoodyLyrics4Q,Taking A Chance On Love,Renee Olstead,,,,,,relaxed,positive
+ML1629,MoodyLyrics4Q,Black God,My Dying Bride,,,,,,sad,negative
+ML1630,MoodyLyrics4Q,Dear Goodbye,JC Chasez,,,,,,sad,negative
+ML1631,MoodyLyrics4Q,You Will Miss Me When I Burn,Soulsavers,,,,,,sad,negative
+ML1632,MoodyLyrics4Q,Hold Tight,Goldfish,,,,,,happy,positive
+ML1633,MoodyLyrics4Q,Hospital,The Modern Lovers,,,,,,sad,negative
+ML1634,MoodyLyrics4Q,All I Really Want,Alanis Morissette,,,,,,angry,negative
+ML1635,MoodyLyrics4Q,Say Something,James,,,,,,sad,negative
+ML1636,MoodyLyrics4Q,Look For The Woman,Dan Le Sac vs Scroobius Pip,,,,,,sad,negative
+ML1637,MoodyLyrics4Q,I'll See You Now Now,The Constructus Corporation,,,,,,relaxed,positive
+ML1638,MoodyLyrics4Q,My Summer Vacation,Ice Cube,,,,,,angry,negative
+ML1639,MoodyLyrics4Q,I Am Only One,We Are The Fallen,,,,,,sad,negative
+ML1640,MoodyLyrics4Q,Mad World,Evergreen Terrace,,,,,,angry,negative
+ML1641,MoodyLyrics4Q,You Sexy Thing,Hot Chocolate,,,,,,happy,positive
+ML1642,MoodyLyrics4Q,The Rhythm,The Cat Empire,,,,,,happy,positive
+ML1643,MoodyLyrics4Q,On My Own,Ulrich Schnauss,,,,,,relaxed,positive
+ML1644,MoodyLyrics4Q,Tetragrammaton,The Mars Volta,,,,,,angry,negative
+ML1645,MoodyLyrics4Q,This Loneliness,El Perro del Mar,,,,,,sad,negative
+ML1646,MoodyLyrics4Q,Grandma's Feather Bed,John Denver,,,,,,happy,positive
+ML1647,MoodyLyrics4Q,Mama Said Knock You Out,LL Cool J,,,,,,angry,negative
+ML1648,MoodyLyrics4Q,Absolution,Gary Numan,,,,,,sad,negative
+ML1649,MoodyLyrics4Q,Qué Onda Guero,Beck,,,,,,happy,positive
+ML1650,MoodyLyrics4Q,Rock Steady,No Doubt,,,,,,relaxed,positive
+ML1651,MoodyLyrics4Q,Tombigbee,Tori Amos,,,,,,angry,negative
+ML1652,MoodyLyrics4Q,Handsome and Gretel,Babes In Toyland,,,,,,angry,negative
+ML1653,MoodyLyrics4Q,Permanent Tears,Eagle-Eye Cherry,,,,,,relaxed,positive
+ML1654,MoodyLyrics4Q,Born Addicted,No Use for a Name,,,,,,angry,negative
+ML1655,MoodyLyrics4Q,The 4th Branch,Immortal Technique,,,,,,angry,negative
+ML1656,MoodyLyrics4Q,On Your Porch (acoustic),The Format,,,,,,sad,negative
+ML1657,MoodyLyrics4Q,Nowhere Near,Tracey Thorn,,,,,,sad,negative
+ML1658,MoodyLyrics4Q,Papagenu (He's My Sassafrass),Tenacious D,,,,,,happy,positive
+ML1659,MoodyLyrics4Q,Ruiner,Nine Inch Nails,,,,,,angry,negative
+ML1660,MoodyLyrics4Q,Intolerance,Tool,,,,,,angry,negative
+ML1661,MoodyLyrics4Q,Que Maravilha,Jorge Ben,,,,,,relaxed,positive
+ML1662,MoodyLyrics4Q,Goodnite,Melody Gardot,,,,,,relaxed,positive
+ML1663,MoodyLyrics4Q,Who Am I,Will Young,,,,,,sad,negative
+ML1664,MoodyLyrics4Q,I Sit On Acid (Soulwax remix),Lords of Acid,,,,,,happy,positive
+ML1665,MoodyLyrics4Q,Broken,Norah Jones,,,,,,relaxed,positive
+ML1666,MoodyLyrics4Q,Sorry,Abra Moore,,,,,,relaxed,positive
+ML1667,MoodyLyrics4Q,Laughing Aloud,David Ford,,,,,,relaxed,positive
+ML1668,MoodyLyrics4Q,A-Z,Tracey Thorn,,,,,,sad,negative
+ML1669,MoodyLyrics4Q,Army Of Me,Björk,,,,,,angry,negative
+ML1670,MoodyLyrics4Q,In The Arms Of Perdition,Despised Icon,,,,,,angry,negative
+ML1671,MoodyLyrics4Q,Holes,Mercury Rev,,,,,,relaxed,positive
+ML1672,MoodyLyrics4Q,Every Kinda People,Robert Palmer,,,,,,relaxed,positive
+ML1673,MoodyLyrics4Q,Lady Godiva,Peter & Gordon,,,,,,happy,positive
+ML1674,MoodyLyrics4Q,Ready to Die,The Notorious B.I.G.,,,,,,angry,negative
+ML1675,MoodyLyrics4Q,Roulette Dares (The Haunt Of),The Mars Volta,,,,,,angry,negative
+ML1676,MoodyLyrics4Q,Groove Is In The Heart,Deee-Lite,,,,,,happy,positive
+ML1677,MoodyLyrics4Q,To Kill a King,Hungry Lucy,,,,,,relaxed,positive
+ML1678,MoodyLyrics4Q,I Kissed A Girl,Katy Perry,,,,,,happy,positive
+ML1679,MoodyLyrics4Q,Cold Cold Ground,Tom Waits,,,,,,sad,negative
+ML1680,MoodyLyrics4Q,What's the Deal,Supreme Beings of Leisure,,,,,,relaxed,positive
+ML1681,MoodyLyrics4Q,Future Shock,Curtis Mayfield,,,,,,angry,negative
+ML1682,MoodyLyrics4Q,What I Want,Daughtry,,,,,,angry,negative
+ML1683,MoodyLyrics4Q,Prince of Darkness,Megadeth,,,,,,angry,negative
+ML1684,MoodyLyrics4Q,Caught in a Wave,Junior Boys,,,,,,relaxed,positive
+ML1685,MoodyLyrics4Q,How Many Licks ,Lil' Kim,,,,,,happy,positive
+ML1686,MoodyLyrics4Q,I Drove All Night,Cyndi Lauper,,,,,,happy,positive
+ML1687,MoodyLyrics4Q,On My Mind,Donavon Frankenreiter,,,,,,relaxed,positive
+ML1688,MoodyLyrics4Q,Public Display Of Dismemberment,Slayer,,,,,,angry,negative
+ML1689,MoodyLyrics4Q,Mandatory Suicide,Slayer,,,,,,angry,negative
+ML1690,MoodyLyrics4Q,Teeth,Lady Gaga,,,,,,happy,positive
+ML1691,MoodyLyrics4Q,Who's Your Daddy?,Toby Keith,,,,,,happy,positive
+ML1692,MoodyLyrics4Q,Jimmy,M.I.A.,,,,,,happy,positive
+ML1693,MoodyLyrics4Q,Ever Fallen in Love?,Buzzcocks,,,,,,angry,negative
+ML1694,MoodyLyrics4Q,Guns of Navarone,The Specials,,,,,,happy,positive
+ML1695,MoodyLyrics4Q,Brave,Katatonia,,,,,,sad,negative
+ML1696,MoodyLyrics4Q,Carefree Highway,Gordon Lightfoot,,,,,,relaxed,positive
+ML1697,MoodyLyrics4Q,Edge Of The Ocean,Ivy,,,,,,relaxed,positive
+ML1698,MoodyLyrics4Q,The Old Revolution,Leonard Cohen,,,,,,sad,negative
+ML1699,MoodyLyrics4Q,Shesmovedon,Porcupine Tree,,,,,,sad,negative
+ML1700,MoodyLyrics4Q,Fuck the World,Tupac Shakur,,,,,,angry,negative
+ML1701,MoodyLyrics4Q,Heart Of Stone,The Rolling Stones,,,,,,sad,negative
+ML1702,MoodyLyrics4Q,Easy Money,Rickie Lee Jones,,,,,,relaxed,positive
+ML1703,MoodyLyrics4Q,Step Up,Drowning Pool,,,,,,angry,negative
+ML1704,MoodyLyrics4Q,Bullet In The Head,Rage Against the Machine,,,,,,angry,negative
+ML1705,MoodyLyrics4Q,The Pretender,Foo Fighters,,,,,,angry,negative
+ML1706,MoodyLyrics4Q,Lurad,Björn Rosenström,,,,,,happy,positive
+ML1707,MoodyLyrics4Q,Sing Songs Along,Tilly and the Wall,,,,,,happy,positive
+ML1708,MoodyLyrics4Q,You Can't Stop Me,Guano Apes,,,,,,angry,negative
+ML1709,MoodyLyrics4Q,He Was A Friend Of Mine,The Byrds,,,,,,sad,negative
+ML1710,MoodyLyrics4Q,Fa Cé-La,Feelies,,,,,,angry,negative
+ML1711,MoodyLyrics4Q,I Still Love You,Kiss,,,,,,sad,negative
+ML1712,MoodyLyrics4Q,Centerfold,The J. Geils Band,,,,,,happy,positive
+ML1713,MoodyLyrics4Q,Måndagsbarn,Veronica Maggio,,,,,,happy,positive
+ML1714,MoodyLyrics4Q,Clean Town,Mando Diao,,,,,,happy,positive
+ML1715,MoodyLyrics4Q,Uptown Girl,Westlife,,,,,,happy,positive
+ML1716,MoodyLyrics4Q,Only Twin,Oceansize,,,,,,sad,negative
+ML1717,MoodyLyrics4Q,Sections,God Module,,,,,,sad,negative
+ML1718,MoodyLyrics4Q,You Alone,Dawn Landes,,,,,,sad,negative
+ML1719,MoodyLyrics4Q,Everything I Build,The Stills,,,,,,sad,negative
+ML1720,MoodyLyrics4Q,Angel Flying Too Close To The Ground,Beth Rowley,,,,,,sad,negative
+ML1721,MoodyLyrics4Q,Terrapin,Syd Barrett,,,,,,relaxed,positive
+ML1722,MoodyLyrics4Q,Man That You Fear,Marilyn Manson,,,,,,angry,negative
+ML1723,MoodyLyrics4Q,Wake the Dead,Alice Cooper,,,,,,angry,negative
+ML1724,MoodyLyrics4Q,Overt Enemy,Slayer,,,,,,angry,negative
+ML1725,MoodyLyrics4Q,Death Valley Nights,Blue Öyster Cult,,,,,,sad,negative
+ML1726,MoodyLyrics4Q,Who Put The Bomp ,Barry Mann,,,,,,happy,positive
+ML1727,MoodyLyrics4Q,My Backwards Walk,Frightened Rabbit,,,,,,sad,negative
+ML1728,MoodyLyrics4Q,Fear of the moment,Destruction,,,,,,angry,negative
+ML1729,MoodyLyrics4Q,Filthy Little Secret,Cradle of Filth,,,,,,angry,negative
+ML1730,MoodyLyrics4Q,Born in the USA,Bruce Springsteen,,,,,,angry,negative
+ML1731,MoodyLyrics4Q,Fell Down the Stairs,Tilly and the Wall,,,,,,happy,positive
+ML1732,MoodyLyrics4Q,Suicide Nation,At the Gates,,,,,,angry,negative
+ML1733,MoodyLyrics4Q,Fade Away,Seether,,,,,,sad,negative
+ML1734,MoodyLyrics4Q,What I've Become,Lamb of God,,,,,,angry,negative
+ML1735,MoodyLyrics4Q,Murder The Government,NOFX,,,,,,angry,negative
+ML1736,MoodyLyrics4Q,I'm Still In Love With You,Al Green,,,,,,relaxed,positive
+ML1737,MoodyLyrics4Q,No More Sorry,My Bloody Valentine,,,,,,sad,negative
+ML1738,MoodyLyrics4Q,Mutter,Rammstein,,,,,,sad,negative
+ML1739,MoodyLyrics4Q,Running The World,Jarvis Cocker,,,,,,angry,negative
+ML1740,MoodyLyrics4Q,Hate Worldwide,Slayer,,,,,,angry,negative
+ML1741,MoodyLyrics4Q,Foreclosure of a Dream,Megadeth,,,,,,angry,negative
+ML1742,MoodyLyrics4Q,Vira-Vira,Mamonas Assassinas,,,,,,happy,positive
+ML1743,MoodyLyrics4Q,Can't Stand Losing You,Police,,,,,,angry,negative
+ML1744,MoodyLyrics4Q,Dream Come True,The Brand New Heavies,,,,,,happy,positive
+ML1745,MoodyLyrics4Q,Adrift,Jack Johnson,,,,,,relaxed,positive
+ML1746,MoodyLyrics4Q,Seven,Megadeth,,,,,,angry,negative
+ML1747,MoodyLyrics4Q,Unbroken,Killswitch Engage,,,,,,angry,negative
+ML1748,MoodyLyrics4Q,Callas Went Away,Enigma,,,,,,relaxed,positive
+ML1749,MoodyLyrics4Q,Timothy,As Cities Burn,,,,,,sad,negative
+ML1750,MoodyLyrics4Q,Leaders,Katatonia,,,,,,sad,negative
+ML1751,MoodyLyrics4Q,In The Privacy Of Our Love,Hot Chip,,,,,,relaxed,positive
+ML1752,MoodyLyrics4Q,Vanilla Ice Cream,Stephen Lynch,,,,,,happy,positive
+ML1753,MoodyLyrics4Q,Amid the Falling Snow,Enya,,,,,,relaxed,positive
+ML1754,MoodyLyrics4Q,Wunderbar,Tenpole Tudor,,,,,,happy,positive
+ML1755,MoodyLyrics4Q,There's a Pot a Brewin',The Little Ones,,,,,,happy,positive
+ML1756,MoodyLyrics4Q,Aika Multaa Muistot (everything Is Nothing),Sentenced,,,,,,sad,negative
+ML1757,MoodyLyrics4Q,There Is A Wind,The Album Leaf,,,,,,relaxed,positive
+ML1758,MoodyLyrics4Q,I'm a Broken Heart,The Bird And The Bee,,,,,,sad,negative
+ML1759,MoodyLyrics4Q,Run to the Hills,Hellsongs,,,,,,relaxed,positive
+ML1760,MoodyLyrics4Q,Peanut Dreams,Grand National,,,,,,relaxed,positive
+ML1761,MoodyLyrics4Q,Live Undead,Slayer,,,,,,angry,negative
+ML1762,MoodyLyrics4Q,Chega De Saudade,Eliane Elias,,,,,,relaxed,positive
+ML1763,MoodyLyrics4Q,My Heartstrings Come Undone,Demon Hunter,,,,,,sad,negative
+ML1764,MoodyLyrics4Q,Elembivos,Eluveitie,,,,,,sad,negative
+ML1765,MoodyLyrics4Q,Flash,Queen,,,,,,happy,positive
+ML1766,MoodyLyrics4Q,Tear The World Down,We Are The Fallen,,,,,,sad,negative
+ML1767,MoodyLyrics4Q,Nepenthe,Sentenced,,,,,,sad,negative
+ML1768,MoodyLyrics4Q,Big Deal,LeAnn Rimes,,,,,,angry,negative
+ML1769,MoodyLyrics4Q,McFearless,Kings of Leon,,,,,,angry,negative
+ML1770,MoodyLyrics4Q,You Can't Steal My Love,Mando Diao,,,,,,happy,positive
+ML1771,MoodyLyrics4Q,To Be Surprised,Sondre Lerche,,,,,,happy,positive
+ML1772,MoodyLyrics4Q,Proposition 61,The Most Serene Republic,,,,,,relaxed,positive
+ML1773,MoodyLyrics4Q,Too Dead for Me,Atari Teenage Riot,,,,,,angry,negative
+ML1774,MoodyLyrics4Q,Johnny Came Home Headless,The Arrogant Worms,,,,,,happy,positive
+ML1775,MoodyLyrics4Q,New Jack Hustler,Ice T,,,,,,angry,negative
+ML1776,MoodyLyrics4Q,And With Her Came The Birds,Cult of Luna,,,,,,sad,negative
+ML1777,MoodyLyrics4Q,鼓動,DIR EN GREY,,,,,,sad,negative
+ML1778,MoodyLyrics4Q,Dismantle.Repair.,Anberlin,,,,,,sad,negative
+ML1779,MoodyLyrics4Q,Change,Lisa Stansfield,,,,,,happy,positive
+ML1780,MoodyLyrics4Q,Lonely,Yael Naïm,,,,,,sad,negative
+ML1781,MoodyLyrics4Q,Rosary,Marissa Nadler,,,,,,sad,negative
+ML1782,MoodyLyrics4Q,Will There Be Enough Water?,The Dead Weather,,,,,,sad,negative
+ML1783,MoodyLyrics4Q,I Did It,Dave Matthews Band,,,,,,relaxed,positive
+ML1784,MoodyLyrics4Q,Superheroes,You Love Her Coz She's Dead,,,,,,angry,negative
+ML1785,MoodyLyrics4Q,Virginia Moon,Foo Fighters,,,,,,relaxed,positive
+ML1786,MoodyLyrics4Q,Party Weirdo,Moloko,,,,,,happy,positive
+ML1787,MoodyLyrics4Q,It Ends With a Fall,Okkervil River,,,,,,sad,negative
+ML1788,MoodyLyrics4Q,Kasa No Hone (the umbrella's bones),Anathallo,,,,,,relaxed,positive
+ML1789,MoodyLyrics4Q,Red Turned White,Architecture in Helsinki,,,,,,happy,positive
+ML1790,MoodyLyrics4Q,Incipit satan,Gorgoroth,,,,,,angry,negative
+ML1791,MoodyLyrics4Q,For Your Lover Give Some Time,Richard Hawley,,,,,,sad,negative
+ML1792,MoodyLyrics4Q,Disintegration,Jimmy Eat World,,,,,,sad,negative
+ML1793,MoodyLyrics4Q,Entropy,Moxy Früvous,,,,,,happy,positive
+ML1794,MoodyLyrics4Q,The Confidential Agent,American Music Club,,,,,,sad,negative
+ML1795,MoodyLyrics4Q,Memory Lane,Minnie Riperton,,,,,,relaxed,positive
+ML1796,MoodyLyrics4Q,One Perfect Lie,Gary Numan,,,,,,sad,negative
+ML1797,MoodyLyrics4Q,Take A Chance On Me,Abba,,,,,,happy,positive
+ML1798,MoodyLyrics4Q,Eifersucht,Rammstein,,,,,,angry,negative
+ML1799,MoodyLyrics4Q,Things I Miss The Most,Steely Dan,,,,,,relaxed,positive
+ML1800,MoodyLyrics4Q,Walk with An Erection,J.B.O.,,,,,,happy,positive
+ML1801,MoodyLyrics4Q,Winter Lady,Leonard Cohen,,,,,,sad,negative
+ML1802,MoodyLyrics4Q,Vattupuskassa,Zen Café,,,,,,sad,negative
+ML1803,MoodyLyrics4Q,Chicken Fried,Zac Brown Band,,,,,,happy,positive
+ML1804,MoodyLyrics4Q,Gritty Shaker,David Holmes,,,,,,happy,positive
+ML1805,MoodyLyrics4Q,Ohne dich,Rammstein,,,,,,sad,negative
+ML1806,MoodyLyrics4Q,Lou Reed,The Little Willies,,,,,,happy,positive
+ML1807,MoodyLyrics4Q,New Millennium Homes,Rage Against the Machine,,,,,,angry,negative
+ML1808,MoodyLyrics4Q,The Longest Year,Katatonia,,,,,,sad,negative
+ML1809,MoodyLyrics4Q,Where Would I Be?,Cake,,,,,,sad,negative
+ML1810,MoodyLyrics4Q,Black & Blue,Chris Garneau,,,,,,sad,negative
+ML1811,MoodyLyrics4Q,Like Whoa,Aly & AJ,,,,,,happy,positive
+ML1812,MoodyLyrics4Q,Wichita Skyline,Shawn Colvin,,,,,,relaxed,positive
+ML1813,MoodyLyrics4Q,I Need You,Eurythmics,,,,,,sad,negative
+ML1814,MoodyLyrics4Q,Lump,The Presidents of the United States of America,,,,,,happy,positive
+ML1815,MoodyLyrics4Q,Can't Have It All,Sophie Ellis-Bextor,,,,,,sad,negative
+ML1816,MoodyLyrics4Q,Ghosts of War,Slayer,,,,,,angry,negative
+ML1817,MoodyLyrics4Q,What Hurts The Most,Cascada,,,,,,happy,positive
+ML1818,MoodyLyrics4Q,Stepfather Factory,El-P,,,,,,sad,negative
+ML1819,MoodyLyrics4Q,Anxiety,Black Eyed Peas,,,,,,angry,negative
+ML1820,MoodyLyrics4Q,Rest My Chemistry,Interpol,,,,,,sad,negative
+ML1821,MoodyLyrics4Q,Little Things,India.Arie,,,,,,relaxed,positive
+ML1822,MoodyLyrics4Q,Don't Fall Asleep (Horror Pt. 2),Swallow The Sun,,,,,,sad,negative
+ML1823,MoodyLyrics4Q,A Night in Fairyland,Narsilion,,,,,,relaxed,positive
+ML1824,MoodyLyrics4Q,Girl,Sibylle Baier,,,,,,relaxed,positive
+ML1825,MoodyLyrics4Q,Endangered Species (Tales From the Darkside),Ice Cube,,,,,,angry,negative
+ML1826,MoodyLyrics4Q,I Am Ahab,Mastodon,,,,,,angry,negative
+ML1827,MoodyLyrics4Q,That Lucky Old Sun ,Louis Armstrong,,,,,,relaxed,positive
+ML1828,MoodyLyrics4Q,Wheels,Cake,,,,,,happy,positive
+ML1829,MoodyLyrics4Q,Fireworks,Carpark North,,,,,,sad,negative
+ML1830,MoodyLyrics4Q,Afraid,David Bowie,,,,,,sad,negative
+ML1831,MoodyLyrics4Q,Fightin' Over Me ,Paris Hilton,,,,,,happy,positive
+ML1832,MoodyLyrics4Q,What Difference Does It Make?,The Smiths,,,,,,sad,negative
+ML1833,MoodyLyrics4Q,Jealous Again,Black Flag,,,,,,angry,negative
+ML1834,MoodyLyrics4Q,Victims,The Oppressed,,,,,,angry,negative
+ML1835,MoodyLyrics4Q,Sunday Sunday,Blur,,,,,,happy,positive
+ML1836,MoodyLyrics4Q,So Fine,Telepathe,,,,,,happy,positive
+ML1837,MoodyLyrics4Q,How Can I Tell You,Cat Stevens,,,,,,relaxed,positive
+ML1838,MoodyLyrics4Q,What's Going On,A Perfect Circle,,,,,,relaxed,positive
+ML1839,MoodyLyrics4Q,Situations,Jack Johnson,,,,,,relaxed,positive
+ML1840,MoodyLyrics4Q,Stormy Monday,The Allman Brothers Band,,,,,,relaxed,positive
+ML1841,MoodyLyrics4Q,Do It Clean,Echo & the Bunnymen,,,,,,angry,negative
+ML1842,MoodyLyrics4Q,Those Old Black and White Movies Were True,Eugene McGuinness,,,,,,relaxed,positive
+ML1843,MoodyLyrics4Q,New Day,Patti LaBelle,,,,,,relaxed,positive
+ML1844,MoodyLyrics4Q,Rumpus,Karen O and the Kids,,,,,,happy,positive
+ML1845,MoodyLyrics4Q,Never Fade Away,John O'Callaghan,,,,,,relaxed,positive
+ML1846,MoodyLyrics4Q,Tomber La Chemise,Zebda,,,,,,happy,positive
+ML1847,MoodyLyrics4Q,Ameno,ERA,,,,,,relaxed,positive
+ML1848,MoodyLyrics4Q,This Sweet Love,James Yuill,,,,,,relaxed,positive
+ML1849,MoodyLyrics4Q,I Wanna Have Your Babies,Natasha Bedingfield,,,,,,happy,positive
+ML1850,MoodyLyrics4Q,Rice & Curry,Dr. Bombay,,,,,,happy,positive
+ML1851,MoodyLyrics4Q,In My Eyes,Rage Against the Machine,,,,,,angry,negative
+ML1852,MoodyLyrics4Q,Dig It,Dirty Sanchez,,,,,,happy,positive
+ML1853,MoodyLyrics4Q,My Story,Jean Grae,,,,,,sad,negative
+ML1854,MoodyLyrics4Q,Inertiatic Esp,The Mars Volta,,,,,,angry,negative
+ML1855,MoodyLyrics4Q,Song of the Viking,Todd Rundgren,,,,,,happy,positive
+ML1856,MoodyLyrics4Q,Bang The Drum All Day,Todd Rundgren,,,,,,happy,positive
+ML1857,MoodyLyrics4Q,Serenade of The Last Wolf,Hagalaz' Runedance,,,,,,sad,negative
+ML1858,MoodyLyrics4Q,One-Way Ticket to Pluto,Dead Kennedys,,,,,,angry,negative
+ML1859,MoodyLyrics4Q,Merrymaking At My Place,Calvin Harris,,,,,,happy,positive
+ML1860,MoodyLyrics4Q,Whitey On The Moon,Gil Scott-Heron,,,,,,angry,negative
+ML1861,MoodyLyrics4Q,Consfearacy,Slayer,,,,,,angry,negative
+ML1862,MoodyLyrics4Q,Going Steady,Death From Above 1979,,,,,,happy,positive
+ML1863,MoodyLyrics4Q,Come Together,Macy Gray,,,,,,relaxed,positive
+ML1864,MoodyLyrics4Q,Sex Boy (Live),The Germs,,,,,,angry,negative
+ML1865,MoodyLyrics4Q,All This and More,Procol Harum,,,,,,sad,negative
+ML1866,MoodyLyrics4Q,Walk Away,Aloha From Hell,,,,,,sad,negative
+ML1867,MoodyLyrics4Q,Beautiful Sunday,Daniel Boone,,,,,,happy,positive
+ML1868,MoodyLyrics4Q,Trigger Happy,"""Weird Al"" Yankovic",,,,,,happy,positive
+ML1869,MoodyLyrics4Q,Barreling Towards Nowhere Like There's No Tomorrow,Rivulets,,,,,,sad,negative
+ML1870,MoodyLyrics4Q,The accident,iLiKETRAiNS,,,,,,sad,negative
+ML1871,MoodyLyrics4Q,Silver,Jesu,,,,,,sad,negative
+ML1872,MoodyLyrics4Q,Apollo 9,Adam Ant,,,,,,happy,positive
+ML1873,MoodyLyrics4Q,Fools,Rachel Stevens,,,,,,happy,positive
+ML1874,MoodyLyrics4Q,Lintu,Timo Rautiainen & Trio Niskalaukaus,,,,,,sad,negative
+ML1875,MoodyLyrics4Q,Slayer Of Light,Ensiferum,,,,,,angry,negative
+ML1876,MoodyLyrics4Q,My Friends,Maximilian Hecker,,,,,,sad,negative
+ML1877,MoodyLyrics4Q,Symphonie,Silbermond,,,,,,sad,negative
+ML1878,MoodyLyrics4Q,Bad Devil,Devin Townsend,,,,,,angry,negative
+ML1879,MoodyLyrics4Q,Old Song,Max Richter,,,,,,relaxed,positive
+ML1880,MoodyLyrics4Q,Suddenly,Black Rebel Motorcycle Club,,,,,,sad,negative
+ML1881,MoodyLyrics4Q,Yes Please,Muse,,,,,,angry,negative
+ML1882,MoodyLyrics4Q,Filthy/Gorgeous,Scissor Sisters,,,,,,happy,positive
+ML1883,MoodyLyrics4Q,Something I Can Never Have,Nine Inch Nails,,,,,,sad,negative
+ML1884,MoodyLyrics4Q,Summer Days in Bloom,Maximilian Hecker,,,,,,relaxed,positive
+ML1885,MoodyLyrics4Q,Cocktails For Two,Spike Jones & His City Slickers,,,,,,happy,positive
+ML1886,MoodyLyrics4Q,Blow It Out,Ludacris,,,,,,angry,negative
+ML1887,MoodyLyrics4Q,Gitan,Garou,,,,,,happy,positive
+ML1888,MoodyLyrics4Q,By The Mark,Gillian Welch,,,,,,relaxed,positive
+ML1889,MoodyLyrics4Q,Lazy Days,Leona Naess,,,,,,relaxed,positive
+ML1890,MoodyLyrics4Q,La Verdad,Juana Molina,,,,,,relaxed,positive
+ML1891,MoodyLyrics4Q,Rock This Town,Stray Cats,,,,,,happy,positive
+ML1892,MoodyLyrics4Q,One Last Time,The Kooks,,,,,,sad,negative
+ML1893,MoodyLyrics4Q,No Place To Fall,Isobel Campbell & Mark Lanegan,,,,,,sad,negative
+ML1894,MoodyLyrics4Q,Cherry Blossom Girl (Radio Mix),Air,,,,,,relaxed,positive
+ML1895,MoodyLyrics4Q,Warhead,Venom,,,,,,angry,negative
+ML1896,MoodyLyrics4Q,The Cask Of Amontillado,The Alan Parsons Project,,,,,,sad,negative
+ML1897,MoodyLyrics4Q,Wild Thing,Tone-Lōc,,,,,,happy,positive
+ML1898,MoodyLyrics4Q,What Was I Thinkin',Dierks Bentley,,,,,,happy,positive
+ML1899,MoodyLyrics4Q,Missing My Baby,G. Love,,,,,,relaxed,positive
+ML1900,MoodyLyrics4Q,Hurt,Christina Aguilera,,,,,,angry,negative
+ML1901,MoodyLyrics4Q,T.V. Eye,The Stooges,,,,,,angry,negative
+ML1902,MoodyLyrics4Q,The View From the Afternoon,Arctic Monkeys,,,,,,happy,positive
+ML1903,MoodyLyrics4Q,Be Somebody,3 Doors Down,,,,,,sad,negative
+ML1904,MoodyLyrics4Q,Sweet Troubled Soul,stellastarr*,,,,,,happy,positive
+ML1905,MoodyLyrics4Q,Carry Me Ohio,Sun Kil Moon,,,,,,sad,negative
+ML1906,MoodyLyrics4Q,You Make Me Feel (Mighty Real),Sylvester,,,,,,happy,positive
+ML1907,MoodyLyrics4Q,Orange Skies,Love,,,,,,relaxed,positive
+ML1908,MoodyLyrics4Q,Portrait Of A Cynic,Diary of Dreams,,,,,,sad,negative
+ML1909,MoodyLyrics4Q,Professional Widow,Tori Amos,,,,,,angry,negative
+ML1910,MoodyLyrics4Q,Marrakech,ATB,,,,,,relaxed,positive
+ML1911,MoodyLyrics4Q,Soul Meets Body (Rolling Stone Original),Death Cab For Cutie,,,,,,relaxed,positive
+ML1912,MoodyLyrics4Q,Ghosts Of War,Slayer,,,,,,angry,negative
+ML1913,MoodyLyrics4Q,Inferno,Lunascape,,,,,,relaxed,positive
+ML1914,MoodyLyrics4Q,The Truth,India.Arie,,,,,,relaxed,positive
+ML1915,MoodyLyrics4Q,April 8th,Neutral Milk Hotel,,,,,,sad,negative
+ML1916,MoodyLyrics4Q,The Other,Isis,,,,,,sad,negative
+ML1917,MoodyLyrics4Q,Heir Apparent,Opeth,,,,,,angry,negative
+ML1918,MoodyLyrics4Q,The Face of Oblivion,High On Fire,,,,,,angry,negative
+ML1919,MoodyLyrics4Q,Bumpy Ride,Mohombi,,,,,,happy,positive
+ML1920,MoodyLyrics4Q,Find A Way,Dwele,,,,,,relaxed,positive
+ML1921,MoodyLyrics4Q,What'd I Say,Ray Charles,,,,,,happy,positive
+ML1922,MoodyLyrics4Q,Home,Above & Beyond,,,,,,relaxed,positive
+ML1923,MoodyLyrics4Q,Misery Machine,Marilyn Manson,,,,,,angry,negative
+ML1924,MoodyLyrics4Q,Arms Against Atrophy,Titus Andronicus,,,,,,angry,negative
+ML1925,MoodyLyrics4Q,Fighting for a Lost Cause,Antimatter,,,,,,sad,negative
+ML1926,MoodyLyrics4Q,San Andreas Fault (Remastered LP Version),Natalie Merchant,,,,,,sad,negative
+ML1927,MoodyLyrics4Q,Öppna Upp Ditt Fönster,Lisa Ekdahl,,,,,,happy,positive
+ML1928,MoodyLyrics4Q,Take Good Care,Liv Kristine,,,,,,relaxed,positive
+ML1929,MoodyLyrics4Q,Brick,Ben Folds Five,,,,,,sad,negative
+ML1930,MoodyLyrics4Q,Monkey Man,Amy Winehouse,,,,,,happy,positive
+ML1931,MoodyLyrics4Q,Photograph,Air,,,,,,relaxed,positive
+ML1932,MoodyLyrics4Q,GRIEF,DIR EN GREY,,,,,,angry,negative
+ML1933,MoodyLyrics4Q,Animal,Pearl Jam,,,,,,angry,negative
+ML1934,MoodyLyrics4Q,This House Is Not For Sale,Ryan Adams,,,,,,relaxed,positive
+ML1935,MoodyLyrics4Q,Father Time,Lloyd Banks,,,,,,angry,negative
+ML1936,MoodyLyrics4Q,You're The One,SWV,,,,,,happy,positive
+ML1937,MoodyLyrics4Q,Oh Girl,Cut Off Your Hands,,,,,,happy,positive
+ML1938,MoodyLyrics4Q,Together We're Both Alone,Nicole Atkins,,,,,,relaxed,positive
+ML1939,MoodyLyrics4Q,Houses of Cards,Zeromancer,,,,,,sad,negative
+ML1940,MoodyLyrics4Q,The Things I Tell You,Biosphere,,,,,,relaxed,positive
+ML1941,MoodyLyrics4Q,The Saddest Song,Until June,,,,,,sad,negative
+ML1942,MoodyLyrics4Q,Hard Rock Hallelujah,Lordi,,,,,,happy,positive
+ML1943,MoodyLyrics4Q,40 Day Dream,Edward Sharpe & the Magnetic Zeros,,,,,,happy,positive
+ML1944,MoodyLyrics4Q,Sun Goes Down,David Jordan,,,,,,happy,positive
+ML1945,MoodyLyrics4Q,Ghost In this House,Shenandoah,,,,,,sad,negative
+ML1946,MoodyLyrics4Q,Blueprints of hate,Dew-Scented,,,,,,angry,negative
+ML1947,MoodyLyrics4Q,Bad Medicine,Bon Jovi,,,,,,happy,positive
+ML1948,MoodyLyrics4Q,Squeeze-Wax,Cocteau Twins,,,,,,relaxed,positive
+ML1949,MoodyLyrics4Q,Far Away,Anathema,,,,,,sad,negative
+ML1950,MoodyLyrics4Q,Sunday Morning,The Velvet Underground,,,,,,relaxed,positive
+ML1951,MoodyLyrics4Q,Try A Little Tenderness,David Sanborn,,,,,,relaxed,positive
+ML1952,MoodyLyrics4Q,This Love Affair,Rufus Wainwright,,,,,,sad,negative
+ML1953,MoodyLyrics4Q,Ich trau mich nicht,Bodo Wartke,,,,,,happy,positive
+ML1954,MoodyLyrics4Q,The Way We Talk,The Maine,,,,,,happy,positive
+ML1955,MoodyLyrics4Q,A Wink and a Smile,"Harry Connick, Jr.",,,,,,relaxed,positive
+ML1956,MoodyLyrics4Q,Numbness For Sound,Howie Day,,,,,,sad,negative
+ML1957,MoodyLyrics4Q,Ghost in This House,Alison Krauss,,,,,,sad,negative
+ML1958,MoodyLyrics4Q,Love Comes in Spurts,Richard Hell & the Voidoids,,,,,,angry,negative
+ML1959,MoodyLyrics4Q,Thinking Over,Dana Glover,,,,,,relaxed,positive
+ML1960,MoodyLyrics4Q,I Keed (Album Version),Triumph the Insult Comic Dog,,,,,,happy,positive
+ML1961,MoodyLyrics4Q,Short Skirt/Long Jacket,Cake,,,,,,happy,positive
+ML1962,MoodyLyrics4Q,Vampires,Godsmack,,,,,,angry,negative
+ML1963,MoodyLyrics4Q,These Are The Days,Jamie Cullum,,,,,,relaxed,positive
+ML1964,MoodyLyrics4Q,(Sic),Slipknot,,,,,,angry,negative
+ML1965,MoodyLyrics4Q,The Foetus of a New Day Kicking,Cradle of Filth,,,,,,angry,negative
+ML1966,MoodyLyrics4Q,Water Curses,Animal Collective,,,,,,happy,positive
+ML1967,MoodyLyrics4Q,She,Groove Coverage,,,,,,happy,positive
+ML1968,MoodyLyrics4Q,Sgt. Hetfield's Motorbreath Pub Band,Beatallica,,,,,,happy,positive
+ML1969,MoodyLyrics4Q,Lose Yourself,Eminem,,,,,,angry,negative
+ML1970,MoodyLyrics4Q,Two Seconds in Life,Green Carnation,,,,,,sad,negative
+ML1971,MoodyLyrics4Q,Kinky Afro,Happy Mondays,,,,,,happy,positive
+ML1972,MoodyLyrics4Q,Polkas On 45,"""Weird Al"" Yankovic",,,,,,happy,positive
+ML1973,MoodyLyrics4Q,"No, You Don't",Nine Inch Nails,,,,,,angry,negative
+ML1974,MoodyLyrics4Q,Fire,The Crazy World of Arthur Brown,,,,,,angry,negative
+ML1975,MoodyLyrics4Q,Me Enamora,Juanes,,,,,,happy,positive
+ML1976,MoodyLyrics4Q,Moon River,R.E.M.,,,,,,sad,negative
+ML1977,MoodyLyrics4Q,Dope Fiend,Acid Bath,,,,,,angry,negative
+ML1978,MoodyLyrics4Q,Little Tiny Moustache,Stephen Lynch,,,,,,happy,positive
+ML1979,MoodyLyrics4Q,Satan Your Kingdom Must Come Down,Robert Plant,,,,,,relaxed,positive
+ML1980,MoodyLyrics4Q,Saturday,Chris Garneau,,,,,,sad,negative
+ML1981,MoodyLyrics4Q,Evacuee,Enya,,,,,,relaxed,positive
+ML1982,MoodyLyrics4Q,Disco Heat,Calvin Harris,,,,,,happy,positive
+ML1983,MoodyLyrics4Q,Man-Size,PJ Harvey,,,,,,angry,negative
+ML1984,MoodyLyrics4Q,All The Beauty,Mortal Love,,,,,,sad,negative
+ML1985,MoodyLyrics4Q,If You Can't Say No,Lenny Kravitz,,,,,,relaxed,positive
+ML1986,MoodyLyrics4Q,Moon River,Jane Monheit,,,,,,relaxed,positive
+ML1987,MoodyLyrics4Q,Future Boy,Turin Brakes,,,,,,relaxed,positive
+ML1988,MoodyLyrics4Q,World Painted Blood,Slayer,,,,,,angry,negative
+ML1989,MoodyLyrics4Q,Inflikted,Cavalera Conspiracy,,,,,,angry,negative
+ML1990,MoodyLyrics4Q,Gave It All Away,Boyzone,,,,,,sad,negative
+ML1991,MoodyLyrics4Q,Eat You Alive,Limp Bizkit,,,,,,angry,negative
+ML1992,MoodyLyrics4Q,No Submission,Static-X,,,,,,angry,negative
+ML1993,MoodyLyrics4Q,Gallows Hymn,Primordial,,,,,,sad,negative
+ML1994,MoodyLyrics4Q,Violent World,Misfits,,,,,,angry,negative
+ML1995,MoodyLyrics4Q,I Don't Need No Doctor,W.A.S.P.,,,,,,angry,negative
+ML1996,MoodyLyrics4Q,If It Means a Lot to You,A Day To Remember,,,,,,sad,negative
+ML1997,MoodyLyrics4Q,"Beautiful, Loved and Blessed",Prince,,,,,,relaxed,positive
+ML1998,MoodyLyrics4Q,The Game,Deine Lakaien,,,,,,sad,negative
+ML1999,MoodyLyrics4Q,Talking Bout My Baby,Fatboy Slim,,,,,,happy,positive
+ML2000,MoodyLyrics4Q,All Around The World (Punk Debutante),Cooler Kids,,,,,,happy,positive
